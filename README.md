@@ -1,6 +1,6 @@
 # Marie's Recipe Collection
 
-A curated collection of tested recipes, organized and formatted for easy access.
+A curated collection of tried and true favorite recipes, organized and formatted for easy access.
 
 **[Open the Recipe Webapp](https://thecyberleader.github.io/recipes/)** — Adjust servings, build shopping lists, and view nutrition info.
 
