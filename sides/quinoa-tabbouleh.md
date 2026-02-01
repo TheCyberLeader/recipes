@@ -1,4 +1,4 @@
-# Quinoa Tabbouleh - Edy Massih
+# Quinoa Tabbouleh
 
 **Serves:** 2 | **Prep Time:** 15 min | **Cook Time:** 15 min (quinoa)
 
