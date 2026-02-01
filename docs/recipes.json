@@ -1,0 +1,4070 @@
+[
+  {
+    "slug": "chicken-kabobs",
+    "title": "Juicy Marinated Chicken Kabobs",
+    "category": "chicken",
+    "servings": 2,
+    "description": "Perfectly grilled chicken kabobs with a sweet and tangy marinade featuring grapefruit, soy sauce, and fresh ginger. The vegetables get perfectly charred while the chicken stays juicy.",
+    "meta": "Serves: 2 | Prep Time: 1 hr (marinating) | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "pounds",
+        "name": "boneless skinless chicken breast or chicken thighs",
+        "original": "2 pounds boneless skinless chicken breast or chicken thighs"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "grapefruit soda or lemon lime",
+        "original": "1 cup grapefruit soda or lemon lime"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup soy sauce",
+        "original": "1/4 cup soy sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "original": "1 tablespoon sesame oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup brown sugar",
+        "original": "1/4 cup brown sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "prepared horseradish",
+        "original": "1 tablespoon prepared horseradish"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "minced garlic",
+        "original": "1 tablespoon minced garlic"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "grated ginger",
+        "original": "1 tablespoon grated ginger"
+      },
+      {
+        "quantity": 1,
+        "unit": "medium",
+        "name": "zucchini sliced into 1/4-inch coins",
+        "original": "1 medium zucchini sliced into 1/4-inch coins"
+      },
+      {
+        "quantity": 1,
+        "unit": "medium",
+        "name": "red bell pepper cut into 1-inch chunks",
+        "original": "1 medium red bell pepper cut into 1-inch chunks"
+      },
+      {
+        "quantity": 1,
+        "unit": "medium",
+        "name": "green bell pepper cut into 1-inch chunks",
+        "original": "1 medium green bell pepper cut into 1-inch chunks"
+      },
+      {
+        "quantity": 1,
+        "unit": "medium",
+        "name": "red onion cut into 1-inch chunks",
+        "original": "1 medium red onion cut into 1-inch chunks"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "vegetable oil",
+        "original": "1 tablespoon vegetable oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon garlic powder",
+        "original": "1/2 teaspoon garlic powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon onion powder",
+        "original": "1/2 teaspoon onion powder"
+      }
+    ],
+    "instructions": [
+      "Cut 2 pounds boneless skinless chicken breast into 1 1/2 inch cubes. Place chicken breast pieces in a gallon-size resealable plastic bag. Pour in 1 cup grapefruit soda, 1/4 cup soy sauce, 1 tablespoon sesame oil, 1/4 cup brown sugar, 1 tablespoon prepared horseradish, 1 tablespoon minced garlic, and 1 tablespoon grated ginger. Gently massage the bag to combine all of the ingredients and make sure all of the chicken pieces are coated.",
+      "Refrigerate and let marinate at least 1 hour and up to 4 hours.",
+      "Soak wooden skewers in water for at least 30 minutes before use or use metal skewers.",
+      "Prepared the vegetables by slicing 1 medium zucchini into 1/4-inch coins, and cut 1 medium red bell pepper, 1 medium green bell pepper, and 1 medium red onion into 1-inch chunks. Transfer to a large mixing bowl and toss with 1 tablespoon vegetable oil, 1/2 teaspoon garlic powder, and 1/2 teaspoon onion powder to coat.",
+      "Preheat a grill to high heat (500\u00b0F). Remove the chicken from the fridge and thread onto skewers, alternating with pieces of the vegetables as desired.",
+      "Grill your chicken on a well-oiled grate, about ten minutes, until the chicken is cooked to an internal temperature of 165 degrees F, rotating every few minutes so that all sides receive grill marks. Serve hot."
+    ],
+    "tags": [
+      "chicken",
+      "kabobs",
+      "grilled",
+      "marinated",
+      "asian-inspired",
+      "high-protein",
+      "summer"
+    ],
+    "nutrition": {
+      "calories": 290,
+      "protein": 35,
+      "carbs": 8,
+      "fat": 13
+    }
+  },
+  {
+    "slug": "chicken-rice-platter",
+    "title": "Chicken Rice Platter",
+    "category": "chicken",
+    "servings": 2,
+    "description": "Street-cart style chicken rice platter with turmeric-spiced basmati rice, perfectly marinated chicken, and an emulsified white sauce. This is the ultimate comfort food.",
+    "meta": "Serves: 2 | Prep Time: 20 min (+ 4 hrs marinating) | Cook Time: 45 min",
+    "ingredients": [
+      {
+        "quantity": 900,
+        "unit": "",
+        "name": "g (about 6-7 medium) boneless, skinless chicken thighs",
+        "original": "900 g (about 6-7 medium) boneless, skinless chicken thighs"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup neutral oil (canola/vegetable)",
+        "original": "1/4 cup neutral oil (canola/vegetable)"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "lemon juice",
+        "original": "3 tablespoons lemon juice"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "white vinegar",
+        "original": "1 1/2 tablespoons white vinegar"
+      },
+      {
+        "quantity": 3,
+        "unit": "teaspoons",
+        "name": "ground coriander",
+        "original": "3 teaspoons ground coriander"
+      },
+      {
+        "quantity": 3,
+        "unit": "teaspoons",
+        "name": "ground cumin",
+        "original": "3 teaspoons ground cumin"
+      },
+      {
+        "quantity": 3,
+        "unit": "teaspoons",
+        "name": "paprika (smoked or sweet)",
+        "original": "3 teaspoons paprika (smoked or sweet)"
+      },
+      {
+        "quantity": 3,
+        "unit": "teaspoons",
+        "name": "garlic powder",
+        "original": "3 teaspoons garlic powder"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "turmeric",
+        "original": "1 1/2 teaspoons turmeric"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "onion powder",
+        "original": "1 1/2 teaspoons onion powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon cinnamon (optional but adds warmth)",
+        "original": "1/2 teaspoon cinnamon (optional but adds warmth)"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "kosher salt",
+        "original": "1 tablespoon kosher salt"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "original": "1 teaspoon black pepper"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "cups",
+        "name": "basmati rice, rinsed until water runs clear",
+        "original": "1 1/2 cups basmati rice, rinsed until water runs clear"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "butter",
+        "original": "3 tablespoons butter"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "turmeric",
+        "original": "1 1/2 teaspoons turmeric"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "ground cumin",
+        "original": "1 1/2 teaspoons ground cumin"
+      },
+      {
+        "quantity": 3,
+        "unit": "cups",
+        "name": "chicken broth",
+        "original": "3 cups chicken broth"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt to taste",
+        "original": "Salt to taste"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup mayonnaise",
+        "original": "3/4 cup mayonnaise"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup Greek yogurt (full-fat, plain)",
+        "original": "3/4 cup Greek yogurt (full-fat, plain)"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "cold water",
+        "original": "3 tablespoons cold water"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "white vinegar",
+        "original": "1 1/2 tablespoons white vinegar"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "lemon juice",
+        "original": "1 1/2 tablespoons lemon juice"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "name": "sugar",
+        "original": "2 teaspoons sugar"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoon garlic powder (optional)",
+        "original": "3/4 teaspoon garlic powder (optional)"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoon onion powder",
+        "original": "3/4 teaspoon onion powder"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoon kosher salt",
+        "original": "3/4 teaspoon kosher salt"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/8 teaspoon black pepper",
+        "original": "3/8 teaspoon black pepper"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "-4 cups chopped iceberg lettuce",
+        "original": "3-4 cups chopped iceberg lettuce"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "-4 tomatoes, diced or sliced",
+        "original": "3-4 tomatoes, diced or sliced"
+      },
+      {
+        "quantity": 6,
+        "unit": "small",
+        "name": "pita breads or flatbreads",
+        "original": "6 small pita breads or flatbreads"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Optional: hot sauce",
+        "original": "Optional: hot sauce"
+      }
+    ],
+    "instructions": [
+      "Combine all marinade ingredients in a bowl or bag, add chicken, toss to coat.",
+      "Marinate 4 hours minimum, up to overnight.",
+      "Melt butter in saucepan, stir in turmeric & cumin for 30 sec.",
+      "Add rinsed rice, coat in spices.",
+      "Pour in broth, season with salt, cover & simmer ~15 min.",
+      "Heat a heavy skillet or cast iron over medium-high until hot.",
+      "Cook chicken 3-4 min per side until browned and cooked through (165\u00b0F / 74\u00b0C internal temp).",
+      "Rest 5 min, then chop into bite-sized pieces directly in the pan, tossing in the juices.",
+      "Whisk mayo & yogurt smooth, add vinegar, lemon juice, sugar, seasonings.",
+      "Slowly whisk in cold water until creamy and pourable. Chill.",
+      "Plate rice, top with chopped chicken, add lettuce/tomato, drizzle with white sauce, serve with pita & optional hot sauce."
+    ],
+    "tags": [
+      "chicken",
+      "rice",
+      "street-food",
+      "middle-eastern",
+      "marinated",
+      "meal-prep",
+      "white-sauce"
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 38,
+      "carbs": 45,
+      "fat": 12
+    }
+  },
+  {
+    "slug": "chicken-shawarma-salad",
+    "title": "Chicken Shawarma Salad",
+    "category": "chicken",
+    "servings": 2,
+    "description": "A vibrant Middle Eastern-inspired salad featuring crispy spiced rice, tender shawarma-spiced chicken, fresh vegetables, and a creamy lemon-tahini dressing.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 45 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "cooked rice, cooled (jasmine rice recommended)",
+        "original": "2 cups cooked rice, cooled (jasmine rice recommended)"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "original": "1 tablespoon olive oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "paprika",
+        "original": "1 teaspoon paprika"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "oregano",
+        "original": "1 teaspoon oregano"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon garlic powder",
+        "original": "1/2 teaspoon garlic powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "pound",
+        "name": "boneless, skinless chicken thighs, cut into 1/2\" pieces",
+        "original": "1 pound boneless, skinless chicken thighs, cut into 1/2\" pieces"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "2 tablespoons olive oil"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "name": "ground turmeric",
+        "original": "2 teaspoons ground turmeric"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "name": "cumin",
+        "original": "2 teaspoons cumin"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "original": "1 teaspoon cinnamon"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "garlic powder",
+        "original": "1 teaspoon garlic powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon black pepper",
+        "original": "1/2 teaspoon black pepper"
+      },
+      {
+        "quantity": 5,
+        "unit": "",
+        "name": "persian cucumbers, thinly sliced",
+        "original": "5 persian cucumbers, thinly sliced"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "baby tomatoes, halved",
+        "original": "1 cup baby tomatoes, halved"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 red onion, finely sliced (1/2 cup)",
+        "original": "1/2 red onion, finely sliced (1/2 cup)"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "dill pickles, chopped",
+        "original": "3 dill pickles, chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "bunch",
+        "name": "mint, chopped (1/2 cup)",
+        "original": "1 bunch mint, chopped (1/2 cup)"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup greek yogurt",
+        "original": "1/2 cup greek yogurt"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup tahini",
+        "original": "1/3 cup tahini"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup olive oil",
+        "original": "1/4 cup olive oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup lemon juice (1 lemon)",
+        "original": "1/4 cup lemon juice (1 lemon)"
+      },
+      {
+        "quantity": 2,
+        "unit": "cloves",
+        "name": "garlic",
+        "original": "2 cloves garlic"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "kosher salt",
+        "original": "1 teaspoon kosher salt"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Optional: 1-2 tablespoons honey or maple syrup for sweetness",
+        "original": "Optional: 1-2 tablespoons honey or maple syrup for sweetness"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400\u00b0F.",
+      "Add cooked and cooled rice to a baking sheet.",
+      "Toss with the olive oil and seasonings.",
+      "Bake for 30-35 minutes, tossing half way through (watch to make sure it doesn't burn).",
+      "While the rice is in the oven, season chicken and coat well.",
+      "Add olive oil to a skillet over medium heat.",
+      "Once the skillet is hot, add chicken.",
+      "Cook until fully cooked through, then remove from heat.",
+      "Remove the rice from the oven and set aside.",
+      "Next, chop/slice all of the ingredients for the salad and add to a large bowl.",
+      "Add the chicken and crispy rice on top.",
+      "Blend ingredients for the dressing until smooth & creamy.",
+      "Taste and adjust seasonings as needed.",
+      "Pour over the salad.",
+      "Toss and enjoy!"
+    ],
+    "tags": [
+      "chicken",
+      "salad",
+      "middle-eastern",
+      "shawarma",
+      "meal-prep",
+      "high-protein",
+      "crispy-rice"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 34,
+      "carbs": 15,
+      "fat": 18
+    }
+  },
+  {
+    "slug": "chicken-udon",
+    "title": "Life Changing Chicken Udon",
+    "category": "chicken",
+    "servings": 2,
+    "description": "A quick and flavorful Japanese-inspired udon noodle soup with tender chicken, aromatic broth, and fresh green onions. Simple yet incredibly satisfying.",
+    "meta": "Serves: 2 | Prep Time: 10 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "dashi broth",
+        "original": "2 cups dashi broth"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "soy sauce",
+        "original": "1 tablespoon soy sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "mirin",
+        "original": "1 tablespoon mirin"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 tablespoon sugar",
+        "original": "1/2 tablespoon sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "sake",
+        "original": "1 tablespoon sake"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 of small leek, cut in halves lengthwise then cut into 2 inches long pieces",
+        "original": "1/2 of small leek, cut in halves lengthwise then cut into 2 inches long pieces"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "boneless, skinless chicken thigh, cut into bite size",
+        "original": "1 boneless, skinless chicken thigh, cut into bite size"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "serving portion of fresh frozen udon or dry udon noodles",
+        "original": "1 serving portion of fresh frozen udon or dry udon noodles"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 green onion, chopped",
+        "original": "1/2 green onion, chopped"
+      }
+    ],
+    "instructions": [
+      "In a sauce pan, combine dashi broth, soy sauce, mirin and sugar. Bring it to boil and let it boil for 2 to 3 minutes.",
+      "Now, add sake, leek and chicken thigh. Stir to cook evenly, bring the soup back to boil then cook 3 to 4 minutes or until the chicken is fully cooked and the leek is nice and tender.",
+      "Cook udon noodles by following the sections of the package you are using. If you're using fresh frozen udon like me, start cook it when chicken is almost done. If you're using dried one that takes a few minutes, then start cook the noodles when you start cooking the chicken soup part.",
+      "Place cooked udon in a serving bowl and pour the chicken soup. Sprinkle chopped green onion and serve immediately! Enjoy!"
+    ],
+    "tags": [
+      "chicken",
+      "udon",
+      "japanese",
+      "noodle-soup",
+      "quick",
+      "comfort-food",
+      "one-pot"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 10
+    }
+  },
+  {
+    "slug": "chicken-wonton-soup",
+    "title": "Chicken Cilantro Wonton Soup with Mushrooms & Bok Choy",
+    "category": "chicken",
+    "servings": 2,
+    "description": "A comforting Asian-inspired soup with delicate chicken cilantro wontons, earthy mushrooms, and tender bok choy in a fragrant ginger-garlic broth.",
+    "meta": "Serves: 2 | Prep Time: 20 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 8,
+        "unit": "cups",
+        "name": "chicken broth",
+        "original": "8 cups chicken broth"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "water",
+        "original": "2 cups water"
+      },
+      {
+        "quantity": 3,
+        "unit": "cloves",
+        "name": "garlic, smashed",
+        "original": "3 cloves garlic, smashed"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "-inch piece fresh ginger, sliced",
+        "original": "1-inch piece fresh ginger, sliced"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "soy sauce",
+        "original": "2 tablespoons soy sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "rice wine or mirin",
+        "original": "1 tablespoon rice wine or mirin"
+      },
+      {
+        "quantity": 5,
+        "unit": "oz",
+        "name": "mushrooms (shiitake or cremini), sliced",
+        "original": "5 oz mushrooms (shiitake or cremini), sliced"
+      },
+      {
+        "quantity": 3,
+        "unit": "small",
+        "name": "heads baby bok choy, quartered lengthwise",
+        "original": "3 small heads baby bok choy, quartered lengthwise"
+      },
+      {
+        "quantity": 48,
+        "unit": "",
+        "name": "Bibigo mini chicken cilantro wontons (8 per person)",
+        "original": "48 Bibigo mini chicken cilantro wontons (8 per person)"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "-3 green onions, sliced",
+        "original": "2-3 green onions, sliced"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup fresh cilantro, chopped",
+        "original": "1/4 cup fresh cilantro, chopped"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Sesame oil for drizzling",
+        "original": "Sesame oil for drizzling"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt and white pepper to taste",
+        "original": "Salt and white pepper to taste"
+      }
+    ],
+    "instructions": [
+      "In a large pot, bring chicken broth, water, garlic, and ginger to a boil.",
+      "Add soy sauce, rice wine, and sliced mushrooms. Reduce heat and simmer for 5 minutes.",
+      "Add bok choy and cook for 2-3 minutes until tender.",
+      "Add wontons and heat through for 2-3 minutes (they're pre-cooked).",
+      "Remove and discard garlic and ginger pieces. Taste and adjust seasoning with salt and white pepper if needed.",
+      "Ladle soup into bowls and top each with green onions, fresh cilantro, and a drizzle of sesame oil."
+    ],
+    "tags": [
+      "chicken",
+      "soup",
+      "asian",
+      "wonton",
+      "quick",
+      "comfort-food"
+    ],
+    "nutrition": {
+      "calories": 310,
+      "protein": 28,
+      "carbs": 30,
+      "fat": 8
+    }
+  },
+  {
+    "slug": "grilled-herb-chicken",
+    "title": "Grilled Herb Chicken",
+    "category": "chicken",
+    "servings": 4,
+    "description": "Perfectly seasoned chicken with a fragrant herb crust, cooked in a cast iron pan. The combination of fresh rosemary, thyme, and sage creates an aromatic, crispy exterior while keeping the chicken juicy inside.",
+    "meta": "Serves: 4 (24 oz chicken) | Prep Time: 20 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 24,
+        "unit": "oz",
+        "name": "chicken (breasts or thighs)",
+        "original": "24 oz chicken (breasts or thighs)"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "fresh rosemary, finely chopped (or 1\u00bd teaspoons dried)",
+        "original": "1\u00bd tablespoons fresh rosemary, finely chopped (or 1\u00bd teaspoons dried)"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "fresh thyme leaves (or 1\u00bd teaspoons dried)",
+        "original": "1\u00bd tablespoons fresh thyme leaves (or 1\u00bd teaspoons dried)"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "fresh sage, finely chopped (or 1\u00bd teaspoons dried)",
+        "original": "1\u00bd tablespoons fresh sage, finely chopped (or 1\u00bd teaspoons dried)"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "garlic powder",
+        "original": "1 tablespoon garlic powder"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "salt",
+        "original": "1\u00bd teaspoons salt"
+      },
+      {
+        "quantity": 0.75,
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "original": "\u00be teaspoon black pepper"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "3 tablespoons olive oil"
+      }
+    ],
+    "instructions": [
+      "Combine all herbs and spices in a small bowl and set aside.",
+      "Pat the chicken dry with paper towels, then rub all over with the olive oil.",
+      "Coat chicken evenly with the herb mixture, pressing it into the meat. Let rest 15-30 minutes at room temperature.",
+      "Preheat your cast iron pan over medium-high heat for 3-4 minutes. Add a bit of oil if needed (the pan should be hot but not smoking).",
+      "Cook the chicken without crowding the pan - you may need to work in batches. For boneless breasts or cutlets, sear 6-7 minutes per side. For thicker pieces, sear both sides then reduce to medium heat and continue cooking until internal temp reaches 165\u00b0F.",
+      "Rest for 5 minutes before slicing. The herbs will create a fragrant, crispy crust!"
+    ],
+    "tags": [
+      "chicken",
+      "grilled",
+      "herbs",
+      "cast-iron",
+      "high-protein",
+      "keto-friendly"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 42,
+      "carbs": 1,
+      "fat": 15
+    }
+  },
+  {
+    "slug": "lebanese-chicken-rice",
+    "title": "Lebanese Chicken and Rice (Rez a Djaj)",
+    "category": "chicken",
+    "servings": 8,
+    "description": "Rice with mince meat, chicken and assorted nuts - an authentic Lebanese dish featuring fragrant rice, tender chicken and a beautiful presentation topped with toasted nuts.",
+    "meta": "Serves: 8 | Prep Time: 30 min | Cook Time: 1 hr 30 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "chicken, quartered",
+        "original": "1 chicken, quartered"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "onion, peeled",
+        "original": "1 onion, peeled"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "celery stick",
+        "original": "1 celery stick"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "carrot, peeled",
+        "original": "1 carrot, peeled"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "cinnamon stick",
+        "original": "1 cinnamon stick"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "-4 cloves",
+        "original": "3-4 cloves"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "bay leaves",
+        "original": "3 bay leaves"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "-4 cardamom pods",
+        "original": "3-4 cardamom pods"
+      },
+      {
+        "quantity": 10,
+        "unit": "",
+        "name": "peppercorns (approx)",
+        "original": "10 peppercorns (approx)"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "name": "salt",
+        "original": "2 teaspoons salt"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "litres boiling water",
+        "original": "2 litres boiling water"
+      },
+      {
+        "quantity": 3,
+        "unit": "cups",
+        "name": "rice",
+        "original": "3 cups rice"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "onion, finely chopped",
+        "original": "1 onion, finely chopped"
+      },
+      {
+        "quantity": 200,
+        "unit": "",
+        "name": "g ground meat (lamb, beef or both)",
+        "original": "200 g ground meat (lamb, beef or both)"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "-3 tablespoons mild olive oil (good drizzle)",
+        "original": "2-3 tablespoons mild olive oil (good drizzle)"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "salt (approx)",
+        "original": "1 teaspoon salt (approx)"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "7 spice",
+        "original": "\u00bd teaspoon 7 spice"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "original": "\u00bc teaspoon black pepper"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "ground cinnamon",
+        "original": "\u00bc teaspoon ground cinnamon"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "butter",
+        "original": "2 tablespoons butter"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "assorted nuts (lightly toasted)",
+        "original": "1 cup assorted nuts (lightly toasted)"
+      }
+    ],
+    "instructions": [
+      "Lightly toast the assorted nuts (pistachios, cashews, almonds) in a non stick pan on low heat until golden. Set aside.",
+      "In a large stock pot, add the washed chicken, onion, carrot, celery, cinnamon stick, cloves, bay leaves cardamom, peppercorns and salt with the boiling water. Bring to the boil then simmer for at least 45 minutes, removing any foam that comes to the surface.",
+      "As the chicken broth is simmering, soak the rice in a bowl of water for around half an hour and set aside.",
+      "When the chicken broth is done after 45 minutes, remove the chicken and drain the liquid over a fine colander into a pot.",
+      "Shred the chicken from the bone and keep the chicken breast in large chunks, cover and set aside.",
+      "In a wide casserole pan, saut\u00e9 the chopped onion in a good drizzle of mild olive oil on low heat until soft and translucent. This may take 15 minutes.",
+      "Then add the mince meat, black pepper, 7 spice, cinnamon and around a teaspoon of salt. Increase the heat to medium and saut\u00e9 for around 5-10 minutes until well browned, pressing with the back of a wooden spoon to break apart.",
+      "Drain the rice in a fine sieve and add to the mince meat along with the butter and saut\u00e9 for a few minutes. Add 4.5 cups of chicken broth to the rice, bring to the boil and then cover with a lid then simmer for 20 minutes.",
+      "The rice is done when there should be no extra liquid, fluff it with a fork and add to a large platter.",
+      "Lay the shredded chicken on top and sprinkle with the assorted nuts.",
+      "Serve with a side of yoghurt or green salad."
+    ],
+    "tags": [
+      "chicken",
+      "lebanese",
+      "middle-eastern",
+      "rice",
+      "dinner-party",
+      "authentic",
+      "crowd-pleaser"
+    ],
+    "nutrition": {
+      "calories": 440,
+      "protein": 35,
+      "carbs": 42,
+      "fat": 14
+    }
+  },
+  {
+    "slug": "lemony-chicken-meatballs",
+    "title": "Lemony Chicken Meatballs",
+    "category": "chicken",
+    "servings": 2,
+    "description": "Tender chicken ricotta meatballs with a bright lemon flavor, served over garlic spinach orzo. This dish combines Italian comfort with fresh Mediterranean flavors.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 30 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "pound",
+        "name": "ground chicken",
+        "original": "1 pound ground chicken"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup ricotta cheese",
+        "original": "1/2 cup ricotta cheese"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup grated Parmesan cheese",
+        "original": "1/4 cup grated Parmesan cheese"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup breadcrumbs",
+        "original": "1/4 cup breadcrumbs"
+      },
+      {
+        "quantity": 1,
+        "unit": "large",
+        "name": "egg",
+        "original": "1 large egg"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "fresh parsley, chopped",
+        "original": "2 tablespoons fresh parsley, chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "lemon zest",
+        "original": "1 tablespoon lemon zest"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "garlic powder",
+        "original": "1 teaspoon garlic powder"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt and pepper, to taste",
+        "original": "Salt and pepper, to taste"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "orzo pasta",
+        "original": "1 cup orzo pasta"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "chicken broth",
+        "original": "2 cups chicken broth"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "fresh spinach, chopped",
+        "original": "2 cups fresh spinach, chopped"
+      },
+      {
+        "quantity": 2,
+        "unit": "cloves",
+        "name": "garlic, minced",
+        "original": "2 cloves garlic, minced"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "2 tablespoons olive oil"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt and pepper, to taste",
+        "original": "Salt and pepper, to taste"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Lemon wedges, for garnish",
+        "original": "Lemon wedges, for garnish"
+      }
+    ],
+    "instructions": [
+      "Preheat your oven to 400\u00b0F (200\u00b0C) and line a baking sheet with parchment paper.",
+      "In a bowl, gently mix together the ground chicken, ricotta, Parmesan, breadcrumbs, egg, parsley, lemon zest, garlic powder, salt, and pepper until just combined.",
+      "Form the mixture into 1\u00bd-inch meatballs and place them on the prepared baking sheet.",
+      "Bake the meatballs for 20-25 minutes, or until golden and fully cooked.",
+      "Bring the chicken broth to a boil in a medium saucepan, then add the orzo. Cook uncovered, stirring occasionally, for 8-10 minutes until just tender.",
+      "While the orzo is cooking, heat olive oil in a skillet over medium heat. Add the minced garlic and saut\u00e9 for 1-2 minutes until fragrant.",
+      "Add the chopped spinach to the skillet and cook for 2-3 minutes until wilted. Season with salt and pepper.",
+      "Drain any excess liquid from the orzo and mix it into the saut\u00e9ed spinach and garlic until well combined and creamy.",
+      "Serve the garlic spinach orzo topped with the baked meatballs. Garnish with lemon wedges for an extra burst of flavor."
+    ],
+    "tags": [
+      "chicken",
+      "meatballs",
+      "italian",
+      "lemon",
+      "orzo",
+      "one-pot",
+      "high-protein"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 30,
+      "carbs": 12,
+      "fat": 12
+    }
+  },
+  {
+    "slug": "mediterranean-chicken-orzo",
+    "title": "Mediterranean Chicken Orzo",
+    "category": "chicken",
+    "servings": 2,
+    "description": "A vibrant one-pot Mediterranean dish with tender chicken, orzo pasta, fresh asparagus, kalamata olives, and feta cheese in a lemony herb sauce.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 30 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "lbs",
+        "name": "boneless, skinless chicken thighs, cut into bite-sized pieces",
+        "original": "2 lbs boneless, skinless chicken thighs, cut into bite-sized pieces"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "orzo pasta",
+        "original": "2 cups orzo pasta"
+      },
+      {
+        "quantity": 2,
+        "unit": "lbs",
+        "name": "fresh asparagus, trimmed and cut into 1-inch pieces",
+        "original": "2 lbs fresh asparagus, trimmed and cut into 1-inch pieces"
+      },
+      {
+        "quantity": 4,
+        "unit": "tablespoons",
+        "name": "olive oil, divided",
+        "original": "4 tablespoons olive oil, divided"
+      },
+      {
+        "quantity": 2,
+        "unit": "medium",
+        "name": "onions, diced",
+        "original": "2 medium onions, diced"
+      },
+      {
+        "quantity": 6,
+        "unit": "cloves",
+        "name": "garlic, minced",
+        "original": "6 cloves garlic, minced"
+      },
+      {
+        "quantity": 4,
+        "unit": "cups",
+        "name": "low-sodium chicken broth",
+        "original": "4 cups low-sodium chicken broth"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "kalamata olives, pitted and sliced",
+        "original": "1 cup kalamata olives, pitted and sliced"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup fresh lemon juice (about 2 lemons)",
+        "original": "1/2 cup fresh lemon juice (about 2 lemons)"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Zest of 2 lemons",
+        "original": "Zest of 2 lemons"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup fresh parsley, chopped",
+        "original": "1/2 cup fresh parsley, chopped"
+      },
+      {
+        "quantity": 4,
+        "unit": "tablespoons",
+        "name": "fresh oregano (or 2 tablespoons dried)",
+        "original": "4 tablespoons fresh oregano (or 2 tablespoons dried)"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup crumbled feta cheese",
+        "original": "1/2 cup crumbled feta cheese"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt and pepper to taste",
+        "original": "Salt and pepper to taste"
+      }
+    ],
+    "instructions": [
+      "Season chicken thighs with salt, pepper, and half the oregano. Heat 2 tablespoons olive oil in a large Dutch oven over medium-high heat. Cook chicken in 2-3 batches until golden and cooked through, about 8-10 minutes per batch. Remove and set aside.",
+      "Add remaining oil and saut\u00e9 onions until softened, about 5-6 minutes. Add garlic and cook 1 minute more.",
+      "Add orzo and stir for 1-2 minutes to lightly toast. Pour in chicken broth and bring to a boil.",
+      "Add asparagus pieces and reduce heat. Simmer covered for 14-16 minutes until orzo is tender and asparagus is crisp-tender, stirring occasionally.",
+      "Stir in cooked chicken, olives, lemon juice, lemon zest, parsley, and remaining oregano. Cook 2-3 minutes to heat through.",
+      "Top with crumbled feta and serve immediately."
+    ],
+    "tags": [
+      "chicken",
+      "mediterranean",
+      "orzo",
+      "one-pot",
+      "lemon",
+      "feta",
+      "asparagus"
+    ],
+    "nutrition": {
+      "calories": 410,
+      "protein": 35,
+      "carbs": 38,
+      "fat": 14
+    }
+  },
+  {
+    "slug": "pollo-asado-burrito",
+    "title": "Chipotle's Pollo Asado Burrito",
+    "category": "chicken",
+    "servings": 2,
+    "description": "Copycat version of Chipotle's Pollo Asado with achiote and habanero marinade, avocado crema, and pinto beans. Bold, smoky, and delicious.",
+    "meta": "Serves: 2-3 burritos | Prep Time: 30 min (+ marinating) | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 900,
+        "unit": "",
+        "name": "g chicken breasts",
+        "original": "900 g chicken breasts"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt, to taste",
+        "original": "Salt, to taste"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "spoonful achiote paste",
+        "original": "1 spoonful achiote paste"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "habanero pepper",
+        "original": "1 habanero pepper"
+      },
+      {
+        "quantity": 2,
+        "unit": "cloves",
+        "name": "garlic",
+        "original": "2 cloves garlic"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 red onion",
+        "original": "1/4 red onion"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 orange juice",
+        "original": "1/2 orange juice"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 lime juice",
+        "original": "1/2 lime juice"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Drizzle of cooking oil",
+        "original": "Drizzle of cooking oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "avocado",
+        "original": "1 avocado"
+      },
+      {
+        "quantity": 130,
+        "unit": "",
+        "name": "g sour cream",
+        "original": "130 g sour cream"
+      },
+      {
+        "quantity": 1,
+        "unit": "clove",
+        "name": "garlic",
+        "original": "1 clove garlic"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 lime juice",
+        "original": "1/2 lime juice"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Sprinkle of cayenne pepper",
+        "original": "Sprinkle of cayenne pepper"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt, to taste",
+        "original": "Salt, to taste"
+      },
+      {
+        "quantity": 400,
+        "unit": "",
+        "name": "g pinto beans",
+        "original": "400 g pinto beans"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Sprinkle of cumin",
+        "original": "Sprinkle of cumin"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "spoonful achiote paste",
+        "original": "1 spoonful achiote paste"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "bay leaf",
+        "original": "1 bay leaf"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt, to taste",
+        "original": "Salt, to taste"
+      },
+      {
+        "quantity": 4,
+        "unit": "large",
+        "name": "12\" flour tortillas",
+        "original": "4 large 12\" flour tortillas"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Romaine lettuce",
+        "original": "Romaine lettuce"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Monterey Jack cheese",
+        "original": "Monterey Jack cheese"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salsa",
+        "original": "Salsa"
+      }
+    ],
+    "instructions": [
+      "To a blender or food processor add the garlic, red onion, orange juice, lime juice, habanero, and achiote paste. Blend until smooth. **Important: set aside about 1/4 of the mixture for later.** Butterfly, pound, or slice your chicken breasts in half to thin them out. Lay your chicken pieces on a sheet tray (or in a bowl) and sprinkle with salt so that each piece gets seasoned, then pour over the marinade mixture and mix until all pieces are thoroughly coated. Marinate for at least 30 mins and up to overnight.",
+      "To a blender or food processor, add the avocado, sour cream, lime juice, garlic clove, and a sprinkle of cayenne. Blend until smooth, and add salt to taste.",
+      "For the beans, it's as simple as tossing a can of beans into a pot, adding a bay leaf, a sprinkle of ground cumin, and some salt to taste. Let it simmer for 10 minutes. For extra flavor, you can add a bit of achiote paste as well. While those are going, prep any final toppings you want for your burrito. Get out your favorite salsa or hot sauce, thinly slice some lettuce, grate some cheese, and lastly warm a tortilla until soft and pliable.",
+      "When you're ready to cook, rub a super thin layer of oil to a ripping hot cast iron pan or griddle. Sear the chicken until cooked through and nicely charred on all sides. Add the reserved marinade: chop the cooked chicken into bite-sized pieces and spoon over some of the reserved marinade mixture to taste for additional flavor and moisture. Adjust with more salt and/or marinade if needed.",
+      "To make a burrito, top your warm tortilla with a base of the avocado crema, then follow with a layer of the beans, a handful of shredded cheese, about 200g of chicken (1/4 of the mix), a bit more avocado sauce, a spoonful of spicy salsa or hot sauce, and lastly a healthy handful of romaine lettuce before wrapping up. You should have enough remaining ingredients to make 2-3 more burritos."
+    ],
+    "tags": [
+      "chicken",
+      "mexican",
+      "burrito",
+      "chipotle-copycat",
+      "achiote",
+      "marinated",
+      "spicy"
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 18
+    }
+  },
+  {
+    "slug": "soba-noodles-chicken",
+    "title": "Soba Noodles with Chicken",
+    "category": "chicken",
+    "servings": 2,
+    "description": "A delicious and healthy Asian noodle dish featuring tender chicken, fresh vegetables, and buckwheat soba noodles in a savory peanut sauce.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cloves",
+        "name": "garlic",
+        "original": "2 cloves garlic"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "-inch piece ginger",
+        "original": "1-inch piece ginger"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "carrot",
+        "original": "1 carrot"
+      },
+      {
+        "quantity": 1,
+        "unit": "bunch",
+        "name": "cilantro",
+        "original": "1 bunch cilantro"
+      },
+      {
+        "quantity": 4,
+        "unit": "ounces",
+        "name": "sugar snap peas",
+        "original": "4 ounces sugar snap peas"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "boneless, skinless chicken breasts",
+        "original": "2 boneless, skinless chicken breasts"
+      },
+      {
+        "quantity": 6,
+        "unit": "ounces",
+        "name": "soba noodles",
+        "original": "6 ounces soba noodles"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "soy sauce",
+        "original": "2 tablespoons soy sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "original": "1 tablespoon sesame oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup peanut butter",
+        "original": "1/4 cup peanut butter"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "light brown sugar",
+        "original": "1 tablespoon light brown sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup all-purpose flour",
+        "original": "1/4 cup all-purpose flour"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "original": "1 teaspoon sesame seeds"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "lime",
+        "original": "1 lime"
+      }
+    ],
+    "instructions": [
+      "Heat a medium pot of salted water to boiling on high. Wash and dry the fresh produce. Peel and finely chop the garlic and ginger. Peel and cut the carrot into thin matchsticks. Roughly chop the cilantro. Trim the ends off the snap peas. Cut the chicken into bite-sized pieces.",
+      "When the water comes to a boil, add the soba noodles and cook about 4 to 6 minutes, or until tender, but not too soft. Drain and rinse under cool water to prevent them from sticking together. Set aside.",
+      "In a large pan (nonstick, if you have one), heat 2 teaspoons of oil on medium until hot. Add the chicken. Cook 4 to 6 minutes, stirring occasionally, until browned and cooked through. Transfer to a plate. Wipe out the pan.",
+      "In the same pan, heat 2 teaspoons of oil on medium-high until hot. Add the garlic, ginger, carrots, and snap peas. Cook 2 to 3 minutes, stirring occasionally, until slightly softened.",
+      "In a small bowl, combine the peanut butter, soy sauce, sesame oil, brown sugar, and 1/4 cup of water. Whisk until smooth.",
+      "To the pan of vegetables, add the cooked noodles, cooked chicken, and peanut sauce. Cook 2 to 3 minutes, tossing frequently, until well combined and heated through.",
+      "Remove from heat. Stir in half the cilantro and the juice of half the lime. Season with salt and pepper to taste.",
+      "Divide between plates. Garnish with the sesame seeds and remaining cilantro. Serve with the remaining lime wedges on the side. Enjoy!"
+    ],
+    "tags": [
+      "chicken",
+      "soba",
+      "noodles",
+      "asian",
+      "peanut-sauce",
+      "healthy",
+      "quick"
+    ],
+    "nutrition": {
+      "calories": 390,
+      "protein": 30,
+      "carbs": 45,
+      "fat": 10
+    }
+  },
+  {
+    "slug": "assyrian-kebab",
+    "title": "Assyrian Kebab",
+    "category": "beef",
+    "servings": 2,
+    "description": "Traditional Assyrian kebabs featuring spiced ground lamb with feta cheese, cilantro, and beets, served with a tangy yogurt-radish sauce.",
+    "meta": "Serves: 2 | Prep Time: 20 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "pound",
+        "name": "(450 g) ground lamb",
+        "original": "1 pound (450 g) ground lamb"
+      },
+      {
+        "quantity": 1,
+        "unit": "medium",
+        "name": "yellow onion, finely chopped",
+        "original": "1 medium yellow onion, finely chopped"
+      },
+      {
+        "quantity": 3.5,
+        "unit": "ounces",
+        "name": "(100 g) brined white cheese such as feta",
+        "original": "3 1/2 ounces (100 g) brined white cheese such as feta"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "(50 g) finely chopped fresh cilantro",
+        "original": "1 cup (50 g) finely chopped fresh cilantro"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "(10 g) grated beet",
+        "original": "2 tablespoons (10 g) grated beet"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "garlic cloves, minced",
+        "original": "3 garlic cloves, minced"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "ground sumac",
+        "original": "1 teaspoon ground sumac"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "ground cumin",
+        "original": "1 teaspoon ground cumin"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "table salt",
+        "original": "1 teaspoon table salt"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "(120 g) radishes, grated, plus additional for topping",
+        "original": "1 cup (120 g) radishes, grated, plus additional for topping"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cups (415 ml) plain yogurt (preferably a tangy and slightly thin type)",
+        "original": "3/4 cups (415 ml) plain yogurt (preferably a tangy and slightly thin type)"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "garlic cloves, minced",
+        "original": "2 garlic cloves, minced"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "dried mint",
+        "original": "1 teaspoon dried mint"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon table salt",
+        "original": "1/2 teaspoon table salt"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Fresh mint for topping",
+        "original": "Fresh mint for topping"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 440\u00b0F (225\u00b0C). If you're using wooden skewers, make sure to soak them in water for at least 20 minutes before using to prevent them from burning in the oven. If you're using metal skewers, no preparation is needed.",
+      "In a large bowl, mix the lamb, onions, white cheese, cilantro, beet, garlic, sumac, cumin, and salt.",
+      "Divide the mixture into eight equal portions.",
+      "Press and wrap each portion onto the skewers, doing your best to make them of equal thickness and length.",
+      "Place the skewers on a baking sheet and bake them in the middle of the oven for 15 minutes.",
+      "To make the sauce, squeeze out the excess liquid from the grated radishes and discard it. Then mix the radishes with the yogurt, garlic, dried mint, and salt.",
+      "Transfer the sauce to a small serving bowl and garnish with radish and fresh mint.",
+      "To serve, add the yogurt sauce to each piece of bread, then remove the kebabs from the skewers and add two of them on each bread piece alongside the green onion. Garnish with fresh mint and parsley."
+    ],
+    "tags": [
+      "beef",
+      "lamb",
+      "middle-eastern",
+      "assyrian",
+      "kebab",
+      "baked",
+      "yogurt-sauce"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 20
+    }
+  },
+  {
+    "slug": "classic-lasagna",
+    "title": "Best Classic Lasagna Recipe",
+    "category": "beef",
+    "servings": 12,
+    "description": "The Best Classic Lasagna Recipe - Homemade lasagna full of pasta, ricotta, a homemade meat sauce, and tons of cheese. This is the world's best lasagna recipe!",
+    "meta": "Serves: 12 servings | Prep Time: 20 min | Cook Time: 1 hr 30 min | Total Time: 1 hr 50 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "lb",
+        "name": ". ground beef",
+        "original": "1 lb. ground beef"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 lb. sweet Italian sausage",
+        "original": "1/2 lb. sweet Italian sausage"
+      },
+      {
+        "quantity": 1,
+        "unit": "medium",
+        "name": "onion, chopped",
+        "original": "1 medium onion, chopped"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "garlic cloves, minced",
+        "original": "2 garlic cloves, minced"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "(15 oz.) can tomato sauce",
+        "original": "1 (15 oz.) can tomato sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "(15 oz.) can crushed tomatoes",
+        "original": "1 (15 oz.) can crushed tomatoes"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "(6 oz.) cans tomato paste",
+        "original": "2 (6 oz.) cans tomato paste"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup water",
+        "original": "1/2 cup water"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "sugar",
+        "original": "2 tablespoons sugar"
+      },
+      {
+        "quantity": 3,
+        "unit": "teaspoons",
+        "name": "salt, divided",
+        "original": "3 teaspoons salt, divided"
+      },
+      {
+        "quantity": 3,
+        "unit": "teaspoons",
+        "name": "Italian seasoning, divided",
+        "original": "3 teaspoons Italian seasoning, divided"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "dried basil leaves, divided",
+        "original": "1 1/2 teaspoons dried basil leaves, divided"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon ground black pepper",
+        "original": "1/4 teaspoon ground black pepper"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup minced fresh flat-leaf parsley, divided",
+        "original": "1/4 cup minced fresh flat-leaf parsley, divided"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "shredded mozzarella cheese, divided",
+        "original": "2 cups shredded mozzarella cheese, divided"
+      },
+      {
+        "quantity": 15,
+        "unit": "oz",
+        "name": ". (1 3/4 cups) whole milk Ricotta cheese",
+        "original": "15 oz. (1 3/4 cups) whole milk Ricotta cheese"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup grated parmesan cheese, divided",
+        "original": "1/2 cup grated parmesan cheese, divided"
+      },
+      {
+        "quantity": 1,
+        "unit": "large",
+        "name": "egg",
+        "original": "1 large egg"
+      },
+      {
+        "quantity": 12,
+        "unit": "",
+        "name": "lasagna noodles",
+        "original": "12 lasagna noodles"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees F.",
+      "Make the meat sauce. Add beef and sausage to a large skillet over medium-high heat, breaking it apart with a wooden spoon. Add the onion and garlic. Cook until meat is browned, about 6-8 minutes. Drain the fat from the meat. Return the meat to the skillet.",
+      "Add the tomato sauce, crushed tomatoes, tomato paste, water, sugar, 2 teaspoons salt, 2 teaspoons Italian seasoning, 1 teaspoon basil, and the black pepper. Stir until well combined. Cover and reduce the heat to low. Simmer the sauce for 30 minutes. Stir in 2 tablespoons of the minced parsley.",
+      "As the sauce cooks, make the ricotta mixture. In a large bowl, add 1 cup mozzarella, the ricotta, 1/4 cup parmesan, 2 tablespoons of the parsley, the egg, 1 teaspoon salt, 1 teaspoon Italian seasoning, and 1/2 teaspoon basil. Stir until well incorporated.",
+      "Cook the pasta al dente, according to it's package directions.",
+      "Assemble the lasagna. In a 13x9 inch baking dish, add a very thin layer of meat sauce (about 1/4 cup). Layer 3 lasagna noodles, 1/3 of the ricotta mixture, and 1 1/2 (level) cups of meat sauce. Repeat the layers twice.",
+      "Add a final layer of the remaining noodles, meat sauce, 1 cup mozzarella, and 1/4 cup parmesan.",
+      "Cover with foil that has been sprayed with nonstick cooking spray. Bake for 45 minutes. Remove the foil. Bake 15 more minutes.",
+      "Let the lasagna cool for 15-20 minutes before cutting."
+    ],
+    "tags": [
+      "beef",
+      "italian",
+      "lasagna",
+      "pasta",
+      "comfort-food",
+      "make-ahead",
+      "freezer-friendly"
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 28,
+      "carbs": 36,
+      "fat": 22
+    }
+  },
+  {
+    "slug": "double-beef-chili",
+    "title": "Double Beef Chili",
+    "category": "beef",
+    "servings": 2,
+    "description": "A hearty, meaty chili featuring both stew meat and ground beef, loaded with beans and simmered in a rich, spiced tomato sauce.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 1 hr 15 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "lb",
+        "name": "stew meat",
+        "original": "1 lb stew meat"
+      },
+      {
+        "quantity": 1,
+        "unit": "lb",
+        "name": "beef, ground",
+        "original": "1 lb beef, ground"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "onion, large, diced",
+        "original": "1 onion, large, diced"
+      },
+      {
+        "quantity": 6,
+        "unit": "cloves",
+        "name": "garlic, diced",
+        "original": "6 cloves garlic, diced"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "jalape\u00f1o, diced",
+        "original": "2 jalape\u00f1o, diced"
+      },
+      {
+        "quantity": 28,
+        "unit": "oz",
+        "name": "tomato sauce",
+        "original": "28 oz tomato sauce"
+      },
+      {
+        "quantity": 28,
+        "unit": "oz",
+        "name": "diced tomatoes",
+        "original": "28 oz diced tomatoes"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "15 oz cans of chick peas",
+        "original": "2 15 oz cans of chick peas"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "15 oz cans of sweet corn",
+        "original": "2 15 oz cans of sweet corn"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "15 oz can red kidney beans",
+        "original": "1 15 oz can red kidney beans"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "15 oz can black beans",
+        "original": "1 15 oz can black beans"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "tsp cumin",
+        "original": "1 tsp cumin"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "tbsp chili powder",
+        "original": "1 tbsp chili powder"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "tsp salt",
+        "original": "2 tsp salt"
+      },
+      {
+        "quantity": 12,
+        "unit": "ounces",
+        "name": "beef stock",
+        "original": "12 ounces beef stock"
+      }
+    ],
+    "instructions": [
+      "In a large dutch oven, brown ground beef on medium high.",
+      "When beef is browned, remove and set aside.",
+      "Add in stew meat and brown, turning to be sure it cooks evenly.",
+      "Remove stew meat when browned. Do not drain fat.",
+      "Add onion, garlic, jalape\u00f1o, to pot.",
+      "Cook on medium high until soft.",
+      "Add meat back to pot, and add spices, diced tomatoes, tomato sauce, and beans, stir well to combine.",
+      "Add in beef stock, stir.",
+      "Cover with lid and simmer on low for one hour.",
+      "Top with shredded cheese, green onion, sour cream, and fritos if desired."
+    ],
+    "tags": [
+      "beef",
+      "chili",
+      "comfort-food",
+      "one-pot",
+      "slow-cooked",
+      "beans"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 30,
+      "carbs": 28,
+      "fat": 16
+    }
+  },
+  {
+    "slug": "italian-meatballs",
+    "title": "Chef John's Italian Meatballs",
+    "category": "beef",
+    "servings": 8,
+    "description": "These Italian meatballs are very easy to make, and since we skip the messy step of pan-frying the meatballs, it becomes downright simple! Here a standard half-beef/half-pork mixture is used.",
+    "meta": "Serves: 8 | Prep Time: 20 min | Cook Time: 35 min | Additional Time: 1 hr 20 min | Total Time: 2 hrs 15 min",
+    "ingredients": [
+      {
+        "quantity": 0.3333333333333333,
+        "unit": "cup",
+        "name": "plain bread crumbs",
+        "original": "\u2153 cup plain bread crumbs"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "cup",
+        "name": "milk or beef broth",
+        "original": "\u00bd cup milk or beef broth"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "2 tablespoons olive oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "onion, diced",
+        "original": "1 onion, diced"
+      },
+      {
+        "quantity": 1,
+        "unit": "pound",
+        "name": "ground beef",
+        "original": "1 pound ground beef"
+      },
+      {
+        "quantity": 1,
+        "unit": "pound",
+        "name": "ground pork",
+        "original": "1 pound ground pork"
+      },
+      {
+        "quantity": 2,
+        "unit": "large",
+        "name": "eggs",
+        "original": "2 large eggs"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "grated Parmesan cheese",
+        "original": "2 tablespoons grated Parmesan cheese"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "bunch",
+        "name": "fresh parsley, chopped",
+        "original": "\u00bc bunch fresh parsley, chopped"
+      },
+      {
+        "quantity": 3,
+        "unit": "cloves",
+        "name": "garlic, crushed",
+        "original": "3 cloves garlic, crushed"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "name": "salt",
+        "original": "2 teaspoons salt"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "ground black pepper",
+        "original": "1 teaspoon ground black pepper"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "dried Italian herb seasoning",
+        "original": "1 teaspoon dried Italian herb seasoning"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "original": "\u00bd teaspoon red pepper flakes"
+      }
+    ],
+    "instructions": [
+      "Gather all ingredients.",
+      "Cover a baking sheet with foil and spray lightly with cooking spray. Soak bread crumbs in milk in a small bowl for 20 minutes.",
+      "Meanwhile, heat olive oil in a skillet over medium heat. Add onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue cooking and stirring until onion is very tender, about 15 minutes more.",
+      "Gently stir beef and pork together in a large bowl. Add onions, bread crumb mixture, eggs, Parmesan cheese, parsley, garlic, salt, black pepper, Italian herb seasoning, and red pepper flakes; mix together using a rubber spatula until combined. Cover and refrigerate for about one hour.",
+      "Preheat the oven to 425 degrees F (220 degrees C).",
+      "Form mixture into balls about 1 \u00bd inches in diameter; arrange in a single layer on the prepared baking sheet.",
+      "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes.",
+      "Serve with your favorite tomato sauce. Enjoy!"
+    ],
+    "tags": [
+      "beef",
+      "pork",
+      "italian",
+      "meatballs",
+      "baked",
+      "freezer-friendly",
+      "classic"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 26,
+      "carbs": 18,
+      "fat": 20
+    }
+  },
+  {
+    "slug": "lebanese-spinach-beef-rice",
+    "title": "Lebanese Spinach, Beef & Rice",
+    "category": "beef",
+    "servings": 2,
+    "description": "A comforting Lebanese one-pot dish with ground beef, frozen spinach, rice, and warm spices finished with a bright squeeze of lemon juice.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 45 min",
+    "ingredients": [
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Olive oil",
+        "original": "Olive oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "medium",
+        "name": "onion, diced",
+        "original": "1 medium onion, diced"
+      },
+      {
+        "quantity": 1,
+        "unit": "lb",
+        "name": "ground beef",
+        "original": "1 lb ground beef"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "allspice",
+        "original": "1 1/2 teaspoons allspice"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon ground cinnamon",
+        "original": "1/2 teaspoon ground cinnamon"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt",
+        "original": "Salt"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "(10 ounce) packages frozen chopped spinach (drained and squeeze out all water from spinach)",
+        "original": "3 (10 ounce) packages frozen chopped spinach (drained and squeeze out all water from spinach)"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Water",
+        "original": "Water"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "garlic cloves, minced",
+        "original": "3 garlic cloves, minced"
+      },
+      {
+        "quantity": 1,
+        "unit": "bunch",
+        "name": "fresh cilantro, chopped",
+        "original": "1 bunch fresh cilantro, chopped"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Lemon juice",
+        "original": "Lemon juice"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Rice, cooked",
+        "original": "Rice, cooked"
+      }
+    ],
+    "instructions": [
+      "In a cooking pot, add olive oil and heat for a moment. Add onions and saut\u00e9. Add ground beef and cook until beef is brown. Add allspice, cinnamon, and salt. Mix. Add spinach and saut\u00e9 with meat for a moment. Once it's all mixed well together, add water to the pot, just enough to cover the spinach. Cover and let the spinach meat mixture boil and then turn it down to medium heat and let it simmer/boil for a good 30 minutes.",
+      "Meanwhile, get a saut\u00e9 pan and add some olive oil, the garlic, and the chopped cilantro and saut\u00e9' that mixture together. Add cilantro/garlic mixture to the spinach (after the spinach has cooked for 30 minutes). Cover and let it simmer for about 15 more minutes. Serve with rice and squeeze lemon juice on top!"
+    ],
+    "tags": [
+      "beef",
+      "lebanese",
+      "middle-eastern",
+      "spinach",
+      "rice",
+      "one-pot",
+      "comfort-food"
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 26,
+      "carbs": 40,
+      "fat": 16
+    }
+  },
+  {
+    "slug": "smash-burger",
+    "title": "Homemade Smash Burger",
+    "category": "beef",
+    "servings": 2,
+    "description": "Classic smash burgers with crispy edges, melted cheese, and caramelized onions. The key is pressing the meat thin for maximum crust development.",
+    "meta": "Serves: 2 | Prep Time: 10 min | Cook Time: 10 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "Brioche buns",
+        "original": "2 Brioche buns"
+      },
+      {
+        "quantity": 8,
+        "unit": "ounces",
+        "name": "extra lean ground beef",
+        "original": "8 ounces extra lean ground beef"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "Velveeta slices",
+        "original": "2 Velveeta slices"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Pickles",
+        "original": "Pickles"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt (to taste)",
+        "original": "Salt (to taste)"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Pepper (to taste)",
+        "original": "Pepper (to taste)"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 medium white onion, diced",
+        "original": "1/2 medium white onion, diced"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon avocado oil",
+        "original": "1/2 teaspoon avocado oil"
+      }
+    ],
+    "instructions": [
+      "Create 4 even beef balls from the ground beef.",
+      "Lay a square of parchment paper and put a ball on it, then put another square on the top and smash each ball with a pot as thin as you can. Should be about 5/8 inch thick patty.",
+      "Saut\u00e9 onions in a separate pan with 1/2 teaspoon of avocado oil until slightly golden.",
+      "Get a non-stick pan decently hot and slap the meat down, peeling the paper off. Then press them down a bit with the spatula all around. Cook for 3 minutes on one side and 2 minutes after flipping.",
+      "When they're browned to your liking, spoon some of the saut\u00e9ed onions on and add a slice of cheese on one patty. Put another patty on top and add the remaining portion of onion, add the second slice of cheese. Cover with the lid to create steam to melt the cheese.",
+      "Have TOASTED (no debate on this) buns on the side. Let the patties rest on paper towel for 1-2 minutes to soak up the excess fat (this prevents a soggy bun!).",
+      "Put the patties on the buns, cover the buns and enjoy!"
+    ],
+    "tags": [
+      "beef",
+      "burger",
+      "american",
+      "quick",
+      "comfort-food"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 30,
+      "fat": 26
+    }
+  },
+  {
+    "slug": "grilled-corn-veggie-bowl",
+    "title": "Grilled Corn & Veggie Bowl with Shrimp & Avocado Crema over Rice",
+    "category": "seafood",
+    "servings": 2,
+    "description": "A colorful, healthy bowl with grilled corn, saut\u00e9ed shrimp, fresh vegetables, and creamy avocado crema over rice. Perfect for meal prep!",
+    "meta": "Serves: 2 | Prep Time: 20 min | Cook Time: 30 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "uncooked rice",
+        "original": "2 cups uncooked rice"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": ".5-2 lbs shrimp (about 40-50 medium shrimp)",
+        "original": "1.5-2 lbs shrimp (about 40-50 medium shrimp)"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "ears of corn",
+        "original": "2 ears of corn"
+      },
+      {
+        "quantity": 8,
+        "unit": "",
+        "name": "carrots",
+        "original": "8 carrots"
+      },
+      {
+        "quantity": 6,
+        "unit": "",
+        "name": "mini cucumbers",
+        "original": "6 mini cucumbers"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "vine tomatoes",
+        "original": "2 vine tomatoes"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "avocados",
+        "original": "2 avocados"
+      },
+      {
+        "quantity": 1,
+        "unit": "head",
+        "name": "butter lettuce",
+        "original": "1 head butter lettuce"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Oil, salt, pepper, garlic powder, paprika or chili flakes",
+        "original": "Oil, salt, pepper, garlic powder, paprika or chili flakes"
+      }
+    ],
+    "instructions": [
+      "**Cook the rice**: Prepare 2 cups uncooked rice according to package directions (makes about 6 cups cooked).",
+      "**Grill the corn**: Roast at 425\u00b0F for 20-25 minutes until charred, or grill. Cut kernels off the cobs.",
+      "**Prep vegetables**: Dice all 6 mini cucumbers and 2 tomatoes. Julienne, dice, or shave the 8 carrots. Chop the butter lettuce into bite-sized pieces.",
+      "**Cook the shrimp**: Season with salt, pepper, garlic powder, and chili flakes/paprika. Saut\u00e9 in oil over medium-high heat for 2-3 minutes per side until pink and cooked through.",
+      "**Make avocado crema**: Blend 1 avocado with 3-4 tablespoons water (or lime juice), salt, and seasonings until smooth.",
+      "**Assemble 4 bowls**: Start with rice as the base. Top with corn, carrots, cucumbers, tomatoes, and chopped lettuce. Add shrimp and diced second avocado. Drizzle with avocado crema.",
+      "**Season and serve**: Add final touches like salt, pepper, lime juice, or olive oil."
+    ],
+    "tags": [
+      "seafood",
+      "shrimp",
+      "bowl",
+      "meal-prep",
+      "healthy",
+      "grilled-corn",
+      "avocado-crema",
+      "rice"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 22,
+      "carbs": 35,
+      "fat": 14
+    }
+  },
+  {
+    "slug": "pad-thai",
+    "title": "Pad Thai",
+    "category": "seafood",
+    "servings": 2,
+    "description": "Classic Thai street food with flat rice noodles, shrimp or chicken, eggs, bean sprouts, and peanuts in a sweet and tangy tamarind sauce.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 8,
+        "unit": "ounces",
+        "name": "flat rice noodles",
+        "original": "8 ounces flat rice noodles"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "oil",
+        "original": "3 tablespoons oil"
+      },
+      {
+        "quantity": 3,
+        "unit": "cloves",
+        "name": "garlic, minced",
+        "original": "3 cloves garlic, minced"
+      },
+      {
+        "quantity": 8,
+        "unit": "ounces",
+        "name": "uncooked shrimp, chicken, or extra-firm tofu, cut into small pieces",
+        "original": "8 ounces uncooked shrimp, chicken, or extra-firm tofu, cut into small pieces"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "eggs",
+        "original": "2 eggs"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "fresh bean sprouts",
+        "original": "1 cup fresh bean sprouts"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "red bell pepper, thinly sliced",
+        "original": "1 red bell pepper, thinly sliced"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "green onions, chopped",
+        "original": "3 green onions, chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup dry roasted peanuts",
+        "original": "1/2 cup dry roasted peanuts"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "limes",
+        "original": "2 limes"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup fresh cilantro, chopped",
+        "original": "1/2 cup fresh cilantro, chopped"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "fish sauce",
+        "original": "3 tablespoons fish sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "low-sodium soy sauce",
+        "original": "1 tablespoon low-sodium soy sauce"
+      },
+      {
+        "quantity": 5,
+        "unit": "tablespoons",
+        "name": "light brown sugar",
+        "original": "5 tablespoons light brown sugar"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "rice vinegar, or Tamarind Paste",
+        "original": "2 tablespoons rice vinegar, or Tamarind Paste"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "Sriracha hot sauce, or more, to taste",
+        "original": "1 tablespoon Sriracha hot sauce, or more, to taste"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "creamy peanut butter (optional)",
+        "original": "2 tablespoons creamy peanut butter (optional)"
+      }
+    ],
+    "instructions": [
+      "Cook noodles according to package instructions, just until tender. Rinse under cold water.",
+      "Make sauce by combining sauce ingredients in a bowl. Set aside.",
+      "Stir Fry: Heat 1\u00bd tablespoons of oil in a wok or large saucepan over medium-high heat. Add the shrimp, chicken or tofu, garlic and bell pepper. The shrimp will cook quickly, about 1-2 minutes on each side, or until pink. If using chicken, cook until just cooked through, about 3-4 minutes, flipping only once.",
+      "Push everything to the side of the pan. Add a little more oil and add the beaten eggs. Scramble the eggs, breaking them into small pieces with a spatula as they cook.",
+      "Add noodles, sauce, bean sprouts and peanuts to the wok (reserving some peanuts for topping at the end). Toss everything to combine.",
+      "Garnish the top with green onions, extra peanuts, cilantro and lime wedges. Serve immediately!",
+      "Store leftovers in the fridge and enjoy within 2-3 days."
+    ],
+    "tags": [
+      "seafood",
+      "thai",
+      "noodles",
+      "stir-fry",
+      "quick",
+      "asian",
+      "shrimp"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 50,
+      "fat": 14
+    }
+  },
+  {
+    "slug": "shrimp-fried-rice",
+    "title": "Shrimp Fried Rice",
+    "category": "seafood",
+    "servings": 2,
+    "description": "Classic shrimp fried rice with day-old rice, scrambled eggs, mixed vegetables, and a perfect balance of soy, oyster, and sesame sauces.",
+    "meta": "Serves: 2 | Prep Time: 10 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 4.5,
+        "unit": "cups",
+        "name": "cooked rice (day-old and cold works best)",
+        "original": "4 1/2 cups cooked rice (day-old and cold works best)"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "lbs",
+        "name": "shrimp, peeled and deveined",
+        "original": "1 1/2 lbs shrimp, peeled and deveined"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "-5 eggs, beaten",
+        "original": "4-5 eggs, beaten"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "cups",
+        "name": "mixed vegetables (peas, carrots, corn)",
+        "original": "1 1/2 cups mixed vegetables (peas, carrots, corn)"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "-5 cloves garlic, minced",
+        "original": "4-5 cloves garlic, minced"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "-5 green onions, sliced (whites and greens separated)",
+        "original": "4-5 green onions, sliced (whites and greens separated)"
+      },
+      {
+        "quantity": 4.5,
+        "unit": "tablespoons",
+        "name": "soy sauce",
+        "original": "4 1/2 tablespoons soy sauce"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "oyster sauce (or substitute)",
+        "original": "1 1/2 tablespoons oyster sauce (or substitute)"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "teaspoons",
+        "name": "sesame oil",
+        "original": "1 1/2 teaspoons sesame oil"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "-5 tablespoons vegetable oil (divided)",
+        "original": "4-5 tablespoons vegetable oil (divided)"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt and white pepper to taste",
+        "original": "Salt and white pepper to taste"
+      }
+    ],
+    "instructions": [
+      "**Cook the shrimp**: Heat 1\u00bd tablespoons oil in a large wok or skillet over high heat. Season shrimp with salt and pepper, cook 2-3 minutes until pink. Remove and set aside.",
+      "**Scramble the eggs**: Add 1\u00bd tablespoons oil, pour in beaten eggs, scramble quickly, then remove.",
+      "**Stir-fry vegetables**: Add remaining 1\u00bd-2 tablespoons oil. Cook garlic and white parts of green onions for 30 seconds. Add mixed vegetables, stir-fry 2-3 minutes.",
+      "**Add rice**: Add cold rice, break up any clumps. Stir-fry 3-4 minutes until heated through and slightly crispy.",
+      "**Season**: Add soy sauce, oyster sauce, and sesame oil. Toss well.",
+      "**Combine**: Return shrimp and eggs to the wok. Toss everything together for 1-2 minutes.",
+      "**Finish**: Top with green onion tops. Serve hot!"
+    ],
+    "tags": [
+      "seafood",
+      "shrimp",
+      "fried-rice",
+      "asian",
+      "quick",
+      "leftover-rice",
+      "stir-fry"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 46,
+      "fat": 12
+    }
+  },
+  {
+    "slug": "shrimp-lemon-orecchiette",
+    "title": "Shrimp Lemon Orecchiette",
+    "category": "seafood",
+    "servings": 2,
+    "description": "A bright and fresh pasta dish with perfectly seared shrimp, tender arugula, lemon, and orecchiette pasta. Simple yet elegant.",
+    "meta": "Serves: 2 | Prep Time: 10 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 150,
+        "unit": "",
+        "name": "g orecchiette pasta",
+        "original": "150 g orecchiette pasta"
+      },
+      {
+        "quantity": 300,
+        "unit": "",
+        "name": "g shrimp (peeled & deveined, medium or large)",
+        "original": "300 g shrimp (peeled & deveined, medium or large)"
+      },
+      {
+        "quantity": 3,
+        "unit": "cloves",
+        "name": "garlic, thinly sliced",
+        "original": "3 cloves garlic, thinly sliced"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 lemon (zest + juice)",
+        "original": "1/4 lemon (zest + juice)"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "baby arugula (roughly two large handfuls)",
+        "original": "2 cups baby arugula (roughly two large handfuls)"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "-3 tablespoons olive oil (good quality)",
+        "original": "2-3 tablespoons olive oil (good quality)"
+      },
+      {
+        "quantity": 1,
+        "unit": "pinch",
+        "name": "red pepper flakes (optional, for a little heat)",
+        "original": "1 pinch red pepper flakes (optional, for a little heat)"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt & freshly ground black pepper",
+        "original": "Salt & freshly ground black pepper"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Grated Parmesan (optional, for serving)",
+        "original": "Grated Parmesan (optional, for serving)"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil.",
+      "Cook orecchiette until just al dente (they'll finish in the sauce).",
+      "Reserve 1 cup of pasta water, then drain.",
+      "Reserve 1 cup of pasta water, then drain.",
+      "Heat 1\u20132 tablespoons olive oil in a large skillet over medium-high heat.",
+      "Season shrimp lightly with salt and pepper.",
+      "Cook shrimp for 1\u20132 minutes per side until just pink. Remove and set aside.",
+      "Lower heat to medium. Add another drizzle of olive oil.",
+      "Add sliced garlic and red pepper flakes. Saut\u00e9 for about 30 seconds \u2014 just until fragrant (don't burn the garlic).",
+      "Pour in the lemon juice and zest, scraping any bits from the pan.",
+      "Add a splash of reserved pasta water (start with \u00bc cup) to loosen things up.",
+      "Toss it all together.",
+      "Add drained pasta into the skillet. Stir until the pasta soaks up the sauce.",
+      "Return shrimp to the pan. Toss again.",
+      "Add arugula right at the end \u2014 it should wilt gently in the heat of the pasta.",
+      "Plate it up and grate Parmesan on top (optional but amazing)."
+    ],
+    "tags": [
+      "seafood",
+      "shrimp",
+      "pasta",
+      "lemon",
+      "italian",
+      "quick",
+      "arugula"
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 26,
+      "carbs": 44,
+      "fat": 14
+    }
+  },
+  {
+    "slug": "greek-salad",
+    "title": "Small Greek Salad",
+    "category": "sides",
+    "servings": 2,
+    "description": "A classic Greek salad with crisp romaine, fresh vegetables, and tangy feta cheese in a simple red wine vinegar dressing.",
+    "meta": "Serves: 2 | Prep Time: 10 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "chopped romaine hearts",
+        "original": "2 cups chopped romaine hearts"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "/3 cup cherry tomatoes, halved",
+        "original": "2/3 cup cherry tomatoes, halved"
+      },
+      {
+        "quantity": 1,
+        "unit": "small",
+        "name": "organic cucumber, diced",
+        "original": "1 small organic cucumber, diced"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup red onion, thinly sliced",
+        "original": "1/3 cup red onion, thinly sliced"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "Dodoni crumbled feta",
+        "original": "1 tablespoon Dodoni crumbled feta"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "2 tablespoons olive oil"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "red wine vinegar",
+        "original": "2 tablespoons red wine vinegar"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Pinch of dried oregano (optional)",
+        "original": "Pinch of dried oregano (optional)"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt and pepper to taste",
+        "original": "Salt and pepper to taste"
+      }
+    ],
+    "instructions": [
+      "Combine all vegetables in a bowl.",
+      "Whisk together olive oil and red wine vinegar.",
+      "Toss salad with dressing, divide between two plates, and top with crumbled feta."
+    ],
+    "tags": [
+      "salad",
+      "greek",
+      "vegetarian",
+      "quick",
+      "healthy",
+      "mediterranean",
+      "feta"
+    ],
+    "nutrition": {
+      "calories": 170,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 14
+    }
+  },
+  {
+    "slug": "hawaiian-mac-salad",
+    "title": "Authentic Hawaiian Macaroni Salad",
+    "category": "sides",
+    "servings": 2,
+    "description": "Creamy, tangy Hawaiian-style macaroni salad with a mayo base, apple cider vinegar, shredded carrots and onion. Must be refrigerated for at least 4 hours to develop the signature flavor.",
+    "meta": "Serves: 2 | Prep Time: 10 min (+ 4 hrs chilling) | Cook Time: 10 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "pound",
+        "name": "macaroni",
+        "original": "1 pound macaroni"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "apple cider vinegar",
+        "original": "2 tablespoons apple cider vinegar"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "carrots, shredded",
+        "original": "2 carrots, shredded"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup shredded onion (optional)",
+        "original": "1/4 cup shredded onion (optional)"
+      },
+      {
+        "quantity": 2.5,
+        "unit": "cups",
+        "name": "mayonnaise (Best Foods or Hellman's mayonnaise - no substitutes!)",
+        "original": "2 1/2 cups mayonnaise (Best Foods or Hellman's mayonnaise - no substitutes!)"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup milk",
+        "original": "1/4 cup milk"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "name": "sugar",
+        "original": "2 teaspoons sugar"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Kosher salt, to taste",
+        "original": "Kosher salt, to taste"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Ground black pepper, to taste",
+        "original": "Ground black pepper, to taste"
+      }
+    ],
+    "instructions": [
+      "Cook macaroni according to package directions. Rinse under cold water until completely cool. Drain well and place in a large bowl.",
+      "Sprinkle on vinegar. Add carrot and onion. Toss together until well combined. Refrigerate for 15 minutes, or until cooled.",
+      "In a separate, small bowl, whisk together mayo, milk, and sugar. Fold the mayo mixture into the macaroni until all the noodles are evenly coated. Add salt and pepper to taste.",
+      "**Cover and refrigerate for at least 4 hours (best if overnight).**",
+      "Gently stir before serving, add a little more milk if needed, no more than a tablespoon or two."
+    ],
+    "tags": [
+      "sides",
+      "hawaiian",
+      "macaroni-salad",
+      "make-ahead",
+      "cold-salad",
+      "picnic",
+      "bbq-side"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 16
+    }
+  },
+  {
+    "slug": "micro-chop-kale-salad",
+    "title": "Micro Chop Kale Salad",
+    "category": "sides",
+    "servings": 2,
+    "description": "A vibrant kale salad with finely chopped greens, toasted pine nuts and panko, creamy avocado, and a honey-dijon dressing. Massaging the kale softens it into a tender, non-tough base.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 5 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "bunch",
+        "name": "curly kale, stems removed and very finely chopped",
+        "original": "1 bunch curly kale, stems removed and very finely chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "avocado oil",
+        "original": "1 teaspoon avocado oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "avocado, chopped",
+        "original": "1 avocado, chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "jalape\u00f1o, thinly sliced, seeds removed",
+        "original": "1 jalape\u00f1o, thinly sliced, seeds removed"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup pine nuts",
+        "original": "1/3 cup pine nuts"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup panko breadcrumbs",
+        "original": "1/2 cup panko breadcrumbs"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup parmigiano cheese, finely grated",
+        "original": "3/4 cup parmigiano cheese, finely grated"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "lemon, zested",
+        "original": "1 lemon, zested"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup avocado oil",
+        "original": "1/3 cup avocado oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup honey",
+        "original": "1/4 cup honey"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "lemon, juiced",
+        "original": "1 lemon, juiced"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "dijon mustard",
+        "original": "1 teaspoon dijon mustard"
+      },
+      {
+        "quantity": 2,
+        "unit": "cloves",
+        "name": "garlic",
+        "original": "2 cloves garlic"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "kosher salt",
+        "original": "1 teaspoon kosher salt"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon ground black pepper",
+        "original": "1/2 teaspoon ground black pepper"
+      }
+    ],
+    "instructions": [
+      "**Why?** Because the kale softens and isn't a tough ball of roughage that we all tend to think of when we think of kale!",
+      "First, remove stems from the kale and chop it very finely.",
+      "Transfer the chopped kale to a large bowl and add the avocado oil.",
+      "Use your hands to massage the kale for about 1 minute, to soften.",
+      "Chop the avocado and jalapenos and add to the bowl, along with the grated cheese.",
+      "Next, in a small pan over medium-low heat, toast the pine nuts for about 3-4 minutes then add in the breadcrumbs and toast for 2 minutes more.",
+      "Remove from heat and transfer to the bowl with the salad.",
+      "Add the dressing ingredients to a small blender and blend until creamy.",
+      "Pour over the top of the salad.",
+      "Add the lemon zest.",
+      "Toss and enjoy!"
+    ],
+    "tags": [
+      "salad",
+      "kale",
+      "healthy",
+      "vegetarian",
+      "pine-nuts",
+      "avocado",
+      "make-ahead"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 10
+    }
+  },
+  {
+    "slug": "protein-cornbread",
+    "title": "Protein Cornbread",
+    "category": "sides",
+    "servings": 2,
+    "description": "A healthier take on classic cornbread with added protein powder, Greek yogurt, and reduced sugar. Perfect alongside chili or as a snack.",
+    "meta": "Serves: 2 | Prep Time: 10 min | Cook Time: 20 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "ounces",
+        "name": "milk substitute (or milk)",
+        "original": "2 ounces milk substitute (or milk)"
+      },
+      {
+        "quantity": 10,
+        "unit": "",
+        "name": "-15 drops liquid sweetener",
+        "original": "10-15 drops liquid sweetener"
+      },
+      {
+        "quantity": 1,
+        "unit": "large",
+        "name": "whole egg",
+        "original": "1 large whole egg"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup unsweetened apple sauce",
+        "original": "1/4 cup unsweetened apple sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "Greek yogurt (plain fat free)",
+        "original": "1 cup Greek yogurt (plain fat free)"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "honey",
+        "original": "1 tablespoon honey"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup rolled oats",
+        "original": "1/4 cup rolled oats"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup cornmeal",
+        "original": "3/4 cup cornmeal"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon salt",
+        "original": "1/2 teaspoon salt"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "scoop protein powder (natural or vanilla)",
+        "original": "1 scoop protein powder (natural or vanilla)"
+      },
+      {
+        "quantity": 2,
+        "unit": "teaspoons",
+        "name": "baking powder",
+        "original": "2 teaspoons baking powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon baking soda",
+        "original": "1/4 teaspoon baking soda"
+      }
+    ],
+    "instructions": [
+      "Turn your rolled oats into flour by processing or blending them.",
+      "Take out a bowl and mix all of your ingredients together.",
+      "Coat a baking dish with some non-stick cooking spray.",
+      "Pour your mix in.",
+      "Bake on 425F/218C for 15-20 minutes."
+    ],
+    "tags": [
+      "sides",
+      "cornbread",
+      "high-protein",
+      "healthy",
+      "baked"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 10,
+      "carbs": 26,
+      "fat": 6
+    }
+  },
+  {
+    "slug": "quinoa-tabbouleh",
+    "title": "Quinoa Tabbouleh - Edy Massih",
+    "category": "sides",
+    "servings": 2,
+    "description": "A Lebanese-inspired tabbouleh using quinoa instead of bulgur wheat, with abundant fresh parsley, vegetables, and a bright lemon-pomegranate dressing.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 15 min (quinoa)",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "tri-color quinoa, cooked",
+        "original": "2 cups tri-color quinoa, cooked"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "parsley, chopped",
+        "original": "2 cups parsley, chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "scallions, chopped",
+        "original": "1 cup scallions, chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "cucumber, chopped",
+        "original": "1 cup cucumber, chopped"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "tomato, chopped",
+        "original": "1 cup tomato, chopped"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "lemons, zested + juiced",
+        "original": "3 lemons, zested + juiced"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "pomegranate molasses",
+        "original": "2 tablespoons pomegranate molasses"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup extra virgin olive oil",
+        "original": "1/4 cup extra virgin olive oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "salt",
+        "original": "1 tablespoon salt"
+      }
+    ],
+    "instructions": [
+      "Cook the quinoa according to package directions and let cool completely.",
+      "Finely chop the parsley, scallions, cucumber, and tomato.",
+      "In a large bowl, combine the cooked quinoa with all the chopped vegetables.",
+      "In a small bowl, whisk together the lemon zest, lemon juice, pomegranate molasses, olive oil, and salt.",
+      "Pour the dressing over the quinoa mixture and toss well to combine.",
+      "Refrigerate for at least 30 minutes before serving to allow flavors to meld.",
+      "Serve chilled or at room temperature."
+    ],
+    "tags": [
+      "vegetarian",
+      "quinoa",
+      "lebanese",
+      "salad",
+      "gluten-free",
+      "make-ahead",
+      "healthy"
+    ],
+    "nutrition": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 8
+    }
+  },
+  {
+    "slug": "roasted-potatoes",
+    "title": "Roasted Little Potatoes",
+    "category": "sides",
+    "servings": 2,
+    "description": "Perfectly crispy roasted potatoes with golden edges and fluffy interiors. Simple seasoning lets the natural potato flavor shine through.",
+    "meta": "Serves: 2 | Prep Time: 10 min | Cook Time: 30 min",
+    "ingredients": [
+      {
+        "quantity": 8,
+        "unit": "",
+        "name": "-10 Little Potatoes (about 12-14 oz total)",
+        "original": "8-10 Little Potatoes (about 12-14 oz total)"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "1\u00bd tablespoons olive oil"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "garlic powder (or onion powder, or a mix)",
+        "original": "\u00bd teaspoon garlic powder (or onion powder, or a mix)"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "salt",
+        "original": "\u00bd teaspoon salt"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "original": "\u00bc teaspoon black pepper"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 425\u00b0F.",
+      "Halve the potatoes (or quarter if they're larger). Toss in a bowl with olive oil, garlic/onion powder, salt, and pepper until evenly coated.",
+      "Spread on a baking sheet in a single layer, cut side down.",
+      "Roast for 25-30 minutes, flipping halfway through, until golden brown and crispy on the edges. They should be fork-tender inside."
+    ],
+    "tags": [
+      "sides",
+      "potatoes",
+      "roasted",
+      "easy",
+      "vegetarian"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 7
+    }
+  },
+  {
+    "slug": "adas-bil-hamod",
+    "title": "Adas Bil Hamod (Lebanese Lentil & Lemon Soup)",
+    "category": "vegetarian",
+    "servings": 4,
+    "description": "A classic Middle Eastern lentil stew that's both hearty and tangy, featuring tender lentils simmered in a broth of fresh herbs, chard, aromatic spices and fresh lemon juice. Vibrant, comforting, and nutritious.",
+    "meta": "Serves: 4 | Prep Time: 15 min | Cook Time: 50 min | Total Time: 1 hr 5 min",
+    "ingredients": [
+      {
+        "quantity": 7,
+        "unit": "tablespoons",
+        "name": "extra virgin olive oil",
+        "original": "7 tablespoons extra virgin olive oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "large",
+        "name": "onion",
+        "original": "1 large onion"
+      },
+      {
+        "quantity": 11,
+        "unit": "",
+        "name": ".11 cups swiss chard",
+        "original": "11.11 cups swiss chard"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": ".88 cups coriander",
+        "original": "1.88 cups coriander"
+      },
+      {
+        "quantity": 2,
+        "unit": "medium",
+        "name": "potatoes",
+        "original": "2 medium potatoes"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": ".67 cups brown lentils",
+        "original": "1.67 cups brown lentils"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "ground cumin",
+        "original": "1 teaspoon ground cumin"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "0.5 teaspoon freshly ground black pepper",
+        "original": "0.5 teaspoon freshly ground black pepper"
+      },
+      {
+        "quantity": 6,
+        "unit": "",
+        "name": ".34 cups water",
+        "original": "6.34 cups water"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": ".25 tablespoons salt (17g)",
+        "original": "1.25 tablespoons salt (17g)"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": ".03 fl oz lemon juice (1-2 lemons)",
+        "original": "2.03 fl oz lemon juice (1-2 lemons)"
+      },
+      {
+        "quantity": 5,
+        "unit": "",
+        "name": "garlic cloves",
+        "original": "5 garlic cloves"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "dried mint",
+        "original": "1 tablespoon dried mint"
+      }
+    ],
+    "instructions": [
+      "Add 3 tablespoons of the oil to a casserole and pre-heat over medium-low heat. Finely dice the onion and add to the casserole. Cut the leaves off the Swiss chard. Roughly chop the leaves and set aside, then finely dice the stems. Add the stems to the onion and continue cooking until both have softened.",
+      "In the meantime, trim and discard the lower stems of the coriander and roughly chop the rest. Dice the potatoes into 1cm pieces and give the lentils a quick rinse under the tap. When the onions and stems are soft, stir in the cumin and black pepper to heat it through, then tip the lentils into the pan along with the potatoes, coriander and 1.5l of water. Bring to a boil, reduce the heat and simmer covered for 20 minutes or until the lentils are tender.",
+      "Add the chard leaves and salt and simmer for another 10 minutes until the lentils and potatoes are fully cooked.",
+      "Meanwhile, measure out the lemon juice. Then peel and finely grate the garlic. Pre-heat the remaining 4 tablespoons of olive oil in a small frying pan and saut\u00e9 the garlic and dried mint until the garlic is golden. Add this to the soup along with the lemon juice. Turn off the heat, give it a stir, then divide over bowls and serve with a generous drizzle of extra virgin olive oil and some bread."
+    ],
+    "tags": [
+      "vegetarian",
+      "lentils",
+      "lebanese",
+      "soup",
+      "healthy",
+      "comfort-food",
+      "one-pot"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 12,
+      "carbs": 34,
+      "fat": 4
+    }
+  },
+  {
+    "slug": "stuffed-zucchini",
+    "title": "Deconstructed Stuffed Zucchini with Brown Butter Pine Nuts",
+    "category": "vegetarian",
+    "servings": 2,
+    "description": "All the flavors of stuffed zucchini without the tedious hollowing! Zucchini boats filled with spiced ground lamb, marinara sauce, and topped with golden brown butter pine nuts.",
+    "meta": "Serves: 2 | Prep Time: 15 min | Cook Time: 30 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "yellow onion",
+        "original": "1 yellow onion"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Butter",
+        "original": "Butter"
+      },
+      {
+        "quantity": 6,
+        "unit": "",
+        "name": "zucchini",
+        "original": "6 zucchini"
+      },
+      {
+        "quantity": 32,
+        "unit": "ounces",
+        "name": "marinara sauce",
+        "original": "32 ounces marinara sauce"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Chicken stock",
+        "original": "Chicken stock"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt",
+        "original": "Salt"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "baharat",
+        "original": "3 tablespoons baharat"
+      },
+      {
+        "quantity": 1,
+        "unit": "pound",
+        "name": "ground lamb 85/15",
+        "original": "1 pound ground lamb 85/15"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "2 tablespoons olive oil"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Aluminum foil",
+        "original": "Aluminum foil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup pine nuts",
+        "original": "1/2 cup pine nuts"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Parsley",
+        "original": "Parsley"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Vermicelli rice",
+        "original": "Vermicelli rice"
+      }
+    ],
+    "instructions": [
+      "Chop the onion and brown it in some butter.",
+      "Cut the zucchinis in half and scoop out the flesh, keeping it in a bowl separately.",
+      "Mash the zucchini flesh and add marinara sauce, chicken stock, salt, and baharat, then mix together.",
+      "Pour the sauce into the bottom of a baking dish.",
+      "Place the hollowed out zucchinis into the pan and fork them to make them tender.",
+      "Add lamb to the pan with the onions and cook with salt and baharat for about five to six minutes.",
+      "Olive oil the zucchinis and scoop the lamb mixture into each zucchini boat.",
+      "Cover the pan with aluminum foil and bake in the oven for about 25 minutes, removing the foil for the last five minutes.",
+      "In a separate pan, heat butter and add pine nuts, mixing until they are golden brown."
+    ],
+    "tags": [
+      "lamb",
+      "zucchini",
+      "middle-eastern",
+      "baharat",
+      "baked",
+      "mediterranean",
+      "pine-nuts"
+    ],
+    "nutrition": {
+      "calories": 260,
+      "protein": 14,
+      "carbs": 22,
+      "fat": 14
+    }
+  },
+  {
+    "slug": "french-toast",
+    "title": "French Toast",
+    "category": "breakfast",
+    "servings": 4,
+    "description": "Brioche and challah bread make the best French toast. Both are already so eggy that once dipped in the batter and griddled in butter they become custard-like on the inside with a nicely browned and caramelized outside.",
+    "meta": "Serves: 4 | Prep Time: 20 min | Cook Time: 10 min | Total Time: 30 min",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "ground cinnamon",
+        "original": "1 teaspoon ground cinnamon"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon ground nutmeg",
+        "original": "1/4 teaspoon ground nutmeg"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "sugar",
+        "original": "2 tablespoons sugar"
+      },
+      {
+        "quantity": 4,
+        "unit": "tablespoons",
+        "name": "butter",
+        "original": "4 tablespoons butter"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "eggs",
+        "original": "4 eggs"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup milk",
+        "original": "1/4 cup milk"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon vanilla extract",
+        "original": "1/2 teaspoon vanilla extract"
+      },
+      {
+        "quantity": 8,
+        "unit": "slices",
+        "name": "challah, brioche, or white bread",
+        "original": "8 slices challah, brioche, or white bread"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup maple syrup, warmed",
+        "original": "1/2 cup maple syrup, warmed"
+      }
+    ],
+    "instructions": [
+      "In a small bowl, combine cinnamon, nutmeg, and sugar and set aside briefly.",
+      "In a 10-inch or 12-inch skillet, melt butter over medium heat. Whisk together cinnamon mixture, eggs, milk, and vanilla and pour into a shallow container such as a pie plate.",
+      "Dip bread in egg mixture. Fry slices until golden brown, then flip to cook the other side. Serve with syrup."
+    ],
+    "tags": [
+      "breakfast",
+      "french-toast",
+      "classic",
+      "brioche",
+      "challah",
+      "weekend-breakfast"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 12
+    }
+  },
+  {
+    "slug": "pancakes",
+    "title": "Good Old-Fashioned Pancakes",
+    "category": "breakfast",
+    "servings": 8,
+    "description": "A classic family recipe for fluffy, perfectly golden pancakes. This was found in Grandma's recipe book and judging from the weathered look of the card, it was a family favorite.",
+    "meta": "Serves: 8 | Prep Time: 5 min | Cook Time: 15 min | Total Time: 20 min",
+    "ingredients": [
+      {
+        "quantity": 1.5,
+        "unit": "cups",
+        "name": "all-purpose flour",
+        "original": "1 \u00bd cups all-purpose flour"
+      },
+      {
+        "quantity": 3.5,
+        "unit": "teaspoons",
+        "name": "baking powder",
+        "original": "3 \u00bd teaspoons baking powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "white sugar",
+        "original": "1 tablespoon white sugar"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "salt, or more to taste",
+        "original": "\u00bc teaspoon salt, or more to taste"
+      },
+      {
+        "quantity": 1.25,
+        "unit": "cups",
+        "name": "milk",
+        "original": "1 \u00bc cups milk"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "butter, melted",
+        "original": "3 tablespoons butter, melted"
+      },
+      {
+        "quantity": 1,
+        "unit": "large",
+        "name": "egg",
+        "original": "1 large egg"
+      }
+    ],
+    "instructions": [
+      "Gather all ingredients.",
+      "Sift flour, baking powder, sugar, and salt together in a large bowl. Make a well in the center and add milk, melted butter, and egg; mix until smooth.",
+      "Heat a lightly oiled griddle or pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes.",
+      "Flip and cook until browned on the other side. Repeat with remaining batter.",
+      "Serve and enjoy!"
+    ],
+    "tags": [
+      "breakfast",
+      "pancakes",
+      "classic",
+      "american",
+      "easy",
+      "family-favorite"
+    ],
+    "nutrition": {
+      "calories": 250,
+      "protein": 7,
+      "carbs": 36,
+      "fat": 9
+    }
+  },
+  {
+    "slug": "banana-bread",
+    "title": "Banana Banana Bread",
+    "category": "desserts",
+    "servings": 12,
+    "description": "This banana bread recipe creates the most delicious, moist loaf with loads of banana flavor. Friends and family say it's by far the best! It tastes wonderful toasted.",
+    "meta": "Serves: 12 | Prep Time: 15 min | Cook Time: 1 hr | Total Time: 1 hr 15 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "all-purpose flour",
+        "original": "2 cups all-purpose flour"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "baking soda",
+        "original": "1 teaspoon baking soda"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "salt",
+        "original": "\u00bc teaspoon salt"
+      },
+      {
+        "quantity": 0.75,
+        "unit": "cup",
+        "name": "brown sugar",
+        "original": "\u00be cup brown sugar"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "cup",
+        "name": "butter",
+        "original": "\u00bd cup butter"
+      },
+      {
+        "quantity": 2,
+        "unit": "large",
+        "name": "eggs, beaten",
+        "original": "2 large eggs, beaten"
+      },
+      {
+        "quantity": 2.3333333333333335,
+        "unit": "cups",
+        "name": "mashed overripe bananas",
+        "original": "2 \u2153 cups mashed overripe bananas"
+      }
+    ],
+    "instructions": [
+      "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.",
+      "Combine flour, baking soda, and salt in a large bowl. Beat brown sugar and butter with an electric mixer in a separate large bowl until smooth. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture until just combined.",
+      "Pour batter into the prepared loaf pan.",
+      "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes.",
+      "Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely.",
+      "Enjoy!"
+    ],
+    "tags": [
+      "dessert",
+      "bread",
+      "banana",
+      "baked",
+      "easy",
+      "classic",
+      "comfort-food"
+    ],
+    "nutrition": {
+      "calories": 231,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 9
+    }
+  },
+  {
+    "slug": "chocolate-chip-cookies",
+    "title": "Crispy Chocolate Chip Cookies",
+    "category": "desserts",
+    "servings": 36,
+    "description": "These chocolate chip cookies are crispy on the outside and still gooey in the middle. The dough is thicker than typical recipes, creating the perfect texture combination.",
+    "meta": "Serves: 36 cookies | Prep Time: 10 min | Cook Time: 15 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "all-purpose flour",
+        "original": "2 cups all-purpose flour"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "baking soda",
+        "original": "1 teaspoon baking soda"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "salt",
+        "original": "1 teaspoon salt"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "room temperature butter",
+        "original": "1 cup room temperature butter"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup sugar",
+        "original": "3/4 cup sugar"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup packed brown sugar",
+        "original": "3/4 cup packed brown sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "egg",
+        "original": "1 egg"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "vanilla extract",
+        "original": "1 teaspoon vanilla extract"
+      },
+      {
+        "quantity": 2,
+        "unit": "cups",
+        "name": "semi sweet chocolate chips",
+        "original": "2 cups semi sweet chocolate chips"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350 degrees. Sift flour, baking soda and salt together, set aside.",
+      "Using an electric mixer, cream together the butter and sugars until light and fluffy. Beat in the egg, then add the vanilla. Mix in the dry ingredients until well blended, then stir in the chocolate chips. Using a small cookie scoop (approximately 2 tablespoons) drop the dough onto an ungreased cookie sheet.",
+      "Bake for 14-15 minutes. Allow the cookies to cool a few minutes before transferring to wire rack to cool completely."
+    ],
+    "tags": [
+      "dessert",
+      "cookies",
+      "chocolate-chip",
+      "crispy",
+      "classic",
+      "baking"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 9
+    }
+  },
+  {
+    "slug": "ricotta-cookies",
+    "title": "Italian Ricotta Cookies Recipe",
+    "category": "desserts",
+    "servings": 60,
+    "description": "These Italian Ricotta Cookies are soft, sweet, and topped with almond glaze and sprinkles - a festive treat perfect for any occasion!",
+    "meta": "Serves: 60 cookies | Prep Time: 10 min | Cook Time: 10 min | Inactive Time: 10 min | Total Time: 30 min",
+    "ingredients": [
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "sticks butter, softened (1/2 pound)",
+        "original": "2 sticks butter, softened (1/2 pound)"
+      },
+      {
+        "quantity": 1.75,
+        "unit": "cup",
+        "name": "granulated sugar",
+        "original": "1 \u00be cup granulated sugar"
+      },
+      {
+        "quantity": 2,
+        "unit": "large",
+        "name": "eggs",
+        "original": "2 large eggs"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "container ricotta cheese (15 oz.)",
+        "original": "1 container ricotta cheese (15 oz.)"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "vanilla extract",
+        "original": "2 tablespoons vanilla extract"
+      },
+      {
+        "quantity": 4,
+        "unit": "cups",
+        "name": "all-purpose flour",
+        "original": "4 cups all-purpose flour"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "baking powder",
+        "original": "1 teaspoon baking powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "baking soda",
+        "original": "1 teaspoon baking soda"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "-5 tablespoons milk",
+        "original": "4-5 tablespoons milk"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "cups",
+        "name": "powdered sugar",
+        "original": "1 \u00bd cups powdered sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "almond extract",
+        "original": "1 teaspoon almond extract"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Non-pareils or sprinkles (optional)",
+        "original": "Non-pareils or sprinkles (optional)"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 350\u00b0F. Line baking sheets with parchment paper or use ungreased baking sheets.",
+      "In a large mixing bowl, cream the butter and sugar until light and fluffy.",
+      "Beat in the eggs, ricotta cheese, and vanilla extract until fully combined.",
+      "In a separate bowl, whisk together the flour, baking powder, and baking soda.",
+      "Gradually add the dry ingredients to the wet ingredients, mixing just until incorporated.",
+      "Scoop or roll dough into teaspoon-sized balls and place about 2 inches apart on the baking sheet.",
+      "Bake for 8-10 minutes or until the edges are lightly golden. Let cool on the baking sheet for 3 minutes, then transfer to a wire rack to cool completely.",
+      "In a medium bowl, whisk together the milk, powdered sugar, and almond extract until smooth.",
+      "Dip the tops of cooled cookies into the glaze and return to the wire rack.",
+      "Immediately top with non-pareils or sprinkles before the glaze sets."
+    ],
+    "tags": [
+      "dessert",
+      "cookies",
+      "italian",
+      "ricotta",
+      "glazed",
+      "festive",
+      "holiday"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 7
+    }
+  },
+  {
+    "slug": "spritz-cookies",
+    "title": "My Favorite Spritz Cookies",
+    "category": "desserts",
+    "servings": 84,
+    "description": "These are my favorite spritz cookies! Using a cookie press, shape this easy cookie dough into intricate shapes and have fun decorating with sprinkles, chocolate, and chocolate chips. No cookie dough chilling required and they freeze and ship wonderfully.",
+    "meta": "Serves: 84 bite-size cookies | Prep Time: 30 min | Cook Time: 30 min | Total Time: 1 hr",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "(16 tablespoons; 226g) unsalted butter, softened to room temperature",
+        "original": "1 cup (16 tablespoons; 226g) unsalted butter, softened to room temperature"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup (150g) granulated sugar",
+        "original": "3/4 cup (150g) granulated sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "large",
+        "name": "egg, at room temperature",
+        "original": "1 large egg, at room temperature"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "pure vanilla extract",
+        "original": "1 teaspoon pure vanilla extract"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "almond extract",
+        "original": "1 teaspoon almond extract"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "and 1/3 cups (291g) all-purpose flour (spooned & leveled)",
+        "original": "2 and 1/3 cups (291g) all-purpose flour (spooned & leveled)"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon salt",
+        "original": "1/2 teaspoon salt"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Optional: gel food coloring, sprinkles, chocolate chips, and melted chocolate for decorating",
+        "original": "Optional: gel food coloring, sprinkles, chocolate chips, and melted chocolate for decorating"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 350\u00b0F (177\u00b0C). Line 2 or 3 large baking sheets with silicone baking mats, or use nonstick baking sheets with no liner. (Do not use parchment paper because the cookie dough, when pressed out of the cookie press, will not adhere to it.) While the oven is preheating, and if your refrigerator or freezer has room, it's helpful to chill your lined baking sheets. It sounds odd, but dough coming out of the cookie press adheres much better to a cold surface.",
+      "Make the dough: In a large bowl, using a handheld mixer or a stand mixer fitted with a paddle attachment, beat the butter and granulated sugar together on medium-high speed until smooth, about 3 minutes. Add the egg, vanilla extract, and almond extract, and beat on high speed until combined, about 1 minute. Scrape down the sides and up the bottom of the bowl and beat again as needed to combine.",
+      "On low speed, beat in the flour and salt. Turn up to high speed and beat until completely combined.",
+      "Press the dough: Follow cookie press manufacturer's directions to fit your cookie press with a decorative plate. Scrape some of the dough into your cookie press. Hold the cookie press perpendicular to the cold lined baking sheet and press out the cookies 2 inches (5 cm) apart. If desired, decorate the shaped cookie dough with sprinkles or press a chocolate chip into the center. Note: It's helpful to lightly brush the shaped cookie dough with water before adding sprinkles\u2014this helps them stick.",
+      "If the cookie dough becomes too soft as you work, chill the shaped cookie dough in the refrigerator for 10 minutes before baking.",
+      "Bake until very lightly browned on the edges, 7\u20139 minutes.",
+      "Remove from the oven and allow to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely. If desired, drizzle with melted chocolate.",
+      "Cookies stay fresh in an airtight container at room temperature for up to 1 week."
+    ],
+    "tags": [
+      "dessert",
+      "cookies",
+      "spritz",
+      "pressed",
+      "holiday",
+      "decorative",
+      "almond"
+    ],
+    "nutrition": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 8
+    }
+  },
+  {
+    "slug": "buffalo-wings",
+    "title": "Truly Crispy Oven Baked Buffalo Wings",
+    "category": "appetizers",
+    "servings": 8,
+    "description": "This recipe uses a genius technique discovered by Cook's Illustrated to make chicken wings in the oven that come out so crispy that it's hard to believe they aren't deep fried. Tossed in a classic Buffalo sauce and served with blue cheese dip and celery.",
+    "meta": "Serves: 8 | Prep Time: 15 min | Cook Time: 1 hr 10 min | Total Time: 1 hr 25 min",
+    "ingredients": [
+      {
+        "quantity": 4,
+        "unit": "lb",
+        "name": "/ 2kg chicken wings, wingettes & drumettes",
+        "original": "4 lb / 2kg chicken wings, wingettes & drumettes"
+      },
+      {
+        "quantity": 5,
+        "unit": "teaspoons",
+        "name": "baking powder (NOT baking soda / bi-carb soda)",
+        "original": "5 teaspoons baking powder (NOT baking soda / bi-carb soda)"
+      },
+      {
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoons kosher salt / cooking salt (not table salt, too fine)",
+        "original": "3/4 teaspoons kosher salt / cooking salt (not table salt, too fine)"
+      },
+      {
+        "quantity": 4,
+        "unit": "tablespoons",
+        "name": "(60g) unsalted butter, melted",
+        "original": "4 tablespoons (60g) unsalted butter, melted"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup Frank's Original Red Hot Sauce",
+        "original": "1/2 cup Frank's Original Red Hot Sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "brown sugar",
+        "original": "1 tablespoon brown sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon kosher salt / cooking salt",
+        "original": "1/4 teaspoon kosher salt / cooking salt"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup crumbled blue cheese, softened (I use gorgonzola)",
+        "original": "1/2 cup crumbled blue cheese, softened (I use gorgonzola)"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup sour cream",
+        "original": "1/2 cup sour cream"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup mayonnaise, preferably whole-egg",
+        "original": "1/4 cup mayonnaise, preferably whole-egg"
+      },
+      {
+        "quantity": 1,
+        "unit": "clove",
+        "name": "small garlic, minced",
+        "original": "1 clove small garlic, minced"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "-3 tablespoons milk",
+        "original": "1-3 tablespoons milk"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "lemon juice",
+        "original": "2 tablespoons lemon juice"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon kosher salt / cooking salt",
+        "original": "1/2 teaspoon kosher salt / cooking salt"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Black pepper",
+        "original": "Black pepper"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Celery sticks",
+        "original": "Celery sticks"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Lots of beer!",
+        "original": "Lots of beer!"
+      }
+    ],
+    "instructions": [
+      "Dry overnight (optional) - If you plan ahead, lay the wings on a rack on a rimmed baking tray and let them dry uncovered in the fridge overnight. Alternatively, pat them dry with paper towels.",
+      "Preheat the oven to 250\u00b0F/120\u00b0C (all oven types). Put one oven shelf in the lower quarter of the oven and one in the top quarter.",
+      "Line the tray with foil. Put a rack on the tray then spray the rack with oil.",
+      "Toss wings - Place the wings in a large bowl. Sprinkle over baking powder and salt. Use hands to toss well (or shake in ziplock bag) to coat wings evenly.",
+      "Bake 30 minutes on low temp - Place the wings skin side up on the rack (ok if snug, they shrink). Bake on the lower shelf in the oven for 30 minutes.",
+      "Bake 40 minutes on high - Move the tray up to the higher shelf and turn the oven up to 425\u00b0F / 220\u00b0C (all oven types). Bake for a further 40 to 50 minutes, rotating the tray halfway through. The wings do not need to be turned over. They are ready when dark golden brown and the skin is very crispy.",
+      "Toss in sauce - Transfer the wings into a large bowl. Pour over sauce and toss to coat. (Alternatively, serve wings plain with Buffalo Sauce for dipping).",
+      "Serve immediately with Blue Cheese Dip (for both wings and celery sticks dunking)!",
+      "Whisk together the Sauce ingredients until the sugar is melted. Keep warm or reheat just prior to using.",
+      "Mash the blue cheese with sour cream until smooth (or to your taste).",
+      "Add remaining ingredients and mix well until combined, using milk to get it to the consistency you want. Store in the fridge until required. Remove from the fridge 15 minutes before serving."
+    ],
+    "tags": [
+      "chicken",
+      "wings",
+      "buffalo",
+      "appetizer",
+      "baked",
+      "crispy",
+      "party-food",
+      "american"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 28,
+      "carbs": 4,
+      "fat": 26
+    }
+  }
+]

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marie's Recipe Collection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Marie's Recipe Collection</h1>
+    <p class="subtitle">Browse recipes, adjust servings, build your shopping list</p>
+  </header>
+
+  <nav id="category-nav">
+    <button class="cat-btn active" data-cat="all">All</button>
+  </nav>
+
+  <main>
+    <!-- Recipe grid view -->
+    <div id="recipe-grid"></div>
+
+    <!-- Single recipe detail view -->
+    <div id="recipe-detail" class="hidden">
+      <button id="back-btn">&larr; Back to recipes</button>
+      <h2 id="detail-title"></h2>
+      <p id="detail-meta" class="meta"></p>
+      <p id="detail-desc"></p>
+
+      <div id="nutrition-card">
+        <h3>Nutrition <span class="per-serving">(per serving)</span></h3>
+        <div class="nutrition-grid">
+          <div class="nut-item"><span id="nut-cal" class="nut-val"></span><span class="nut-label">Calories</span></div>
+          <div class="nut-item"><span id="nut-pro" class="nut-val"></span><span class="nut-label">Protein</span></div>
+          <div class="nut-item"><span id="nut-carb" class="nut-val"></span><span class="nut-label">Carbs</span></div>
+          <div class="nut-item"><span id="nut-fat" class="nut-val"></span><span class="nut-label">Fat</span></div>
+        </div>
+      </div>
+
+      <div class="servings-control">
+        <label for="servings-input">Servings:</label>
+        <button id="serv-minus" class="serv-btn">-</button>
+        <input type="number" id="servings-input" min="1" max="50" value="4">
+        <button id="serv-plus" class="serv-btn">+</button>
+        <span id="original-servings" class="meta"></span>
+      </div>
+
+      <div class="two-col">
+        <div>
+          <h3>Ingredients <button id="add-to-list-btn" class="small-btn">+ Shopping List</button></h3>
+          <ul id="detail-ingredients"></ul>
+        </div>
+        <div>
+          <h3>Instructions</h3>
+          <ol id="detail-instructions"></ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Shopping list panel -->
+    <div id="shopping-panel" class="hidden">
+      <div class="panel-header">
+        <h2>Shopping List</h2>
+        <div>
+          <button id="copy-list-btn" class="small-btn">Copy</button>
+          <button id="clear-list-btn" class="small-btn">Clear</button>
+        </div>
+      </div>
+      <div id="shopping-recipes"></div>
+      <h3>Combined Ingredients</h3>
+      <ul id="shopping-items"></ul>
+    </div>
+  </main>
+
+  <button id="shopping-toggle">Shopping List (<span id="shopping-count">0</span>)</button>
+
+  <script src="app.js"></script>
+</body>
+</html>
