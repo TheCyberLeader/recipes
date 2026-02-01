@@ -1,4 +1,4 @@
-# Marie's Recipe Collection
+# Marie's Recipe Collection 🌿
 
 A curated collection of tried and true favorite recipes, organized and formatted for easy access.
 
