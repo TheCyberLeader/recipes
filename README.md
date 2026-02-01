@@ -2,6 +2,8 @@
 
 A curated collection of tested recipes, organized and formatted for easy access.
 
+**[Open the Recipe Webapp](https://thecyberleader.github.io/recipes/)** — Adjust servings, build shopping lists, and view nutrition info.
+
 *Repository structure and formatting created with assistance from [Claude Code](https://claude.com/claude-code) (Anthropic)*
 
 ## 📖 Browse by Category
