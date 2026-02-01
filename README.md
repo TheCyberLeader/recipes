@@ -2,7 +2,7 @@
 
 A curated collection of tested recipes, organized and formatted for easy access.
 
-*Repository structure and formatting created with assistance from Claude (Anthropic)*
+*Repository structure and formatting created with assistance from [Claude Code](https://claude.com/claude-code) (Anthropic)*
 
 ## 📖 Browse by Category
 
