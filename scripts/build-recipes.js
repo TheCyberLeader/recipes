@@ -77,19 +77,44 @@ function parseIngredientLine(text) {
   let unit = '';
   let name = text;
 
-  // Try to match: optional whole number, optional unicode fraction, optional /fraction, then unit and name
-  const regex = /^(\d+)?\s*([½⅓⅔¼¾⅛])?\s*(?:(\d+)\/(\d+))?\s*(cups?|tablespoons?|teaspoons?|ounces?|oz|pounds?|lbs?|cloves?|cans?|inches?|inch|slices?|pieces?|pinch|dash|bunch|head|stalks?|sprigs?|large|medium|small)?\s*(.*)$/i;
+  // Try to match: optional "whole fraction" (e.g. 1/4) or "whole unicodeFrac" or just whole number, then unit and name
+  const units = /(?:cups?|tablespoons?|teaspoons?|tbsp|tsp|ounces?|oz|pounds?|lbs?|cloves?|cans?|inches?|inch|slices?|pieces?|pinch|dash|bunch|head|stalks?|sprigs?|large|medium|small)/i;
+  const regex = new RegExp(
+    '^' +
+    '(?:(\\d+)\\s*([½⅓⅔¼¾⅛])' +           // whole + unicode fraction (e.g. "2 ½")
+    '|(\\d+)\\s*\\/\\s*(\\d+)' +              // simple fraction (e.g. "1/4")
+    '|(\\d+)\\s+(\\d+)\\s*\\/\\s*(\\d+)' +    // mixed number (e.g. "1 1/2")
+    '|(\\d+)' +                                // whole number only
+    '|([½⅓⅔¼¾⅛])' +                          // unicode fraction only
+    ')?' +
+    '\\s*(' + units.source + ')?' +            // optional unit
+    '\\s*(.*)$',                               // rest is the name
+    'i'
+  );
   const m = text.match(regex);
 
   if (m) {
     let q = 0;
-    if (m[1]) q += parseInt(m[1]);
-    if (m[2]) q += fractionMap[m[2]] || 0;
-    if (m[3] && m[4]) q += parseInt(m[3]) / parseInt(m[4]);
+    if (m[1] != null) {
+      // whole + unicode fraction
+      q = parseInt(m[1]) + (fractionMap[m[2]] || 0);
+    } else if (m[3] != null && m[4] != null) {
+      // simple fraction like 1/4
+      q = parseInt(m[3]) / parseInt(m[4]);
+    } else if (m[5] != null) {
+      // mixed number like 1 1/2
+      q = parseInt(m[5]) + parseInt(m[6]) / parseInt(m[7]);
+    } else if (m[8] != null) {
+      // whole number only
+      q = parseInt(m[8]);
+    } else if (m[9] != null) {
+      // unicode fraction only
+      q = fractionMap[m[9]] || 0;
+    }
     if (q > 0) {
       quantity = q;
-      unit = (m[5] || '').toLowerCase();
-      name = m[6] || text;
+      unit = (m[10] || '').toLowerCase();
+      name = m[11] || text;
       if (!name.trim()) name = unit; // e.g. "2 Brioche buns"
     }
   }
