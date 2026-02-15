@@ -92,6 +92,19 @@ header h1 { font-size: 1.8rem; }
   margin-bottom: 0.5rem;
   text-transform: capitalize;
 }
+.recipe-card .new-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  background: #e8f5e9;
+  color: #2e7d32;
+  padding: 0.1rem 0.5rem;
+  border-radius: 1rem;
+  margin-left: 0.4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03rem;
+  vertical-align: middle;
+}
 .recipe-card .nut-mini {
   font-size: 0.75rem;
   color: var(--muted);

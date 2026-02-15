@@ -7,6 +7,12 @@ const CATEGORY_LABELS = {
   vegetarian: 'Vegetarian', breakfast: 'Breakfast', desserts: 'Desserts', appetizers: 'Appetizers'
 };
 
+// Recipes to display with a "New" badge
+const NEW_RECIPES = new Set([
+  'chicken-taco-bowl', 'beef-taco-bowl', 'teriyaki-beef',
+  'protein-pizza', 'braised-beef-noodle-soup'
+]);
+
 // DOM elements
 const grid = document.getElementById('recipe-grid');
 const detail = document.getElementById('recipe-detail');
@@ -56,8 +62,10 @@ function renderGrid(category) {
     card.className = 'recipe-card';
     const tagsHtml = recipe.tags.slice(0, 4).map(t => `<span class="tag">${t}</span>`).join('');
     const n = recipe.nutrition;
+    const newBadge = NEW_RECIPES.has(recipe.slug) ? '<span class="new-badge">New</span>' : '';
     card.innerHTML = `
       <span class="cat-label">${CATEGORY_LABELS[recipe.category] || recipe.category}</span>
+      ${newBadge}
       <h3>${recipe.title}</h3>
       <div class="meta">${recipe.meta}</div>
       <div class="desc">${recipe.description}</div>
@@ -94,9 +102,15 @@ function renderIngredients(recipe, newServings) {
   recipe.ingredients.forEach(ing => {
     const li = document.createElement('li');
     if (ing.quantity !== null) {
-      const scaled = ing.quantity * ratio;
-      const display = formatQuantity(scaled);
-      li.innerHTML = `<span class="qty">${display}</span> ${ing.unit} ${ing.name}`;
+      let scaled = ing.quantity * ratio;
+      // Eggs should never go below 1
+      if (isEgg(ing.name) && scaled < 1) {
+        scaled = 1;
+      }
+      // Convert to higher unit if appropriate
+      const converted = convertToHigherUnit(scaled, ing.unit);
+      const display = formatQuantity(converted.quantity);
+      li.innerHTML = `<span class="qty">${display}</span> ${converted.unit} ${ing.name}`;
     } else {
       li.textContent = ing.original;
     }
@@ -148,6 +162,49 @@ function formatQuantity(n) {
 
   if (whole === 0) return fracStr || n.toFixed(1);
   return fracStr ? `${whole} ${fracStr}` : `${whole}`;
+}
+
+// Check if an ingredient is an egg
+function isEgg(name) {
+  return /\beggs?\b/i.test(name);
+}
+
+// Unit conversion: promote to higher units when appropriate
+// Conversion chain: teaspoon -> tablespoon -> cup
+const UNIT_CONVERSIONS = [
+  { from: ['teaspoon', 'teaspoons', 'tsp'], to: 'tablespoon', factor: 3 },
+  { from: ['tablespoon', 'tablespoons', 'tbsp'], to: 'cup', factor: 16 },
+];
+
+function normalizeUnit(unit) {
+  const u = unit.toLowerCase().trim();
+  if (['teaspoon', 'teaspoons', 'tsp'].includes(u)) return 'tsp';
+  if (['tablespoon', 'tablespoons', 'tbsp'].includes(u)) return 'tbsp';
+  if (['cup', 'cups'].includes(u)) return 'cup';
+  return u;
+}
+
+function convertToHigherUnit(quantity, unit) {
+  const norm = normalizeUnit(unit);
+
+  // tsp -> tbsp (3 tsp = 1 tbsp)
+  if (norm === 'tsp' && quantity >= 3) {
+    const inTbsp = quantity / 3;
+    // If it converts cleanly (within tolerance), promote
+    if (Math.abs(inTbsp - Math.round(inTbsp * 4) / 4) < 0.05) {
+      return convertToHigherUnit(inTbsp, 'tablespoon');
+    }
+  }
+
+  // tbsp -> cup (16 tbsp = 1 cup)
+  if (norm === 'tbsp' && quantity >= 4) {
+    const inCups = quantity / 16;
+    if (Math.abs(inCups - Math.round(inCups * 4) / 4) < 0.05) {
+      return { quantity: Math.round(inCups * 4) / 4, unit: 'cup' };
+    }
+  }
+
+  return { quantity, unit };
 }
 
 // Servings controls
@@ -212,7 +269,10 @@ document.getElementById('clear-list-btn').addEventListener('click', () => {
 document.getElementById('copy-list-btn').addEventListener('click', () => {
   const items = aggregateIngredients();
   const text = items.map(i => {
-    if (i.quantity) return `${formatQuantity(i.quantity)} ${i.unit} ${i.name}`;
+    if (i.quantity) {
+      const converted = convertToHigherUnit(i.quantity, i.unit);
+      return `${formatQuantity(converted.quantity)} ${converted.unit} ${i.name}`;
+    }
     return i.name;
   }).join('\n');
 
@@ -249,7 +309,8 @@ function renderShoppingList() {
   aggregated.forEach(item => {
     const li = document.createElement('li');
     if (item.quantity) {
-      li.innerHTML = `<span class="qty">${formatQuantity(item.quantity)}</span> ${item.unit} ${item.name}`;
+      const converted = convertToHigherUnit(item.quantity, item.unit);
+      li.innerHTML = `<span class="qty">${formatQuantity(converted.quantity)}</span> ${converted.unit} ${item.name}`;
     } else {
       li.textContent = item.name;
     }

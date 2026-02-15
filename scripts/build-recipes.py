@@ -42,6 +42,11 @@ NUTRITION = {
     'spritz-cookies': {'calories': 140, 'protein': 2, 'carbs': 16, 'fat': 8},
     'banana-bread': {'calories': 231, 'protein': 4, 'carbs': 35, 'fat': 9},
     'buffalo-wings': {'calories': 360, 'protein': 28, 'carbs': 4, 'fat': 26},
+    'chicken-taco-bowl': {'calories': 480, 'protein': 36, 'carbs': 52, 'fat': 14},
+    'beef-taco-bowl': {'calories': 510, 'protein': 34, 'carbs': 48, 'fat': 20},
+    'teriyaki-beef': {'calories': 400, 'protein': 34, 'carbs': 30, 'fat': 14},
+    'protein-pizza': {'calories': 630, 'protein': 61, 'carbs': 80, 'fat': 5},
+    'braised-beef-noodle-soup': {'calories': 420, 'protein': 32, 'carbs': 38, 'fat': 16},
 }
 
 FRACTION_MAP = {'½': 0.5, '⅓': 1/3, '⅔': 2/3, '¼': 0.25, '¾': 0.75, '⅛': 0.125}
