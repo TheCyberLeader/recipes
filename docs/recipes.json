@@ -20,9 +20,9 @@
         "original": "1 cup grapefruit soda or lemon lime"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "soy sauce",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup soy sauce",
         "original": "1/4 cup soy sauce"
       },
       {
@@ -32,9 +32,9 @@
         "original": "1 tablespoon sesame oil"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "brown sugar",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup brown sugar",
         "original": "1/4 cup brown sugar"
       },
       {
@@ -86,15 +86,15 @@
         "original": "1 tablespoon vegetable oil"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "garlic powder",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon garlic powder",
         "original": "1/2 teaspoon garlic powder"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "onion powder",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon onion powder",
         "original": "1/2 teaspoon onion powder"
       }
     ],
@@ -103,7 +103,7 @@
       "Refrigerate and let marinate at least 1 hour and up to 4 hours.",
       "Soak wooden skewers in water for at least 30 minutes before use or use metal skewers.",
       "Prepared the vegetables by slicing 1 medium zucchini into 1/4-inch coins, and cut 1 medium red bell pepper, 1 medium green bell pepper, and 1 medium red onion into 1-inch chunks. Transfer to a large mixing bowl and toss with 1 tablespoon vegetable oil, 1/2 teaspoon garlic powder, and 1/2 teaspoon onion powder to coat.",
-      "Preheat a grill to high heat (500°F). Remove the chicken from the fridge and thread onto skewers, alternating with pieces of the vegetables as desired.",
+      "Preheat a grill to high heat (500\u00b0F). Remove the chicken from the fridge and thread onto skewers, alternating with pieces of the vegetables as desired.",
       "Grill your chicken on a well-oiled grate, about ten minutes, until the chicken is cooked to an internal temperature of 165 degrees F, rotating every few minutes so that all sides receive grill marks. Serve hot."
     ],
     "tags": [
@@ -137,9 +137,9 @@
         "original": "900 g (about 6-7 medium) boneless, skinless chicken thighs"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "neutral oil (canola/vegetable)",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup neutral oil (canola/vegetable)",
         "original": "1/4 cup neutral oil (canola/vegetable)"
       },
       {
@@ -191,9 +191,9 @@
         "original": "1 1/2 teaspoons onion powder"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "cinnamon (optional but adds warmth)",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon cinnamon (optional but adds warmth)",
         "original": "1/2 teaspoon cinnamon (optional but adds warmth)"
       },
       {
@@ -245,15 +245,15 @@
         "original": "Salt to taste"
       },
       {
-        "quantity": 0.75,
-        "unit": "cup",
-        "name": "mayonnaise",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup mayonnaise",
         "original": "3/4 cup mayonnaise"
       },
       {
-        "quantity": 0.75,
-        "unit": "cup",
-        "name": "Greek yogurt (full-fat, plain)",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup Greek yogurt (full-fat, plain)",
         "original": "3/4 cup Greek yogurt (full-fat, plain)"
       },
       {
@@ -281,27 +281,27 @@
         "original": "2 teaspoons sugar"
       },
       {
-        "quantity": 0.75,
-        "unit": "teaspoon",
-        "name": "garlic powder (optional)",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoon garlic powder (optional)",
         "original": "3/4 teaspoon garlic powder (optional)"
       },
       {
-        "quantity": 0.75,
-        "unit": "teaspoon",
-        "name": "onion powder",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoon onion powder",
         "original": "3/4 teaspoon onion powder"
       },
       {
-        "quantity": 0.75,
-        "unit": "teaspoon",
-        "name": "kosher salt",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoon kosher salt",
         "original": "3/4 teaspoon kosher salt"
       },
       {
-        "quantity": 0.375,
-        "unit": "teaspoon",
-        "name": "black pepper",
+        "quantity": 3,
+        "unit": "",
+        "name": "/8 teaspoon black pepper",
         "original": "3/8 teaspoon black pepper"
       },
       {
@@ -336,7 +336,7 @@
       "Add rinsed rice, coat in spices.",
       "Pour in broth, season with salt, cover & simmer ~15 min.",
       "Heat a heavy skillet or cast iron over medium-high until hot.",
-      "Cook chicken 3-4 min per side until browned and cooked through (165°F / 74°C internal temp).",
+      "Cook chicken 3-4 min per side until browned and cooked through (165\u00b0F / 74\u00b0C internal temp).",
       "Rest 5 min, then chop into bite-sized pieces directly in the pan, tossing in the juices.",
       "Whisk mayo & yogurt smooth, add vinegar, lemon juice, sugar, seasonings.",
       "Slowly whisk in cold water until creamy and pourable. Chill.",
@@ -391,9 +391,9 @@
         "original": "1 teaspoon oregano"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "garlic powder",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon garlic powder",
         "original": "1/2 teaspoon garlic powder"
       },
       {
@@ -433,9 +433,9 @@
         "original": "1 teaspoon garlic powder"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "black pepper",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon black pepper",
         "original": "1/2 teaspoon black pepper"
       },
       {
@@ -451,9 +451,9 @@
         "original": "1 cup baby tomatoes, halved"
       },
       {
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "",
-        "name": "red onion, finely sliced (1/2 cup)",
+        "name": "/2 red onion, finely sliced (1/2 cup)",
         "original": "1/2 red onion, finely sliced (1/2 cup)"
       },
       {
@@ -469,27 +469,27 @@
         "original": "1 bunch mint, chopped (1/2 cup)"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "greek yogurt",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup greek yogurt",
         "original": "1/2 cup greek yogurt"
       },
       {
-        "quantity": 0.3333333333333333,
-        "unit": "cup",
-        "name": "tahini",
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup tahini",
         "original": "1/3 cup tahini"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "olive oil",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup olive oil",
         "original": "1/4 cup olive oil"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "lemon juice (1 lemon)",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup lemon juice (1 lemon)",
         "original": "1/4 cup lemon juice (1 lemon)"
       },
       {
@@ -512,7 +512,7 @@
       }
     ],
     "instructions": [
-      "Preheat oven to 400°F.",
+      "Preheat oven to 400\u00b0F.",
       "Add cooked and cooled rice to a baking sheet.",
       "Toss with the olive oil and seasonings.",
       "Bake for 30-35 minutes, tossing half way through (watch to make sure it doesn't burn).",
@@ -545,6 +545,166 @@
     }
   },
   {
+    "slug": "chicken-taco-bowl",
+    "title": "Chicken Taco Bowl",
+    "category": "chicken",
+    "servings": 4,
+    "description": "Seasoned chicken over cilantro-lime rice with all the taco fixings. A customizable bowl that's perfect for meal prep and weeknight dinners.",
+    "meta": "Serves: 4 | Prep Time: 15 min | Cook Time: 20 min",
+    "ingredients": [
+      {
+        "quantity": 1.5,
+        "unit": "pounds",
+        "name": "boneless, skinless chicken thighs",
+        "original": "1 \u00bd pounds boneless, skinless chicken thighs"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "original": "1 tablespoon olive oil"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "chili powder",
+        "original": "1 tablespoon chili powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "cumin",
+        "original": "1 teaspoon cumin"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "garlic powder",
+        "original": "1 teaspoon garlic powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "smoked paprika",
+        "original": "1 teaspoon smoked paprika"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "onion powder",
+        "original": "\u00bd teaspoon onion powder"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "salt",
+        "original": "\u00bd teaspoon salt"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "original": "\u00bc teaspoon black pepper"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "cups",
+        "name": "long-grain white rice",
+        "original": "1 \u00bd cups long-grain white rice"
+      },
+      {
+        "quantity": 3,
+        "unit": "cups",
+        "name": "chicken broth",
+        "original": "3 cups chicken broth"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "cup",
+        "name": "fresh cilantro, chopped",
+        "original": "\u00bc cup fresh cilantro, chopped"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "lime juice",
+        "original": "2 tablespoons lime juice"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "butter",
+        "original": "1 tablespoon butter"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "black beans, drained and rinsed",
+        "original": "1 cup black beans, drained and rinsed"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "corn kernels",
+        "original": "1 cup corn kernels"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "pico de gallo",
+        "original": "1 cup pico de gallo"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "avocado, diced",
+        "original": "1 avocado, diced"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "cup",
+        "name": "shredded Mexican blend cheese",
+        "original": "\u00bd cup shredded Mexican blend cheese"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "cup",
+        "name": "sour cream",
+        "original": "\u00bc cup sour cream"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Lime wedges for serving",
+        "original": "Lime wedges for serving"
+      }
+    ],
+    "instructions": [
+      "Season chicken thighs with chili powder, cumin, garlic powder, smoked paprika, onion powder, salt, and pepper.",
+      "Cook rice in chicken broth according to package directions. Once done, fluff and stir in cilantro, lime juice, and butter.",
+      "Heat olive oil in a skillet over medium-high heat. Cook chicken 5-6 minutes per side until cooked through (165\u00b0F internal).",
+      "Let chicken rest for 5 minutes, then slice or chop into bite-sized pieces.",
+      "Warm black beans and corn in a small saucepan or microwave.",
+      "Build bowls: layer cilantro-lime rice, chicken, black beans, corn, pico de gallo, avocado, cheese, and sour cream.",
+      "Squeeze lime wedges over top and serve."
+    ],
+    "tags": [
+      "chicken",
+      "taco",
+      "mexican",
+      "bowl",
+      "meal-prep",
+      "quick",
+      "customizable"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 14
+    }
+  },
+  {
     "slug": "chicken-udon",
     "title": "Life Changing Chicken Udon",
     "category": "chicken",
@@ -571,9 +731,9 @@
         "original": "1 tablespoon mirin"
       },
       {
-        "quantity": 0.5,
-        "unit": "tablespoon",
-        "name": "sugar",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 tablespoon sugar",
         "original": "1/2 tablespoon sugar"
       },
       {
@@ -583,9 +743,9 @@
         "original": "1 tablespoon sake"
       },
       {
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "",
-        "name": "of small leek, cut in halves lengthwise then cut into 2 inches long pieces",
+        "name": "/2 of small leek, cut in halves lengthwise then cut into 2 inches long pieces",
         "original": "1/2 of small leek, cut in halves lengthwise then cut into 2 inches long pieces"
       },
       {
@@ -601,9 +761,9 @@
         "original": "1 serving portion of fresh frozen udon or dry udon noodles"
       },
       {
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "",
-        "name": "green onion, chopped",
+        "name": "/2 green onion, chopped",
         "original": "1/2 green onion, chopped"
       }
     ],
@@ -698,9 +858,9 @@
         "original": "2-3 green onions, sliced"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "fresh cilantro, chopped",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup fresh cilantro, chopped",
         "original": "1/4 cup fresh cilantro, chopped"
       },
       {
@@ -756,20 +916,20 @@
       {
         "quantity": 1.5,
         "unit": "tablespoons",
-        "name": "fresh rosemary, finely chopped (or 1½ teaspoons dried)",
-        "original": "1½ tablespoons fresh rosemary, finely chopped (or 1½ teaspoons dried)"
+        "name": "fresh rosemary, finely chopped (or 1\u00bd teaspoons dried)",
+        "original": "1\u00bd tablespoons fresh rosemary, finely chopped (or 1\u00bd teaspoons dried)"
       },
       {
         "quantity": 1.5,
         "unit": "tablespoons",
-        "name": "fresh thyme leaves (or 1½ teaspoons dried)",
-        "original": "1½ tablespoons fresh thyme leaves (or 1½ teaspoons dried)"
+        "name": "fresh thyme leaves (or 1\u00bd teaspoons dried)",
+        "original": "1\u00bd tablespoons fresh thyme leaves (or 1\u00bd teaspoons dried)"
       },
       {
         "quantity": 1.5,
         "unit": "tablespoons",
-        "name": "fresh sage, finely chopped (or 1½ teaspoons dried)",
-        "original": "1½ tablespoons fresh sage, finely chopped (or 1½ teaspoons dried)"
+        "name": "fresh sage, finely chopped (or 1\u00bd teaspoons dried)",
+        "original": "1\u00bd tablespoons fresh sage, finely chopped (or 1\u00bd teaspoons dried)"
       },
       {
         "quantity": 1,
@@ -781,13 +941,13 @@
         "quantity": 1.5,
         "unit": "teaspoons",
         "name": "salt",
-        "original": "1½ teaspoons salt"
+        "original": "1\u00bd teaspoons salt"
       },
       {
         "quantity": 0.75,
         "unit": "teaspoon",
         "name": "black pepper",
-        "original": "¾ teaspoon black pepper"
+        "original": "\u00be teaspoon black pepper"
       },
       {
         "quantity": 3,
@@ -801,7 +961,7 @@
       "Pat the chicken dry with paper towels, then rub all over with the olive oil.",
       "Coat chicken evenly with the herb mixture, pressing it into the meat. Let rest 15-30 minutes at room temperature.",
       "Preheat your cast iron pan over medium-high heat for 3-4 minutes. Add a bit of oil if needed (the pan should be hot but not smoking).",
-      "Cook the chicken without crowding the pan - you may need to work in batches. For boneless breasts or cutlets, sear 6-7 minutes per side. For thicker pieces, sear both sides then reduce to medium heat and continue cooking until internal temp reaches 165°F.",
+      "Cook the chicken without crowding the pan - you may need to work in batches. For boneless breasts or cutlets, sear 6-7 minutes per side. For thicker pieces, sear both sides then reduce to medium heat and continue cooking until internal temp reaches 165\u00b0F.",
       "Rest for 5 minutes before slicing. The herbs will create a fragrant, crispy crust!"
     ],
     "tags": [
@@ -927,19 +1087,19 @@
         "quantity": 0.5,
         "unit": "teaspoon",
         "name": "7 spice",
-        "original": "½ teaspoon 7 spice"
+        "original": "\u00bd teaspoon 7 spice"
       },
       {
         "quantity": 0.25,
         "unit": "teaspoon",
         "name": "black pepper",
-        "original": "¼ teaspoon black pepper"
+        "original": "\u00bc teaspoon black pepper"
       },
       {
         "quantity": 0.25,
         "unit": "teaspoon",
         "name": "ground cinnamon",
-        "original": "¼ teaspoon ground cinnamon"
+        "original": "\u00bc teaspoon ground cinnamon"
       },
       {
         "quantity": 2,
@@ -960,9 +1120,9 @@
       "As the chicken broth is simmering, soak the rice in a bowl of water for around half an hour and set aside.",
       "When the chicken broth is done after 45 minutes, remove the chicken and drain the liquid over a fine colander into a pot.",
       "Shred the chicken from the bone and keep the chicken breast in large chunks, cover and set aside.",
-      "In a wide casserole pan, sauté the chopped onion in a good drizzle of mild olive oil on low heat until soft and translucent. This may take 15 minutes.",
-      "Then add the mince meat, black pepper, 7 spice, cinnamon and around a teaspoon of salt. Increase the heat to medium and sauté for around 5-10 minutes until well browned, pressing with the back of a wooden spoon to break apart.",
-      "Drain the rice in a fine sieve and add to the mince meat along with the butter and sauté for a few minutes. Add 4.5 cups of chicken broth to the rice, bring to the boil and then cover with a lid then simmer for 20 minutes.",
+      "In a wide casserole pan, saut\u00e9 the chopped onion in a good drizzle of mild olive oil on low heat until soft and translucent. This may take 15 minutes.",
+      "Then add the mince meat, black pepper, 7 spice, cinnamon and around a teaspoon of salt. Increase the heat to medium and saut\u00e9 for around 5-10 minutes until well browned, pressing with the back of a wooden spoon to break apart.",
+      "Drain the rice in a fine sieve and add to the mince meat along with the butter and saut\u00e9 for a few minutes. Add 4.5 cups of chicken broth to the rice, bring to the boil and then cover with a lid then simmer for 20 minutes.",
       "The rice is done when there should be no extra liquid, fluff it with a fork and add to a large platter.",
       "Lay the shredded chicken on top and sprinkle with the assorted nuts.",
       "Serve with a side of yoghurt or green salad."
@@ -998,21 +1158,21 @@
         "original": "1 pound ground chicken"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "ricotta cheese",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup ricotta cheese",
         "original": "1/2 cup ricotta cheese"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "grated Parmesan cheese",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup grated Parmesan cheese",
         "original": "1/4 cup grated Parmesan cheese"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "breadcrumbs",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup breadcrumbs",
         "original": "1/4 cup breadcrumbs"
       },
       {
@@ -1089,14 +1249,14 @@
       }
     ],
     "instructions": [
-      "Preheat your oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+      "Preheat your oven to 400\u00b0F (200\u00b0C) and line a baking sheet with parchment paper.",
       "In a bowl, gently mix together the ground chicken, ricotta, Parmesan, breadcrumbs, egg, parsley, lemon zest, garlic powder, salt, and pepper until just combined.",
-      "Form the mixture into 1½-inch meatballs and place them on the prepared baking sheet.",
+      "Form the mixture into 1\u00bd-inch meatballs and place them on the prepared baking sheet.",
       "Bake the meatballs for 20-25 minutes, or until golden and fully cooked.",
       "Bring the chicken broth to a boil in a medium saucepan, then add the orzo. Cook uncovered, stirring occasionally, for 8-10 minutes until just tender.",
-      "While the orzo is cooking, heat olive oil in a skillet over medium heat. Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+      "While the orzo is cooking, heat olive oil in a skillet over medium heat. Add the minced garlic and saut\u00e9 for 1-2 minutes until fragrant.",
       "Add the chopped spinach to the skillet and cook for 2-3 minutes until wilted. Season with salt and pepper.",
-      "Drain any excess liquid from the orzo and mix it into the sautéed spinach and garlic until well combined and creamy.",
+      "Drain any excess liquid from the orzo and mix it into the saut\u00e9ed spinach and garlic until well combined and creamy.",
       "Serve the garlic spinach orzo topped with the baked meatballs. Garnish with lemon wedges for an extra burst of flavor."
     ],
     "tags": [
@@ -1172,9 +1332,9 @@
         "original": "1 cup kalamata olives, pitted and sliced"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "fresh lemon juice (about 2 lemons)",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup fresh lemon juice (about 2 lemons)",
         "original": "1/2 cup fresh lemon juice (about 2 lemons)"
       },
       {
@@ -1184,9 +1344,9 @@
         "original": "Zest of 2 lemons"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "fresh parsley, chopped",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup fresh parsley, chopped",
         "original": "1/2 cup fresh parsley, chopped"
       },
       {
@@ -1196,9 +1356,9 @@
         "original": "4 tablespoons fresh oregano (or 2 tablespoons dried)"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "crumbled feta cheese",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup crumbled feta cheese",
         "original": "1/2 cup crumbled feta cheese"
       },
       {
@@ -1210,7 +1370,7 @@
     ],
     "instructions": [
       "Season chicken thighs with salt, pepper, and half the oregano. Heat 2 tablespoons olive oil in a large Dutch oven over medium-high heat. Cook chicken in 2-3 batches until golden and cooked through, about 8-10 minutes per batch. Remove and set aside.",
-      "Add remaining oil and sauté onions until softened, about 5-6 minutes. Add garlic and cook 1 minute more.",
+      "Add remaining oil and saut\u00e9 onions until softened, about 5-6 minutes. Add garlic and cook 1 minute more.",
       "Add orzo and stir for 1-2 minutes to lightly toast. Pour in chicken broth and bring to a boil.",
       "Add asparagus pieces and reduce heat. Simmer covered for 14-16 minutes until orzo is tender and asparagus is crisp-tender, stirring occasionally.",
       "Stir in cooked chicken, olives, lemon juice, lemon zest, parsley, and remaining oregano. Cook 2-3 minutes to heat through.",
@@ -1271,21 +1431,21 @@
         "original": "2 cloves garlic"
       },
       {
-        "quantity": 0.25,
+        "quantity": 1,
         "unit": "",
-        "name": "red onion",
+        "name": "/4 red onion",
         "original": "1/4 red onion"
       },
       {
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "",
-        "name": "orange juice",
+        "name": "/2 orange juice",
         "original": "1/2 orange juice"
       },
       {
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "",
-        "name": "lime juice",
+        "name": "/2 lime juice",
         "original": "1/2 lime juice"
       },
       {
@@ -1313,9 +1473,9 @@
         "original": "1 clove garlic"
       },
       {
-        "quantity": 0.5,
+        "quantity": 1,
         "unit": "",
-        "name": "lime juice",
+        "name": "/2 lime juice",
         "original": "1/2 lime juice"
       },
       {
@@ -1471,9 +1631,9 @@
         "original": "1 tablespoon sesame oil"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "peanut butter",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup peanut butter",
         "original": "1/4 cup peanut butter"
       },
       {
@@ -1483,9 +1643,9 @@
         "original": "1 tablespoon light brown sugar"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "all-purpose flour",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup all-purpose flour",
         "original": "1/4 cup all-purpose flour"
       },
       {
@@ -1596,9 +1756,9 @@
         "original": "1 cup (120 g) radishes, grated, plus additional for topping"
       },
       {
-        "quantity": 0.75,
-        "unit": "cups",
-        "name": "(415 ml) plain yogurt (preferably a tangy and slightly thin type)",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cups (415 ml) plain yogurt (preferably a tangy and slightly thin type)",
         "original": "3/4 cups (415 ml) plain yogurt (preferably a tangy and slightly thin type)"
       },
       {
@@ -1614,9 +1774,9 @@
         "original": "1 teaspoon dried mint"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "table salt",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon table salt",
         "original": "1/2 teaspoon table salt"
       },
       {
@@ -1627,7 +1787,7 @@
       }
     ],
     "instructions": [
-      "Preheat the oven to 440°F (225°C). If you're using wooden skewers, make sure to soak them in water for at least 20 minutes before using to prevent them from burning in the oven. If you're using metal skewers, no preparation is needed.",
+      "Preheat the oven to 440\u00b0F (225\u00b0C). If you're using wooden skewers, make sure to soak them in water for at least 20 minutes before using to prevent them from burning in the oven. If you're using metal skewers, no preparation is needed.",
       "In a large bowl, mix the lamb, onions, white cheese, cilantro, beet, garlic, sumac, cumin, and salt.",
       "Divide the mixture into eight equal portions.",
       "Press and wrap each portion onto the skewers, doing your best to make them of equal thickness and length.",
@@ -1653,6 +1813,392 @@
     }
   },
   {
+    "slug": "beef-taco-bowl",
+    "title": "Beef Taco Bowl Meal Prep",
+    "category": "beef",
+    "servings": 4,
+    "description": "A hearty taco bowl with seasoned ground beef, cilantro-lime rice, and all the classic fixings. Easy to batch cook and portion out for the week.",
+    "meta": "Serves: 4 | Prep Time: 10 min | Cook Time: 20 min",
+    "ingredients": [
+      {
+        "quantity": 1.5,
+        "unit": "pounds",
+        "name": "lean ground beef",
+        "original": "1 \u00bd pounds lean ground beef"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "original": "1 tablespoon olive oil"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "chili powder",
+        "original": "2 tablespoons chili powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "cumin",
+        "original": "1 teaspoon cumin"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "garlic powder",
+        "original": "1 teaspoon garlic powder"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "smoked paprika",
+        "original": "1 teaspoon smoked paprika"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "onion powder",
+        "original": "\u00bd teaspoon onion powder"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "salt",
+        "original": "\u00bd teaspoon salt"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "original": "\u00bc teaspoon black pepper"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "cup",
+        "name": "water",
+        "original": "\u00bc cup water"
+      },
+      {
+        "quantity": 1.5,
+        "unit": "cups",
+        "name": "long-grain white rice",
+        "original": "1 \u00bd cups long-grain white rice"
+      },
+      {
+        "quantity": 3,
+        "unit": "cups",
+        "name": "chicken broth",
+        "original": "3 cups chicken broth"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "cup",
+        "name": "fresh cilantro, chopped",
+        "original": "\u00bc cup fresh cilantro, chopped"
+      },
+      {
+        "quantity": 2,
+        "unit": "tablespoons",
+        "name": "lime juice",
+        "original": "2 tablespoons lime juice"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "butter",
+        "original": "1 tablespoon butter"
+      },
+      {
+        "quantity": 1,
+        "unit": "can",
+        "name": "(15 oz) black beans, drained and rinsed",
+        "original": "1 can (15 oz) black beans, drained and rinsed"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "corn kernels",
+        "original": "1 cup corn kernels"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "cherry tomatoes, halved",
+        "original": "1 cup cherry tomatoes, halved"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "name": "avocado, diced",
+        "original": "1 avocado, diced"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "cup",
+        "name": "shredded cheddar cheese",
+        "original": "\u00bd cup shredded cheddar cheese"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "cup",
+        "name": "sour cream",
+        "original": "\u00bc cup sour cream"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Lime wedges for serving",
+        "original": "Lime wedges for serving"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Hot sauce (optional)",
+        "original": "Hot sauce (optional)"
+      }
+    ],
+    "instructions": [
+      "Cook rice in chicken broth according to package directions. Once done, fluff and stir in cilantro, lime juice, and butter.",
+      "Heat olive oil in a large skillet over medium-high heat. Add ground beef and break apart with a spatula.",
+      "Cook beef for 5-6 minutes until browned. Drain excess fat if needed.",
+      "Add chili powder, cumin, garlic powder, smoked paprika, onion powder, salt, and pepper. Stir to coat.",
+      "Add water and simmer for 3-4 minutes until the seasoning forms a light sauce.",
+      "Build bowls: layer rice, seasoned beef, black beans, corn, tomatoes, avocado, cheese, and sour cream.",
+      "Serve with lime wedges and hot sauce."
+    ],
+    "tags": [
+      "beef",
+      "taco",
+      "mexican",
+      "bowl",
+      "meal-prep",
+      "quick",
+      "batch-cook"
+    ],
+    "nutrition": {
+      "calories": 510,
+      "protein": 34,
+      "carbs": 48,
+      "fat": 20
+    }
+  },
+  {
+    "slug": "braised-beef-noodle-soup",
+    "title": "Braised Beef Noodle Soup with Baby Bok Choy",
+    "category": "beef",
+    "servings": 10,
+    "description": "A rich and aromatic Chinese-style braised beef noodle soup with tender chuck roast, warming spices, and baby bok choy. Made easy in a pressure cooker or simmered on the stovetop.",
+    "meta": "Serves: 10 | Prep Time: 30 min | Cook Time: 45 min",
+    "ingredients": [
+      {
+        "quantity": 4.666666666666667,
+        "unit": "pounds",
+        "name": "chuck roast beef, cut into 1.5-inch cubes",
+        "original": "4 \u2154 pounds chuck roast beef, cut into 1.5-inch cubes"
+      },
+      {
+        "quantity": 10,
+        "unit": "",
+        "name": "servings noodles of your choice",
+        "original": "10 servings noodles of your choice"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Salt and black pepper to season",
+        "original": "Salt and black pepper to season"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "",
+        "name": "onions, sliced",
+        "original": "1 \u2153 onions, sliced"
+      },
+      {
+        "quantity": 8,
+        "unit": "cloves",
+        "name": "garlic, minced",
+        "original": "8 cloves garlic, minced"
+      },
+      {
+        "quantity": 2.6666666666666665,
+        "unit": "",
+        "name": "tomatoes, diced",
+        "original": "2 \u2154 tomatoes, diced"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "tablespoons",
+        "name": "tomato paste",
+        "original": "1 \u2153 tablespoons tomato paste"
+      },
+      {
+        "quantity": 0.6666666666666666,
+        "unit": "cup",
+        "name": "Shao Xing wine",
+        "original": "\u2154 cup Shao Xing wine"
+      },
+      {
+        "quantity": 4,
+        "unit": "tablespoons",
+        "name": "doubanjiang (spicy bean paste)",
+        "original": "4 tablespoons doubanjiang (spicy bean paste)"
+      },
+      {
+        "quantity": 2.6666666666666665,
+        "unit": "tablespoons",
+        "name": "fish sauce",
+        "original": "2 \u2154 tablespoons fish sauce"
+      },
+      {
+        "quantity": 4,
+        "unit": "tablespoons",
+        "name": "soy sauce",
+        "original": "4 tablespoons soy sauce"
+      },
+      {
+        "quantity": 0.3333333333333333,
+        "unit": "cup",
+        "name": "dark soy sauce",
+        "original": "\u2153 cup dark soy sauce"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "tablespoons",
+        "name": "rock sugar or white sugar",
+        "original": "1 \u2153 tablespoons rock sugar or white sugar"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "bay leaves",
+        "original": "4 bay leaves"
+      },
+      {
+        "quantity": 5,
+        "unit": "",
+        "name": "dried red chilis (optional)",
+        "original": "5 dried red chilis (optional)"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "",
+        "name": "Chinese spice braising packets (or make your own, see below)",
+        "original": "1 \u2153 Chinese spice braising packets (or make your own, see below)"
+      },
+      {
+        "quantity": 8,
+        "unit": "cups",
+        "name": "water",
+        "original": "8 cups water"
+      },
+      {
+        "quantity": 2.6666666666666665,
+        "unit": "",
+        "name": "star anise",
+        "original": "2 \u2154 star anise"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "",
+        "name": "cinnamon sticks",
+        "original": "1 \u2153 cinnamon sticks"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "tablespoons",
+        "name": "Sichuan peppercorn",
+        "original": "1 \u2153 tablespoons Sichuan peppercorn"
+      },
+      {
+        "quantity": 0.3333333333333333,
+        "unit": "teaspoon",
+        "name": "five-spice powder",
+        "original": "\u2153 teaspoon five-spice powder"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "teaspoons",
+        "name": "coriander seeds",
+        "original": "1 \u2153 teaspoons coriander seeds"
+      },
+      {
+        "quantity": 0.6666666666666666,
+        "unit": "tablespoon",
+        "name": "cumin seeds",
+        "original": "\u2154 tablespoon cumin seeds"
+      },
+      {
+        "quantity": 1.3333333333333333,
+        "unit": "tablespoons",
+        "name": "fennel seeds",
+        "original": "1 \u2153 tablespoons fennel seeds"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Cheesecloth or spice pouch",
+        "original": "Cheesecloth or spice pouch"
+      },
+      {
+        "quantity": 16,
+        "unit": "",
+        "name": "baby bok choy, halved",
+        "original": "16 baby bok choy, halved"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Cilantro",
+        "original": "Cilantro"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Green onions",
+        "original": "Green onions"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Chili oil",
+        "original": "Chili oil"
+      }
+    ],
+    "instructions": [
+      "Slice onions and tomatoes, and mince garlic cloves.",
+      "Set the pressure cooker to saute mode and preheat on high, or turn your pan to medium-high heat.",
+      "While the pot is heating up, season the beef cubes on all sides with salt and pepper.",
+      "Add oil into the pressure cooker and add about a third of the beef. Be careful not to crowd the pot. Sear 2 sides of the beef for 2-3 minutes each.",
+      "Remove beef once browned and repeat batches until all the beef has browned. Add additional oil if needed.",
+      "If making your own spice bag, assemble it now while the beef is browning.",
+      "Once all the beef is done browning and removed, add the diced onions, tomato, and garlic into the pot. Saute for about 2 minutes, then add the Shao Xing wine to deglaze the pot. Scrape all browned bits from the bottom.",
+      "Return the browned beef to the pot and add all remaining seasonings: tomato paste, doubanjiang, fish sauce, soy sauce, dark soy sauce, sugar, bay leaves, spice packet, and dried chilis. Add the water.",
+      "Set the pressure cooker to cook on high pressure for 30 minutes, or simmer on medium to medium-low for 1 to 1.5 hours.",
+      "While the stew is cooking, prepare the garnishes and wash the baby bok choy.",
+      "Cook noodles according to package instructions. Remove from pot, then place bok choy in the same water to cook for 2 minutes.",
+      "Let the pressure cooker naturally depressurize for 10 minutes after the cooking cycle has completed, then carefully release pressure.",
+      "Ladle soup and beef over noodles, top with bok choy, cilantro, green onions, and chili oil."
+    ],
+    "tags": [
+      "beef",
+      "soup",
+      "noodles",
+      "chinese",
+      "braised",
+      "pressure-cooker",
+      "comfort-food"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 16
+    }
+  },
+  {
     "slug": "classic-lasagna",
     "title": "Best Classic Lasagna Recipe",
     "category": "beef",
@@ -1667,9 +2213,9 @@
         "original": "1 lb. ground beef"
       },
       {
-        "quantity": 0.5,
-        "unit": "lb",
-        "name": ". sweet Italian sausage",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 lb. sweet Italian sausage",
         "original": "1/2 lb. sweet Italian sausage"
       },
       {
@@ -1703,9 +2249,9 @@
         "original": "2 (6 oz.) cans tomato paste"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "water",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup water",
         "original": "1/2 cup water"
       },
       {
@@ -1733,15 +2279,15 @@
         "original": "1 1/2 teaspoons dried basil leaves, divided"
       },
       {
-        "quantity": 0.25,
-        "unit": "teaspoon",
-        "name": "ground black pepper",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon ground black pepper",
         "original": "1/4 teaspoon ground black pepper"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "minced fresh flat-leaf parsley, divided",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup minced fresh flat-leaf parsley, divided",
         "original": "1/4 cup minced fresh flat-leaf parsley, divided"
       },
       {
@@ -1757,9 +2303,9 @@
         "original": "15 oz. (1 3/4 cups) whole milk Ricotta cheese"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "grated parmesan cheese, divided",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup grated parmesan cheese, divided",
         "original": "1/2 cup grated parmesan cheese, divided"
       },
       {
@@ -1837,8 +2383,8 @@
       {
         "quantity": 2,
         "unit": "",
-        "name": "jalapeño, diced",
-        "original": "2 jalapeño, diced"
+        "name": "jalape\u00f1o, diced",
+        "original": "2 jalape\u00f1o, diced"
       },
       {
         "quantity": 28,
@@ -1878,20 +2424,20 @@
       },
       {
         "quantity": 1,
-        "unit": "tsp",
-        "name": "cumin",
+        "unit": "",
+        "name": "tsp cumin",
         "original": "1 tsp cumin"
       },
       {
         "quantity": 1,
-        "unit": "tbsp",
-        "name": "chili powder",
+        "unit": "",
+        "name": "tbsp chili powder",
         "original": "1 tbsp chili powder"
       },
       {
         "quantity": 2,
-        "unit": "tsp",
-        "name": "salt",
+        "unit": "",
+        "name": "tsp salt",
         "original": "2 tsp salt"
       },
       {
@@ -1906,7 +2452,7 @@
       "When beef is browned, remove and set aside.",
       "Add in stew meat and brown, turning to be sure it cooks evenly.",
       "Remove stew meat when browned. Do not drain fat.",
-      "Add onion, garlic, jalapeño, to pot.",
+      "Add onion, garlic, jalape\u00f1o, to pot.",
       "Cook on medium high until soft.",
       "Add meat back to pot, and add spices, diced tomatoes, tomato sauce, and beans, stir well to combine.",
       "Add in beef stock, stir.",
@@ -1940,13 +2486,13 @@
         "quantity": 0.3333333333333333,
         "unit": "cup",
         "name": "plain bread crumbs",
-        "original": "⅓ cup plain bread crumbs"
+        "original": "\u2153 cup plain bread crumbs"
       },
       {
         "quantity": 0.5,
         "unit": "cup",
         "name": "milk or beef broth",
-        "original": "½ cup milk or beef broth"
+        "original": "\u00bd cup milk or beef broth"
       },
       {
         "quantity": 2,
@@ -1988,7 +2534,7 @@
         "quantity": 0.25,
         "unit": "bunch",
         "name": "fresh parsley, chopped",
-        "original": "¼ bunch fresh parsley, chopped"
+        "original": "\u00bc bunch fresh parsley, chopped"
       },
       {
         "quantity": 3,
@@ -2018,7 +2564,7 @@
         "quantity": 0.5,
         "unit": "teaspoon",
         "name": "red pepper flakes",
-        "original": "½ teaspoon red pepper flakes"
+        "original": "\u00bd teaspoon red pepper flakes"
       }
     ],
     "instructions": [
@@ -2027,7 +2573,7 @@
       "Meanwhile, heat olive oil in a skillet over medium heat. Add onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue cooking and stirring until onion is very tender, about 15 minutes more.",
       "Gently stir beef and pork together in a large bowl. Add onions, bread crumb mixture, eggs, Parmesan cheese, parsley, garlic, salt, black pepper, Italian herb seasoning, and red pepper flakes; mix together using a rubber spatula until combined. Cover and refrigerate for about one hour.",
       "Preheat the oven to 425 degrees F (220 degrees C).",
-      "Form mixture into balls about 1 ½ inches in diameter; arrange in a single layer on the prepared baking sheet.",
+      "Form mixture into balls about 1 \u00bd inches in diameter; arrange in a single layer on the prepared baking sheet.",
       "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes.",
       "Serve with your favorite tomato sauce. Enjoy!"
     ],
@@ -2080,9 +2626,9 @@
         "original": "1 1/2 teaspoons allspice"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "ground cinnamon",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon ground cinnamon",
         "original": "1/2 teaspoon ground cinnamon"
       },
       {
@@ -2129,8 +2675,8 @@
       }
     ],
     "instructions": [
-      "In a cooking pot, add olive oil and heat for a moment. Add onions and sauté. Add ground beef and cook until beef is brown. Add allspice, cinnamon, and salt. Mix. Add spinach and sauté with meat for a moment. Once it's all mixed well together, add water to the pot, just enough to cover the spinach. Cover and let the spinach meat mixture boil and then turn it down to medium heat and let it simmer/boil for a good 30 minutes.",
-      "Meanwhile, get a sauté pan and add some olive oil, the garlic, and the chopped cilantro and sauté' that mixture together. Add cilantro/garlic mixture to the spinach (after the spinach has cooked for 30 minutes). Cover and let it simmer for about 15 more minutes. Serve with rice and squeeze lemon juice on top!"
+      "In a cooking pot, add olive oil and heat for a moment. Add onions and saut\u00e9. Add ground beef and cook until beef is brown. Add allspice, cinnamon, and salt. Mix. Add spinach and saut\u00e9 with meat for a moment. Once it's all mixed well together, add water to the pot, just enough to cover the spinach. Cover and let the spinach meat mixture boil and then turn it down to medium heat and let it simmer/boil for a good 30 minutes.",
+      "Meanwhile, get a saut\u00e9 pan and add some olive oil, the garlic, and the chopped cilantro and saut\u00e9' that mixture together. Add cilantro/garlic mixture to the spinach (after the spinach has cooked for 30 minutes). Cover and let it simmer for about 15 more minutes. Serve with rice and squeeze lemon juice on top!"
     ],
     "tags": [
       "beef",
@@ -2193,24 +2739,24 @@
         "original": "Pepper (to taste)"
       },
       {
-        "quantity": 0.5,
-        "unit": "medium",
-        "name": "white onion, diced",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 medium white onion, diced",
         "original": "1/2 medium white onion, diced"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "avocado oil",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon avocado oil",
         "original": "1/2 teaspoon avocado oil"
       }
     ],
     "instructions": [
       "Create 4 even beef balls from the ground beef.",
       "Lay a square of parchment paper and put a ball on it, then put another square on the top and smash each ball with a pot as thin as you can. Should be about 5/8 inch thick patty.",
-      "Sauté onions in a separate pan with 1/2 teaspoon of avocado oil until slightly golden.",
+      "Saut\u00e9 onions in a separate pan with 1/2 teaspoon of avocado oil until slightly golden.",
       "Get a non-stick pan decently hot and slap the meat down, peeling the paper off. Then press them down a bit with the spatula all around. Cook for 3 minutes on one side and 2 minutes after flipping.",
-      "When they're browned to your liking, spoon some of the sautéed onions on and add a slice of cheese on one patty. Put another patty on top and add the remaining portion of onion, add the second slice of cheese. Cover with the lid to create steam to melt the cheese.",
+      "When they're browned to your liking, spoon some of the saut\u00e9ed onions on and add a slice of cheese on one patty. Put another patty on top and add the remaining portion of onion, add the second slice of cheese. Cover with the lid to create steam to melt the cheese.",
       "Have TOASTED (no debate on this) buns on the side. Let the patties rest on paper towel for 1-2 minutes to soak up the excess fat (this prevents a soggy bun!).",
       "Put the patties on the buns, cover the buns and enjoy!"
     ],
@@ -2229,11 +2775,131 @@
     }
   },
   {
+    "slug": "teriyaki-beef",
+    "title": "Teriyaki Beef",
+    "category": "beef",
+    "servings": 4,
+    "description": "Tender sliced beef coated in a sticky homemade teriyaki glaze, served over steamed rice. Quick, flavorful, and far better than takeout.",
+    "meta": "Serves: 4 | Prep Time: 10 min (+ 30 min marinating) | Cook Time: 10 min",
+    "ingredients": [
+      {
+        "quantity": 1.5,
+        "unit": "pounds",
+        "name": "flank steak or sirloin, thinly sliced against the grain",
+        "original": "1 \u00bd pounds flank steak or sirloin, thinly sliced against the grain"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "neutral oil (canola or vegetable)",
+        "original": "1 tablespoon neutral oil (canola or vegetable)"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "original": "1 tablespoon sesame oil"
+      },
+      {
+        "quantity": 2,
+        "unit": "cloves",
+        "name": "garlic, minced",
+        "original": "2 cloves garlic, minced"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "fresh ginger, grated",
+        "original": "1 teaspoon fresh ginger, grated"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "cup",
+        "name": "soy sauce",
+        "original": "\u00bd cup soy sauce"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "cup",
+        "name": "mirin",
+        "original": "\u00bc cup mirin"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "brown sugar",
+        "original": "3 tablespoons brown sugar"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "original": "1 tablespoon rice vinegar"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "cornstarch mixed with 2 tablespoons cold water",
+        "original": "1 tablespoon cornstarch mixed with 2 tablespoons cold water"
+      },
+      {
+        "quantity": 3,
+        "unit": "cups",
+        "name": "steamed white or brown rice",
+        "original": "3 cups steamed white or brown rice"
+      },
+      {
+        "quantity": 2,
+        "unit": "",
+        "name": "green onions, thinly sliced",
+        "original": "2 green onions, thinly sliced"
+      },
+      {
+        "quantity": 1,
+        "unit": "tablespoon",
+        "name": "sesame seeds",
+        "original": "1 tablespoon sesame seeds"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Steamed broccoli (optional)",
+        "original": "Steamed broccoli (optional)"
+      }
+    ],
+    "instructions": [
+      "Whisk together soy sauce, mirin, brown sugar, and rice vinegar in a bowl.",
+      "Pour half the sauce over the sliced beef and marinate for at least 30 minutes.",
+      "Heat neutral oil and sesame oil in a large skillet or wok over high heat.",
+      "Remove beef from marinade and pat slightly dry. Cook in a single layer in batches, searing 2-3 minutes per side. Don't overcrowd the pan.",
+      "Remove beef and set aside. Add garlic and ginger to the pan, cook 30 seconds.",
+      "Pour in the remaining teriyaki sauce. Bring to a simmer.",
+      "Stir in the cornstarch slurry and cook 1-2 minutes until the sauce thickens.",
+      "Return beef to the pan and toss to coat in the glaze.",
+      "Serve over steamed rice, topped with green onions and sesame seeds."
+    ],
+    "tags": [
+      "beef",
+      "asian",
+      "teriyaki",
+      "quick",
+      "one-pan",
+      "stir-fry",
+      "meal-prep"
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 34,
+      "carbs": 30,
+      "fat": 14
+    }
+  },
+  {
     "slug": "grilled-corn-veggie-bowl",
     "title": "Grilled Corn & Veggie Bowl with Shrimp & Avocado Crema over Rice",
     "category": "seafood",
     "servings": 2,
-    "description": "A colorful, healthy bowl with grilled corn, sautéed shrimp, fresh vegetables, and creamy avocado crema over rice. Perfect for meal prep!",
+    "description": "A colorful, healthy bowl with grilled corn, saut\u00e9ed shrimp, fresh vegetables, and creamy avocado crema over rice. Perfect for meal prep!",
     "meta": "Serves: 2 | Prep Time: 20 min | Cook Time: 30 min",
     "ingredients": [
       {
@@ -2293,9 +2959,9 @@
     ],
     "instructions": [
       "**Cook the rice**: Prepare 2 cups uncooked rice according to package directions (makes about 6 cups cooked).",
-      "**Grill the corn**: Roast at 425°F for 20-25 minutes until charred, or grill. Cut kernels off the cobs.",
+      "**Grill the corn**: Roast at 425\u00b0F for 20-25 minutes until charred, or grill. Cut kernels off the cobs.",
       "**Prep vegetables**: Dice all 6 mini cucumbers and 2 tomatoes. Julienne, dice, or shave the 8 carrots. Chop the butter lettuce into bite-sized pieces.",
-      "**Cook the shrimp**: Season with salt, pepper, garlic powder, and chili flakes/paprika. Sauté in oil over medium-high heat for 2-3 minutes per side until pink and cooked through.",
+      "**Cook the shrimp**: Season with salt, pepper, garlic powder, and chili flakes/paprika. Saut\u00e9 in oil over medium-high heat for 2-3 minutes per side until pink and cooked through.",
       "**Make avocado crema**: Blend 1 avocado with 3-4 tablespoons water (or lime juice), salt, and seasonings until smooth.",
       "**Assemble 4 bowls**: Start with rice as the base. Top with corn, carrots, cucumbers, tomatoes, and chopped lettuce. Add shrimp and diced second avocado. Drizzle with avocado crema.",
       "**Season and serve**: Add final touches like salt, pepper, lime juice, or olive oil."
@@ -2374,9 +3040,9 @@
         "original": "3 green onions, chopped"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "dry roasted peanuts",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup dry roasted peanuts",
         "original": "1/2 cup dry roasted peanuts"
       },
       {
@@ -2386,9 +3052,9 @@
         "original": "2 limes"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "fresh cilantro, chopped",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup fresh cilantro, chopped",
         "original": "1/2 cup fresh cilantro, chopped"
       },
       {
@@ -2431,7 +3097,7 @@
     "instructions": [
       "Cook noodles according to package instructions, just until tender. Rinse under cold water.",
       "Make sauce by combining sauce ingredients in a bowl. Set aside.",
-      "Stir Fry: Heat 1½ tablespoons of oil in a wok or large saucepan over medium-high heat. Add the shrimp, chicken or tofu, garlic and bell pepper. The shrimp will cook quickly, about 1-2 minutes on each side, or until pink. If using chicken, cook until just cooked through, about 3-4 minutes, flipping only once.",
+      "Stir Fry: Heat 1\u00bd tablespoons of oil in a wok or large saucepan over medium-high heat. Add the shrimp, chicken or tofu, garlic and bell pepper. The shrimp will cook quickly, about 1-2 minutes on each side, or until pink. If using chicken, cook until just cooked through, about 3-4 minutes, flipping only once.",
       "Push everything to the side of the pan. Add a little more oil and add the beaten eggs. Scramble the eggs, breaking them into small pieces with a spatula as they cook.",
       "Add noodles, sauce, bean sprouts and peanuts to the wok (reserving some peanuts for topping at the end). Toss everything to combine.",
       "Garnish the top with green onions, extra peanuts, cilantro and lime wedges. Serve immediately!",
@@ -2529,9 +3195,9 @@
       }
     ],
     "instructions": [
-      "**Cook the shrimp**: Heat 1½ tablespoons oil in a large wok or skillet over high heat. Season shrimp with salt and pepper, cook 2-3 minutes until pink. Remove and set aside.",
-      "**Scramble the eggs**: Add 1½ tablespoons oil, pour in beaten eggs, scramble quickly, then remove.",
-      "**Stir-fry vegetables**: Add remaining 1½-2 tablespoons oil. Cook garlic and white parts of green onions for 30 seconds. Add mixed vegetables, stir-fry 2-3 minutes.",
+      "**Cook the shrimp**: Heat 1\u00bd tablespoons oil in a large wok or skillet over high heat. Season shrimp with salt and pepper, cook 2-3 minutes until pink. Remove and set aside.",
+      "**Scramble the eggs**: Add 1\u00bd tablespoons oil, pour in beaten eggs, scramble quickly, then remove.",
+      "**Stir-fry vegetables**: Add remaining 1\u00bd-2 tablespoons oil. Cook garlic and white parts of green onions for 30 seconds. Add mixed vegetables, stir-fry 2-3 minutes.",
       "**Add rice**: Add cold rice, break up any clumps. Stir-fry 3-4 minutes until heated through and slightly crispy.",
       "**Season**: Add soy sauce, oyster sauce, and sesame oil. Toss well.",
       "**Combine**: Return shrimp and eggs to the wok. Toss everything together for 1-2 minutes.",
@@ -2580,9 +3246,9 @@
         "original": "3 cloves garlic, thinly sliced"
       },
       {
-        "quantity": 0.25,
+        "quantity": 1,
         "unit": "",
-        "name": "lemon (zest + juice)",
+        "name": "/4 lemon (zest + juice)",
         "original": "1/4 lemon (zest + juice)"
       },
       {
@@ -2621,17 +3287,17 @@
       "Cook orecchiette until just al dente (they'll finish in the sauce).",
       "Reserve 1 cup of pasta water, then drain.",
       "Reserve 1 cup of pasta water, then drain.",
-      "Heat 1–2 tablespoons olive oil in a large skillet over medium-high heat.",
+      "Heat 1\u20132 tablespoons olive oil in a large skillet over medium-high heat.",
       "Season shrimp lightly with salt and pepper.",
-      "Cook shrimp for 1–2 minutes per side until just pink. Remove and set aside.",
+      "Cook shrimp for 1\u20132 minutes per side until just pink. Remove and set aside.",
       "Lower heat to medium. Add another drizzle of olive oil.",
-      "Add sliced garlic and red pepper flakes. Sauté for about 30 seconds — just until fragrant (don't burn the garlic).",
+      "Add sliced garlic and red pepper flakes. Saut\u00e9 for about 30 seconds \u2014 just until fragrant (don't burn the garlic).",
       "Pour in the lemon juice and zest, scraping any bits from the pan.",
-      "Add a splash of reserved pasta water (start with ¼ cup) to loosen things up.",
+      "Add a splash of reserved pasta water (start with \u00bc cup) to loosen things up.",
       "Toss it all together.",
       "Add drained pasta into the skillet. Stir until the pasta soaks up the sauce.",
       "Return shrimp to the pan. Toss again.",
-      "Add arugula right at the end — it should wilt gently in the heat of the pasta.",
+      "Add arugula right at the end \u2014 it should wilt gently in the heat of the pasta.",
       "Plate it up and grate Parmesan on top (optional but amazing)."
     ],
     "tags": [
@@ -2665,9 +3331,9 @@
         "original": "2 cups chopped romaine hearts"
       },
       {
-        "quantity": 0.6666666666666666,
-        "unit": "cup",
-        "name": "cherry tomatoes, halved",
+        "quantity": 2,
+        "unit": "",
+        "name": "/3 cup cherry tomatoes, halved",
         "original": "2/3 cup cherry tomatoes, halved"
       },
       {
@@ -2677,9 +3343,9 @@
         "original": "1 small organic cucumber, diced"
       },
       {
-        "quantity": 0.3333333333333333,
-        "unit": "cup",
-        "name": "red onion, thinly sliced",
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup red onion, thinly sliced",
         "original": "1/3 cup red onion, thinly sliced"
       },
       {
@@ -2761,9 +3427,9 @@
         "original": "2 carrots, shredded"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "shredded onion (optional)",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup shredded onion (optional)",
         "original": "1/4 cup shredded onion (optional)"
       },
       {
@@ -2773,9 +3439,9 @@
         "original": "2 1/2 cups mayonnaise (Best Foods or Hellman's mayonnaise - no substitutes!)"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "milk",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup milk",
         "original": "1/4 cup milk"
       },
       {
@@ -2849,25 +3515,25 @@
       {
         "quantity": 1,
         "unit": "",
-        "name": "jalapeño, thinly sliced, seeds removed",
-        "original": "1 jalapeño, thinly sliced, seeds removed"
+        "name": "jalape\u00f1o, thinly sliced, seeds removed",
+        "original": "1 jalape\u00f1o, thinly sliced, seeds removed"
       },
       {
-        "quantity": 0.3333333333333333,
-        "unit": "cup",
-        "name": "pine nuts",
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup pine nuts",
         "original": "1/3 cup pine nuts"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "panko breadcrumbs",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup panko breadcrumbs",
         "original": "1/2 cup panko breadcrumbs"
       },
       {
-        "quantity": 0.75,
-        "unit": "cup",
-        "name": "parmigiano cheese, finely grated",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup parmigiano cheese, finely grated",
         "original": "3/4 cup parmigiano cheese, finely grated"
       },
       {
@@ -2877,15 +3543,15 @@
         "original": "1 lemon, zested"
       },
       {
-        "quantity": 0.3333333333333333,
-        "unit": "cup",
-        "name": "avocado oil",
+        "quantity": 1,
+        "unit": "",
+        "name": "/3 cup avocado oil",
         "original": "1/3 cup avocado oil"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "honey",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup honey",
         "original": "1/4 cup honey"
       },
       {
@@ -2913,9 +3579,9 @@
         "original": "1 teaspoon kosher salt"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "ground black pepper",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon ground black pepper",
         "original": "1/2 teaspoon ground black pepper"
       }
     ],
@@ -2975,9 +3641,9 @@
         "original": "1 large whole egg"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "unsweetened apple sauce",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup unsweetened apple sauce",
         "original": "1/4 cup unsweetened apple sauce"
       },
       {
@@ -2993,21 +3659,21 @@
         "original": "1 tablespoon honey"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "rolled oats",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup rolled oats",
         "original": "1/4 cup rolled oats"
       },
       {
-        "quantity": 0.75,
-        "unit": "cup",
-        "name": "cornmeal",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup cornmeal",
         "original": "3/4 cup cornmeal"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "salt",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon salt",
         "original": "1/2 teaspoon salt"
       },
       {
@@ -3023,9 +3689,9 @@
         "original": "2 teaspoons baking powder"
       },
       {
-        "quantity": 0.25,
-        "unit": "teaspoon",
-        "name": "baking soda",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon baking soda",
         "original": "1/4 teaspoon baking soda"
       }
     ],
@@ -3101,9 +3767,9 @@
         "original": "2 tablespoons pomegranate molasses"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "extra virgin olive oil",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup extra virgin olive oil",
         "original": "1/4 cup extra virgin olive oil"
       },
       {
@@ -3156,29 +3822,29 @@
         "quantity": 1.5,
         "unit": "tablespoons",
         "name": "olive oil",
-        "original": "1½ tablespoons olive oil"
+        "original": "1\u00bd tablespoons olive oil"
       },
       {
         "quantity": 0.5,
         "unit": "teaspoon",
         "name": "garlic powder (or onion powder, or a mix)",
-        "original": "½ teaspoon garlic powder (or onion powder, or a mix)"
+        "original": "\u00bd teaspoon garlic powder (or onion powder, or a mix)"
       },
       {
         "quantity": 0.5,
         "unit": "teaspoon",
         "name": "salt",
-        "original": "½ teaspoon salt"
+        "original": "\u00bd teaspoon salt"
       },
       {
         "quantity": 0.25,
         "unit": "teaspoon",
         "name": "black pepper",
-        "original": "¼ teaspoon black pepper"
+        "original": "\u00bc teaspoon black pepper"
       }
     ],
     "instructions": [
-      "Preheat oven to 425°F.",
+      "Preheat oven to 425\u00b0F.",
       "Halve the potatoes (or quarter if they're larger). Toss in a bowl with olive oil, garlic/onion powder, salt, and pepper until evenly coated.",
       "Spread on a baking sheet in a single layer, cut side down.",
       "Roast for 25-30 minutes, flipping halfway through, until golden brown and crispy on the edges. They should be fork-tender inside."
@@ -3288,7 +3954,7 @@
       "Add 3 tablespoons of the oil to a casserole and pre-heat over medium-low heat. Finely dice the onion and add to the casserole. Cut the leaves off the Swiss chard. Roughly chop the leaves and set aside, then finely dice the stems. Add the stems to the onion and continue cooking until both have softened.",
       "In the meantime, trim and discard the lower stems of the coriander and roughly chop the rest. Dice the potatoes into 1cm pieces and give the lentils a quick rinse under the tap. When the onions and stems are soft, stir in the cumin and black pepper to heat it through, then tip the lentils into the pan along with the potatoes, coriander and 1.5l of water. Bring to a boil, reduce the heat and simmer covered for 20 minutes or until the lentils are tender.",
       "Add the chard leaves and salt and simmer for another 10 minutes until the lentils and potatoes are fully cooked.",
-      "Meanwhile, measure out the lemon juice. Then peel and finely grate the garlic. Pre-heat the remaining 4 tablespoons of olive oil in a small frying pan and sauté the garlic and dried mint until the garlic is golden. Add this to the soup along with the lemon juice. Turn off the heat, give it a stir, then divide over bowls and serve with a generous drizzle of extra virgin olive oil and some bread."
+      "Meanwhile, measure out the lemon juice. Then peel and finely grate the garlic. Pre-heat the remaining 4 tablespoons of olive oil in a small frying pan and saut\u00e9 the garlic and dried mint until the garlic is golden. Add this to the soup along with the lemon juice. Turn off the heat, give it a stir, then divide over bowls and serve with a generous drizzle of extra virgin olive oil and some bread."
     ],
     "tags": [
       "vegetarian",
@@ -3304,6 +3970,87 @@
       "protein": 12,
       "carbs": 34,
       "fat": 4
+    }
+  },
+  {
+    "slug": "protein-pizza",
+    "title": "Protein Pizza",
+    "category": "vegetarian",
+    "servings": 1,
+    "description": "A high-protein air fryer pizza with a crispy Greek yogurt crust. Only 630 calories for the entire pizza with 61g of protein.",
+    "meta": "Serves: 1 | Prep Time: 5 min | Cook Time: 9 min",
+    "ingredients": [
+      {
+        "quantity": 90,
+        "unit": "",
+        "name": "g self-rising flour",
+        "original": "90 g self-rising flour"
+      },
+      {
+        "quantity": 150,
+        "unit": "",
+        "name": "g plain nonfat Greek yogurt",
+        "original": "150 g plain nonfat Greek yogurt"
+      },
+      {
+        "quantity": 30,
+        "unit": "",
+        "name": "g PEScience Select multi-purpose protein powder",
+        "original": "30 g PEScience Select multi-purpose protein powder"
+      },
+      {
+        "quantity": 0.25,
+        "unit": "teaspoon",
+        "name": "salt",
+        "original": "\u00bc teaspoon salt"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "garlic powder",
+        "original": "\u00bd teaspoon garlic powder"
+      },
+      {
+        "quantity": 60,
+        "unit": "",
+        "name": "g (\u00bc cup) tomato sauce",
+        "original": "60 g (\u00bc cup) tomato sauce"
+      },
+      {
+        "quantity": 56,
+        "unit": "",
+        "name": "g light shredded mozzarella cheese",
+        "original": "56 g light shredded mozzarella cheese"
+      },
+      {
+        "quantity": null,
+        "unit": "",
+        "name": "Italian seasoning",
+        "original": "Italian seasoning"
+      }
+    ],
+    "instructions": [
+      "Add all the dry ingredients (flour, protein, and seasoning) to a large bowl and mix. Add the Greek yogurt to the bowl and mix until a dough forms.",
+      "Generously flour a clean surface and add your dough. Add more flour over the top of the dough and use your hands to press the dough out into a pizza shape, leaving the crust slightly thicker. You can use your air fryer basket as reference for how large to make the pizza.",
+      "Preheat your air fryer at 400\u00b0F for a few minutes, then spray with cooking spray and add your formed pizza dough. Poke holes in the center of the dough with a fork to prevent it from bubbling up.",
+      "Spray the dough with cooking spray, then season the outer crust with garlic powder (optional). Air fry at 400\u00b0F for 5 minutes, then carefully flip the pizza dough and air fry for an additional 2 minutes.",
+      "Flip the dough back in the air fryer, then add your sauce and cheese.",
+      "Air fry for an additional 2 minutes, or until the cheese is melted and browned to your liking.",
+      "Top with Italian seasoning, cut into 6 slices, and enjoy."
+    ],
+    "tags": [
+      "vegetarian",
+      "high-protein",
+      "air-fryer",
+      "pizza",
+      "quick",
+      "low-fat"
+    ],
+    "nutrition": {
+      "calories": 630,
+      "protein": 61,
+      "carbs": 80,
+      "fat": 5
     }
   },
   {
@@ -3375,9 +4122,9 @@
         "original": "Aluminum foil"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "pine nuts",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup pine nuts",
         "original": "1/2 cup pine nuts"
       },
       {
@@ -3435,9 +4182,9 @@
         "original": "1 teaspoon ground cinnamon"
       },
       {
-        "quantity": 0.25,
-        "unit": "teaspoon",
-        "name": "ground nutmeg",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon ground nutmeg",
         "original": "1/4 teaspoon ground nutmeg"
       },
       {
@@ -3459,15 +4206,15 @@
         "original": "4 eggs"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "milk",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup milk",
         "original": "1/4 cup milk"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "vanilla extract",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon vanilla extract",
         "original": "1/2 teaspoon vanilla extract"
       },
       {
@@ -3477,9 +4224,9 @@
         "original": "8 slices challah, brioche, or white bread"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "maple syrup, warmed",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup maple syrup, warmed",
         "original": "1/2 cup maple syrup, warmed"
       }
     ],
@@ -3515,13 +4262,13 @@
         "quantity": 1.5,
         "unit": "cups",
         "name": "all-purpose flour",
-        "original": "1 ½ cups all-purpose flour"
+        "original": "1 \u00bd cups all-purpose flour"
       },
       {
         "quantity": 3.5,
         "unit": "teaspoons",
         "name": "baking powder",
-        "original": "3 ½ teaspoons baking powder"
+        "original": "3 \u00bd teaspoons baking powder"
       },
       {
         "quantity": 1,
@@ -3533,13 +4280,13 @@
         "quantity": 0.25,
         "unit": "teaspoon",
         "name": "salt, or more to taste",
-        "original": "¼ teaspoon salt, or more to taste"
+        "original": "\u00bc teaspoon salt, or more to taste"
       },
       {
         "quantity": 1.25,
         "unit": "cups",
         "name": "milk",
-        "original": "1 ¼ cups milk"
+        "original": "1 \u00bc cups milk"
       },
       {
         "quantity": 3,
@@ -3600,19 +4347,19 @@
         "quantity": 0.25,
         "unit": "teaspoon",
         "name": "salt",
-        "original": "¼ teaspoon salt"
+        "original": "\u00bc teaspoon salt"
       },
       {
         "quantity": 0.75,
         "unit": "cup",
         "name": "brown sugar",
-        "original": "¾ cup brown sugar"
+        "original": "\u00be cup brown sugar"
       },
       {
         "quantity": 0.5,
         "unit": "cup",
         "name": "butter",
-        "original": "½ cup butter"
+        "original": "\u00bd cup butter"
       },
       {
         "quantity": 2,
@@ -3624,7 +4371,7 @@
         "quantity": 2.3333333333333335,
         "unit": "cups",
         "name": "mashed overripe bananas",
-        "original": "2 ⅓ cups mashed overripe bananas"
+        "original": "2 \u2153 cups mashed overripe bananas"
       }
     ],
     "instructions": [
@@ -3684,15 +4431,15 @@
         "original": "1 cup room temperature butter"
       },
       {
-        "quantity": 0.75,
-        "unit": "cup",
-        "name": "sugar",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup sugar",
         "original": "3/4 cup sugar"
       },
       {
-        "quantity": 0.75,
-        "unit": "cup",
-        "name": "packed brown sugar",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup packed brown sugar",
         "original": "3/4 cup packed brown sugar"
       },
       {
@@ -3752,7 +4499,7 @@
         "quantity": 1.75,
         "unit": "cup",
         "name": "granulated sugar",
-        "original": "1 ¾ cup granulated sugar"
+        "original": "1 \u00be cup granulated sugar"
       },
       {
         "quantity": 2,
@@ -3800,7 +4547,7 @@
         "quantity": 1.5,
         "unit": "cups",
         "name": "powdered sugar",
-        "original": "1 ½ cups powdered sugar"
+        "original": "1 \u00bd cups powdered sugar"
       },
       {
         "quantity": 1,
@@ -3816,7 +4563,7 @@
       }
     ],
     "instructions": [
-      "Preheat the oven to 350°F. Line baking sheets with parchment paper or use ungreased baking sheets.",
+      "Preheat the oven to 350\u00b0F. Line baking sheets with parchment paper or use ungreased baking sheets.",
       "In a large mixing bowl, cream the butter and sugar until light and fluffy.",
       "Beat in the eggs, ricotta cheese, and vanilla extract until fully combined.",
       "In a separate bowl, whisk together the flour, baking powder, and baking soda.",
@@ -3858,9 +4605,9 @@
         "original": "1 cup (16 tablespoons; 226g) unsalted butter, softened to room temperature"
       },
       {
-        "quantity": 0.75,
-        "unit": "cup",
-        "name": "(150g) granulated sugar",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 cup (150g) granulated sugar",
         "original": "3/4 cup (150g) granulated sugar"
       },
       {
@@ -3888,9 +4635,9 @@
         "original": "2 and 1/3 cups (291g) all-purpose flour (spooned & leveled)"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "salt",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon salt",
         "original": "1/2 teaspoon salt"
       },
       {
@@ -3901,12 +4648,12 @@
       }
     ],
     "instructions": [
-      "Preheat oven to 350°F (177°C). Line 2 or 3 large baking sheets with silicone baking mats, or use nonstick baking sheets with no liner. (Do not use parchment paper because the cookie dough, when pressed out of the cookie press, will not adhere to it.) While the oven is preheating, and if your refrigerator or freezer has room, it's helpful to chill your lined baking sheets. It sounds odd, but dough coming out of the cookie press adheres much better to a cold surface.",
+      "Preheat oven to 350\u00b0F (177\u00b0C). Line 2 or 3 large baking sheets with silicone baking mats, or use nonstick baking sheets with no liner. (Do not use parchment paper because the cookie dough, when pressed out of the cookie press, will not adhere to it.) While the oven is preheating, and if your refrigerator or freezer has room, it's helpful to chill your lined baking sheets. It sounds odd, but dough coming out of the cookie press adheres much better to a cold surface.",
       "Make the dough: In a large bowl, using a handheld mixer or a stand mixer fitted with a paddle attachment, beat the butter and granulated sugar together on medium-high speed until smooth, about 3 minutes. Add the egg, vanilla extract, and almond extract, and beat on high speed until combined, about 1 minute. Scrape down the sides and up the bottom of the bowl and beat again as needed to combine.",
       "On low speed, beat in the flour and salt. Turn up to high speed and beat until completely combined.",
-      "Press the dough: Follow cookie press manufacturer's directions to fit your cookie press with a decorative plate. Scrape some of the dough into your cookie press. Hold the cookie press perpendicular to the cold lined baking sheet and press out the cookies 2 inches (5 cm) apart. If desired, decorate the shaped cookie dough with sprinkles or press a chocolate chip into the center. Note: It's helpful to lightly brush the shaped cookie dough with water before adding sprinkles—this helps them stick.",
+      "Press the dough: Follow cookie press manufacturer's directions to fit your cookie press with a decorative plate. Scrape some of the dough into your cookie press. Hold the cookie press perpendicular to the cold lined baking sheet and press out the cookies 2 inches (5 cm) apart. If desired, decorate the shaped cookie dough with sprinkles or press a chocolate chip into the center. Note: It's helpful to lightly brush the shaped cookie dough with water before adding sprinkles\u2014this helps them stick.",
       "If the cookie dough becomes too soft as you work, chill the shaped cookie dough in the refrigerator for 10 minutes before baking.",
-      "Bake until very lightly browned on the edges, 7–9 minutes.",
+      "Bake until very lightly browned on the edges, 7\u20139 minutes.",
       "Remove from the oven and allow to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely. If desired, drizzle with melted chocolate.",
       "Cookies stay fresh in an airtight container at room temperature for up to 1 week."
     ],
@@ -3947,9 +4694,9 @@
         "original": "5 teaspoons baking powder (NOT baking soda / bi-carb soda)"
       },
       {
-        "quantity": 0.75,
-        "unit": "teaspoons",
-        "name": "kosher salt / cooking salt (not table salt, too fine)",
+        "quantity": 3,
+        "unit": "",
+        "name": "/4 teaspoons kosher salt / cooking salt (not table salt, too fine)",
         "original": "3/4 teaspoons kosher salt / cooking salt (not table salt, too fine)"
       },
       {
@@ -3959,9 +4706,9 @@
         "original": "4 tablespoons (60g) unsalted butter, melted"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "Frank's Original Red Hot Sauce",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup Frank's Original Red Hot Sauce",
         "original": "1/2 cup Frank's Original Red Hot Sauce"
       },
       {
@@ -3971,27 +4718,27 @@
         "original": "1 tablespoon brown sugar"
       },
       {
-        "quantity": 0.25,
-        "unit": "teaspoon",
-        "name": "kosher salt / cooking salt",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 teaspoon kosher salt / cooking salt",
         "original": "1/4 teaspoon kosher salt / cooking salt"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "crumbled blue cheese, softened (I use gorgonzola)",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup crumbled blue cheese, softened (I use gorgonzola)",
         "original": "1/2 cup crumbled blue cheese, softened (I use gorgonzola)"
       },
       {
-        "quantity": 0.5,
-        "unit": "cup",
-        "name": "sour cream",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 cup sour cream",
         "original": "1/2 cup sour cream"
       },
       {
-        "quantity": 0.25,
-        "unit": "cup",
-        "name": "mayonnaise, preferably whole-egg",
+        "quantity": 1,
+        "unit": "",
+        "name": "/4 cup mayonnaise, preferably whole-egg",
         "original": "1/4 cup mayonnaise, preferably whole-egg"
       },
       {
@@ -4013,9 +4760,9 @@
         "original": "2 tablespoons lemon juice"
       },
       {
-        "quantity": 0.5,
-        "unit": "teaspoon",
-        "name": "kosher salt / cooking salt",
+        "quantity": 1,
+        "unit": "",
+        "name": "/2 teaspoon kosher salt / cooking salt",
         "original": "1/2 teaspoon kosher salt / cooking salt"
       },
       {
@@ -4039,11 +4786,11 @@
     ],
     "instructions": [
       "Dry overnight (optional) - If you plan ahead, lay the wings on a rack on a rimmed baking tray and let them dry uncovered in the fridge overnight. Alternatively, pat them dry with paper towels.",
-      "Preheat the oven to 250°F/120°C (all oven types). Put one oven shelf in the lower quarter of the oven and one in the top quarter.",
+      "Preheat the oven to 250\u00b0F/120\u00b0C (all oven types). Put one oven shelf in the lower quarter of the oven and one in the top quarter.",
       "Line the tray with foil. Put a rack on the tray then spray the rack with oil.",
       "Toss wings - Place the wings in a large bowl. Sprinkle over baking powder and salt. Use hands to toss well (or shake in ziplock bag) to coat wings evenly.",
       "Bake 30 minutes on low temp - Place the wings skin side up on the rack (ok if snug, they shrink). Bake on the lower shelf in the oven for 30 minutes.",
-      "Bake 40 minutes on high - Move the tray up to the higher shelf and turn the oven up to 425°F / 220°C (all oven types). Bake for a further 40 to 50 minutes, rotating the tray halfway through. The wings do not need to be turned over. They are ready when dark golden brown and the skin is very crispy.",
+      "Bake 40 minutes on high - Move the tray up to the higher shelf and turn the oven up to 425\u00b0F / 220\u00b0C (all oven types). Bake for a further 40 to 50 minutes, rotating the tray halfway through. The wings do not need to be turned over. They are ready when dark golden brown and the skin is very crispy.",
       "Toss in sauce - Transfer the wings into a large bowl. Pour over sauce and toss to coat. (Alternatively, serve wings plain with Buffalo Sauce for dipping).",
       "Serve immediately with Blue Cheese Dip (for both wings and celery sticks dunking)!",
       "Whisk together the Sauce ingredients until the sugar is melted. Keep warm or reheat just prior to using.",

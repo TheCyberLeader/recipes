@@ -31,6 +31,7 @@ A curated collection of tried and true favorite recipes, organized and formatted
 - [Best Classic Lasagna](beef/classic-lasagna.md)
 - [Double Beef Chili](beef/double-beef-chili.md)
 - [Homemade Smash Burger](beef/smash-burger.md)
+- [Braised Beef Noodle Soup with Baby Bok Choy](beef/braised-beef-noodle-soup.md)
 
 ### 🦐 Seafood
 - [Shrimp Fried Rice](seafood/shrimp-fried-rice.md)
@@ -46,6 +47,7 @@ A curated collection of tried and true favorite recipes, organized and formatted
 - [Micro Chop Kale Salad](sides/micro-chop-kale-salad.md)
 - [Quinoa Tabbouleh](sides/quinoa-tabbouleh.md)
 - [Adas Bil Hamod (Lebanese Lentil & Lemon Soup)](vegetarian/adas-bil-hamod.md)
+- [Protein Pizza](vegetarian/protein-pizza.md)
 
 ### 🥞 Breakfast
 - [Good Old-Fashioned Pancakes](breakfast/pancakes.md)
@@ -63,7 +65,7 @@ A curated collection of tried and true favorite recipes, organized and formatted
 
 ### By Cuisine
 - **Middle Eastern/Lebanese**: Lebanese Chicken & Rice, Spinach Beef Rice, Chicken Shawarma, Quinoa Tabbouleh, Adas Bil Hamod, Assyrian Kebab
-- **Asian**: Chicken Udon, Shrimp Fried Rice, Teriyaki Beef, Pad Thai, Soba Noodles, Chicken Wonton Soup
+- **Asian/Chinese**: Chicken Udon, Shrimp Fried Rice, Teriyaki Beef, Pad Thai, Soba Noodles, Chicken Wonton Soup, Braised Beef Noodle Soup
 - **Mediterranean**: Mediterranean Chicken Orzo, Greek Salad, Shrimp Lemon Orecchiette
 - **Mexican/Tex-Mex**: Taco Bowls, Pollo Asado Burrito, Smash Burger
 - **Italian**: Lasagna, Meatballs, Ricotta Cookies
@@ -72,13 +74,15 @@ A curated collection of tried and true favorite recipes, organized and formatted
 ### By Cooking Method
 - **Grilled**: Herb Chicken, Chicken Kabobs, Grilled Corn Bowl
 - **One-Pot/Pan**: Chicken Udon, Shrimp Fried Rice, Teriyaki Beef, Lebanese dishes
+- **Pressure Cooker**: Braised Beef Noodle Soup
+- **Air Fryer**: Protein Pizza
 - **Baked**: Wings, Meatballs, Lasagna, Stuffed Zucchini, all desserts
 - **Meal Prep Friendly**: Taco Bowls, Chicken Rice Platter, Grilled Corn Bowl
 
 ### By Dietary Preference
-- **High Protein**: All chicken dishes, beef dishes, seafood
-- **Vegetarian**: Stuffed Zucchini, Adas Bil Hamod, all sides
-- **Quick (<30 min)**: Shrimp Fried Rice, Teriyaki Beef, Pad Thai, Smash Burger
+- **High Protein**: All chicken dishes, beef dishes, seafood, Protein Pizza
+- **Vegetarian**: Stuffed Zucchini, Adas Bil Hamod, Protein Pizza, all sides
+- **Quick (<30 min)**: Shrimp Fried Rice, Teriyaki Beef, Pad Thai, Smash Burger, Protein Pizza
 
 ## 💡 How to Use This Repository
 
