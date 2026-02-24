@@ -13,7 +13,7 @@
   </header>
 
   <nav id="category-nav">
-    <button class="cat-btn active" data-cat="all">All</button>
+    <button class="cat-btn active" data-cat="all" aria-pressed="true">All</button>
   </nav>
 
   <main>
@@ -22,7 +22,7 @@
 
     <!-- Single recipe detail view -->
     <div id="recipe-detail" class="hidden">
-      <button id="back-btn">&larr; Back to recipes</button>
+      <button id="back-btn" aria-label="Back to recipes">&larr; Back to recipes</button>
       <h2 id="detail-title"></h2>
       <p id="detail-meta" class="meta"></p>
       <p id="detail-desc"></p>
@@ -39,9 +39,9 @@
 
       <div class="servings-control">
         <label for="servings-input">Servings:</label>
-        <button id="serv-minus" class="serv-btn">-</button>
+        <button id="serv-minus" class="serv-btn" aria-label="Decrease servings">−</button>
         <input type="number" id="servings-input" min="1" max="50" value="4">
-        <button id="serv-plus" class="serv-btn">+</button>
+        <button id="serv-plus" class="serv-btn" aria-label="Increase servings">+</button>
         <span id="original-servings" class="meta"></span>
       </div>
 

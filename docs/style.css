@@ -50,6 +50,7 @@ header h1 { font-size: 1.8rem; }
   transition: all 0.15s;
 }
 .cat-btn:hover { border-color: var(--accent); color: var(--accent); }
+.cat-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-color: var(--accent); color: var(--accent); }
 .cat-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
 
 /* Recipe grid */
@@ -70,6 +71,11 @@ header h1 { font-size: 1.8rem; }
 .recipe-card:hover {
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   transform: translateY(-2px);
+}
+.recipe-card:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 .recipe-card h3 { font-size: 1rem; margin-bottom: 0.25rem; }
 .recipe-card .meta { font-size: 0.8rem; color: var(--muted); }
@@ -160,6 +166,7 @@ header h1 { font-size: 1.8rem; }
   justify-content: center;
 }
 .serv-btn:hover { border-color: var(--accent); color: var(--accent); }
+.serv-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-color: var(--accent); color: var(--accent); }
 #servings-input {
   width: 3.5rem;
   text-align: center;
@@ -214,6 +221,7 @@ header h1 { font-size: 1.8rem; }
   transition: all 0.15s;
 }
 .small-btn:hover { background: var(--accent); color: white; }
+.small-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; background: var(--accent); color: white; }
 
 /* Shopping list toggle */
 #shopping-toggle {
@@ -277,12 +285,3 @@ header h1 { font-size: 1.8rem; }
 #shopping-items .qty { font-weight: 600; }
 
 .hidden { display: none !important; }
-
-/* Added feedback */
-.added-flash {
-  animation: flash 0.4s ease;
-}
-@keyframes flash {
-  0% { background-color: #d4edda; }
-  100% { background-color: transparent; }
-}

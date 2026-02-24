@@ -61,4 +61,4 @@ A hearty taco bowl with seasoned ground beef, cilantro-lime rice, and all the cl
 - Add pickled jalapeños or red onion for extra flavor
 
 ## Tags
-`#beef` `#taco` `#mexican` `#bowl` `#meal-prep` `#quick` `#batch-cook`
+`#beef` `#taco` `#mexican` `#bowl` `#meal-prep` `#quick` `#batch-cook` `#new`

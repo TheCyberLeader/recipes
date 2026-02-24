@@ -58,4 +58,4 @@ Seasoned chicken over cilantro-lime rice with all the taco fixings. A customizab
 - The seasoning blend also works great on shrimp or steak
 
 ## Tags
-`#chicken` `#taco` `#mexican` `#bowl` `#meal-prep` `#quick` `#customizable`
+`#chicken` `#taco` `#mexican` `#bowl` `#meal-prep` `#quick` `#customizable` `#new`
