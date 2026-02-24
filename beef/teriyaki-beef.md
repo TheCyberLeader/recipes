@@ -55,4 +55,4 @@ Tender sliced beef coated in a sticky homemade teriyaki glaze, served over steam
 - Leftovers reheat well; add a splash of water when rewarming to loosen the sauce
 
 ## Tags
-`#beef` `#asian` `#teriyaki` `#quick` `#one-pan` `#stir-fry` `#meal-prep`
+`#beef` `#asian` `#teriyaki` `#quick` `#one-pan` `#stir-fry` `#meal-prep` `#new`

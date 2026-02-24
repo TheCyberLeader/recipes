@@ -43,4 +43,4 @@ A high-protein air fryer pizza with a crispy Greek yogurt crust. Only 630 calori
 - Feel free to add your own toppings — peppers, onions, or turkey pepperoni work great
 
 ## Tags
-`#vegetarian` `#high-protein` `#air-fryer` `#pizza` `#quick` `#low-fat`
+`#vegetarian` `#high-protein` `#air-fryer` `#pizza` `#quick` `#low-fat` `#new`

@@ -59,7 +59,7 @@ function parseServings(metaLine) {
 
 function parseIngredients(content) {
   const ingredients = [];
-  const ingSection = content.match(/## Ingredients\s*\n([\s\S]*?)(?=\n## )/);
+  const ingSection = content.match(/## Ingredients\s*\n([\s\S]*?)(?=\n## |$)/);
   if (!ingSection) return ingredients;
 
   const lines = ingSection[1].split('\n');
@@ -120,7 +120,7 @@ function parseIngredientLine(text) {
       quantity = q;
       unit = (m[10] || '').toLowerCase();
       name = m[11] || text;
-      if (!name.trim()) name = unit; // e.g. "2 Brioche buns"
+      if (!name.trim()) name = unit;
     }
   }
 
@@ -153,14 +153,14 @@ function parseRecipe(filePath, category) {
   const servings = parseServings(metaLine);
 
   // Description
-  const descMatch = content.match(/## Description\s*\n([\s\S]*?)(?=\n## )/);
+  const descMatch = content.match(/## Description\s*\n([\s\S]*?)(?=\n## |$)/);
   const description = descMatch ? descMatch[1].trim().split('\n')[0] : '';
 
   // Ingredients
   const ingredients = parseIngredients(content);
 
   // Instructions
-  const instrSection = content.match(/## Instructions\s*\n([\s\S]*?)(?=\n## )/);
+  const instrSection = content.match(/## Instructions\s*\n([\s\S]*?)(?=\n## |$)/);
   const instructions = [];
   if (instrSection) {
     const lines = instrSection[1].split('\n');
@@ -172,8 +172,9 @@ function parseRecipe(filePath, category) {
     }
   }
 
-  // Tags
+  // Tags — #new marks a recipe as new; strip it from visible tags
   const tags = parseTags(content);
+  const isNew = tags.includes('new');
 
   // Nutrition
   const nutrition = NUTRITION[slug] || { calories: 0, protein: 0, carbs: 0, fat: 0 };
@@ -187,7 +188,8 @@ function parseRecipe(filePath, category) {
     meta: metaLine.replace(/\*\*/g, ''),
     ingredients,
     instructions,
-    tags,
+    tags: tags.filter(t => t !== 'new'),
+    isNew,
     nutrition,
   };
 }

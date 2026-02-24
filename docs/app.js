@@ -7,12 +7,6 @@ const CATEGORY_LABELS = {
   vegetarian: 'Vegetarian', breakfast: 'Breakfast', desserts: 'Desserts', appetizers: 'Appetizers'
 };
 
-// Recipes to display with a "New" badge
-const NEW_RECIPES = new Set([
-  'chicken-taco-bowl', 'beef-taco-bowl', 'teriyaki-beef',
-  'protein-pizza', 'braised-beef-noodle-soup'
-]);
-
 // DOM elements
 const grid = document.getElementById('recipe-grid');
 const detail = document.getElementById('recipe-detail');
@@ -21,13 +15,29 @@ const shoppingPanel = document.getElementById('shopping-panel');
 const shoppingToggle = document.getElementById('shopping-toggle');
 const shoppingCount = document.getElementById('shopping-count');
 
+// Escape user-facing strings before injecting into innerHTML
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 // Load recipes
 fetch('recipes.json')
-  .then(r => r.json())
+  .then(r => {
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    return r.json();
+  })
   .then(data => {
     recipes = data;
     buildCategoryNav();
     renderGrid('all');
+  })
+  .catch(err => {
+    grid.innerHTML = '<p style="padding:2rem;color:#c00">Failed to load recipes. Please refresh the page.</p>';
+    console.error('Failed to load recipes:', err);
   });
 
 function buildCategoryNav() {
@@ -37,18 +47,28 @@ function buildCategoryNav() {
     btn.className = 'cat-btn';
     btn.dataset.cat = cat;
     btn.textContent = CATEGORY_LABELS[cat] || cat;
+    btn.setAttribute('aria-pressed', 'false');
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.cat-btn').forEach(b => {
+        b.classList.remove('active');
+        b.setAttribute('aria-pressed', 'false');
+      });
       btn.classList.add('active');
+      btn.setAttribute('aria-pressed', 'true');
       renderGrid(cat);
     });
     nav.appendChild(btn);
   });
 
   // "All" button handler
-  nav.querySelector('[data-cat="all"]').addEventListener('click', () => {
-    document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-    nav.querySelector('[data-cat="all"]').classList.add('active');
+  const allBtn = nav.querySelector('[data-cat="all"]');
+  allBtn.addEventListener('click', () => {
+    document.querySelectorAll('.cat-btn').forEach(b => {
+      b.classList.remove('active');
+      b.setAttribute('aria-pressed', 'false');
+    });
+    allBtn.classList.add('active');
+    allBtn.setAttribute('aria-pressed', 'true');
     renderGrid('all');
   });
 }
@@ -60,19 +80,29 @@ function renderGrid(category) {
   filtered.forEach(recipe => {
     const card = document.createElement('div');
     card.className = 'recipe-card';
-    const tagsHtml = recipe.tags.slice(0, 4).map(t => `<span class="tag">${t}</span>`).join('');
+    card.setAttribute('role', 'button');
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('aria-label', recipe.title);
+    const tagsHtml = recipe.tags.slice(0, 4).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('');
     const n = recipe.nutrition;
-    const newBadge = NEW_RECIPES.has(recipe.slug) ? '<span class="new-badge">New</span>' : '';
+    const newBadge = recipe.isNew ? '<span class="new-badge">New</span>' : '';
+    const catLabel = CATEGORY_LABELS[recipe.category] || escapeHtml(recipe.category);
     card.innerHTML = `
-      <span class="cat-label">${CATEGORY_LABELS[recipe.category] || recipe.category}</span>
+      <span class="cat-label">${catLabel}</span>
       ${newBadge}
-      <h3>${recipe.title}</h3>
-      <div class="meta">${recipe.meta}</div>
-      <div class="desc">${recipe.description}</div>
+      <h3>${escapeHtml(recipe.title)}</h3>
+      <div class="meta">${escapeHtml(recipe.meta)}</div>
+      <div class="desc">${escapeHtml(recipe.description)}</div>
       <div class="nut-mini">${n.calories} cal | ${n.protein}g protein | ${n.carbs}g carbs | ${n.fat}g fat</div>
       <div class="tags">${tagsHtml}</div>
     `;
     card.addEventListener('click', () => showRecipe(recipe));
+    card.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        showRecipe(recipe);
+      }
+    });
     grid.appendChild(card);
   });
 }
@@ -90,7 +120,7 @@ function showRecipe(recipe) {
   document.getElementById('original-servings').textContent = `(original: ${recipe.servings})`;
 
   renderIngredients(recipe, recipe.servings);
-  renderNutrition(recipe, recipe.servings);
+  renderNutrition(recipe);
   renderInstructions(recipe);
 }
 
@@ -110,7 +140,7 @@ function renderIngredients(recipe, newServings) {
       // Convert to higher unit if appropriate
       const converted = convertToHigherUnit(scaled, ing.unit);
       const display = formatQuantity(converted.quantity);
-      li.innerHTML = `<span class="qty">${display}</span> ${converted.unit} ${ing.name}`;
+      li.innerHTML = `<span class="qty">${display}</span> ${escapeHtml(converted.unit)} ${escapeHtml(ing.name)}`;
     } else {
       li.textContent = ing.original;
     }
@@ -118,10 +148,7 @@ function renderIngredients(recipe, newServings) {
   });
 }
 
-function renderNutrition(recipe, newServings) {
-  const ratio = newServings / recipe.servings;
-  // Nutrition stays per-serving (doesn't scale with servings)
-  // But if user changes servings we show total option
+function renderNutrition(recipe) {
   const n = recipe.nutrition;
   document.getElementById('nut-cal').textContent = n.calories;
   document.getElementById('nut-pro').textContent = n.protein + 'g';
@@ -157,7 +184,7 @@ function formatQuantity(n) {
       const diff = Math.abs(frac - val);
       if (diff < minDiff) { minDiff = diff; closest = str; }
     }
-    fracStr = minDiff < 0.08 ? closest : frac.toFixed(1).replace('0.', '.');
+    fracStr = minDiff < 0.08 ? closest : '';
   }
 
   if (whole === 0) return fracStr || n.toFixed(1);
@@ -171,11 +198,6 @@ function isEgg(name) {
 
 // Unit conversion: promote to higher units when appropriate
 // Conversion chain: teaspoon -> tablespoon -> cup
-const UNIT_CONVERSIONS = [
-  { from: ['teaspoon', 'teaspoons', 'tsp'], to: 'tablespoon', factor: 3 },
-  { from: ['tablespoon', 'tablespoons', 'tbsp'], to: 'cup', factor: 16 },
-];
-
 function normalizeUnit(unit) {
   const u = unit.toLowerCase().trim();
   if (['teaspoon', 'teaspoons', 'tsp'].includes(u)) return 'tsp';
@@ -190,7 +212,6 @@ function convertToHigherUnit(quantity, unit) {
   // tsp -> tbsp (3 tsp = 1 tbsp)
   if (norm === 'tsp' && quantity >= 3) {
     const inTbsp = quantity / 3;
-    // If it converts cleanly (within tolerance), promote
     if (Math.abs(inTbsp - Math.round(inTbsp * 4) / 4) < 0.05) {
       return convertToHigherUnit(inTbsp, 'tablespoon');
     }
@@ -215,7 +236,7 @@ document.getElementById('servings-input').addEventListener('change', (e) => {
   e.target.value = val;
   if (currentRecipe) {
     renderIngredients(currentRecipe, val);
-    renderNutrition(currentRecipe, val);
+    renderNutrition(currentRecipe);
   }
 });
 
@@ -225,7 +246,7 @@ function adjustServings(delta) {
   input.value = val;
   if (currentRecipe) {
     renderIngredients(currentRecipe, val);
-    renderNutrition(currentRecipe, val);
+    renderNutrition(currentRecipe);
   }
 }
 
@@ -277,11 +298,16 @@ document.getElementById('copy-list-btn').addEventListener('click', () => {
   }).join('\n');
 
   const header = 'Shopping List\n' + shoppingList.map(s => `- ${s.recipe.title} (${s.servings} servings)`).join('\n') + '\n\n';
-  navigator.clipboard.writeText(header + text).then(() => {
-    const btn = document.getElementById('copy-list-btn');
-    btn.textContent = 'Copied!';
-    setTimeout(() => { btn.textContent = 'Copy'; }, 1500);
-  });
+  const btn = document.getElementById('copy-list-btn');
+  navigator.clipboard.writeText(header + text)
+    .then(() => {
+      btn.textContent = 'Copied!';
+      setTimeout(() => { btn.textContent = 'Copy'; }, 1500);
+    })
+    .catch(() => {
+      btn.textContent = 'Failed';
+      setTimeout(() => { btn.textContent = 'Copy'; }, 1500);
+    });
 });
 
 function renderShoppingList() {
@@ -290,7 +316,7 @@ function renderShoppingList() {
   shoppingList.forEach((item, idx) => {
     const div = document.createElement('div');
     div.className = 'shop-recipe';
-    div.innerHTML = `<span>${item.recipe.title} (${item.servings} servings)</span>
+    div.innerHTML = `<span>${escapeHtml(item.recipe.title)} (${item.servings} servings)</span>
       <button class="remove-btn" data-idx="${idx}">Remove</button>`;
     recipesDiv.appendChild(div);
   });
@@ -310,7 +336,7 @@ function renderShoppingList() {
     const li = document.createElement('li');
     if (item.quantity) {
       const converted = convertToHigherUnit(item.quantity, item.unit);
-      li.innerHTML = `<span class="qty">${formatQuantity(converted.quantity)}</span> ${converted.unit} ${item.name}`;
+      li.innerHTML = `<span class="qty">${formatQuantity(converted.quantity)}</span> ${escapeHtml(converted.unit)} ${escapeHtml(item.name)}`;
     } else {
       li.textContent = item.name;
     }
