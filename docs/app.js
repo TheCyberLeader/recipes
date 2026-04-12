@@ -36,7 +36,7 @@ fetch('recipes.json')
     renderGrid('all');
   })
   .catch(err => {
-    grid.innerHTML = '<p style="padding:2rem;color:#c00">Failed to load recipes. Please refresh the page.</p>';
+    grid.innerHTML = '<p class="error-msg">Failed to load recipes. Please refresh the page.</p>';
     console.error('Failed to load recipes:', err);
   });
 
