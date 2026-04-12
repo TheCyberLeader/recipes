@@ -124,6 +124,119 @@
     }
   },
   {
+    "slug": "chicken-marsala",
+    "title": "Chicken Marsala",
+    "category": "chicken",
+    "servings": 6,
+    "description": "A classic Italian-American dish with tender chicken in a rich, savory Marsala wine and mushroom sauce.",
+    "meta": "Serves: 6 | Prep Time: 15 min | Cook Time: 35 min",
+    "ingredients": [
+      {
+        "quantity": 6,
+        "unit": "",
+        "name": "thin boneless skinless chicken breasts",
+        "original": "6 thin boneless skinless chicken breasts"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "original": "1/2 cup all-purpose flour"
+      },
+      {
+        "quantity": 1,
+        "unit": "teaspoon",
+        "name": "salt",
+        "original": "1 teaspoon salt"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "original": "1/2 teaspoon black pepper"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "teaspoon",
+        "name": "garlic powder",
+        "original": "1/2 teaspoon garlic powder"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "olive oil",
+        "original": "3 tablespoons olive oil"
+      },
+      {
+        "quantity": 6,
+        "unit": "tablespoons",
+        "name": "unsalted butter",
+        "original": "6 tablespoons unsalted butter"
+      },
+      {
+        "quantity": 450,
+        "unit": "",
+        "name": "grams cremini or button mushrooms, sliced",
+        "original": "450 grams cremini or button mushrooms, sliced"
+      },
+      {
+        "quantity": 4,
+        "unit": "",
+        "name": "garlic cloves, minced",
+        "original": "4 garlic cloves, minced"
+      },
+      {
+        "quantity": 1,
+        "unit": "cup",
+        "name": "dry Marsala wine",
+        "original": "1 cup dry Marsala wine"
+      },
+      {
+        "quantity": 0.75,
+        "unit": "cup",
+        "name": "chicken broth",
+        "original": "3/4 cup chicken broth"
+      },
+      {
+        "quantity": 0.3333333333333333,
+        "unit": "cup",
+        "name": "heavy cream",
+        "original": "1/3 cup heavy cream"
+      },
+      {
+        "quantity": 3,
+        "unit": "tablespoons",
+        "name": "fresh parsley, chopped",
+        "original": "3 tablespoons fresh parsley, chopped"
+      }
+    ],
+    "instructions": [
+      "Place the chicken breasts between two sheets of plastic wrap and pound to about ¼-inch thickness. Even though the breasts are already thin, pounding ensures uniform thickness for even cooking and a more tender result.",
+      "Mix the flour, salt, black pepper, and garlic powder in a shallow dish. Dredge each chicken breast in the seasoned flour, shaking off any excess.",
+      "Heat the olive oil and 3 tablespoons of the butter in a large skillet over medium-high heat. Sear the chicken in batches, 3–4 minutes per side, until golden brown. Transfer to a plate and set aside.",
+      "In the same skillet, add the remaining 3 tablespoons of butter and sauté the mushrooms over medium-high heat for 4–5 minutes until browned and tender. Add the minced garlic and cook for 1 more minute.",
+      "Pour in the Marsala wine and scrape up any browned bits from the bottom of the pan. Let it simmer for 2–3 minutes to reduce slightly.",
+      "Add the chicken broth and heavy cream to the skillet. Stir to combine and bring to a gentle simmer.",
+      "Return the chicken to the skillet. Simmer for 5–6 minutes until the chicken is cooked through (165°F internal temp) and the sauce has thickened. Taste and adjust seasoning. Garnish with fresh parsley and serve immediately over pasta, mashed potatoes, or rice."
+    ],
+    "tags": [
+      "chicken",
+      "italian-american",
+      "pan-seared",
+      "mushrooms",
+      "wine-sauce",
+      "high-protein",
+      "dinner"
+    ],
+    "isNew": false,
+    "nutrition": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    }
+  },
+  {
     "slug": "chicken-rice-platter",
     "title": "Chicken Rice Platter",
     "category": "chicken",
