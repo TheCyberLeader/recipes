@@ -21,6 +21,7 @@ A curated collection of tried and true favorite recipes, organized and formatted
 - [Chicken Cilantro Wonton Soup](chicken/chicken-wonton-soup.md)
 - [Soba Noodles with Chicken](chicken/soba-noodles-chicken.md)
 - [Mediterranean Chicken Orzo](chicken/mediterranean-chicken-orzo.md)
+- [Chicken Marsala](chicken/chicken-marsala.md)
 
 ### 🥩 Beef
 - [Beef Taco Bowl Meal Prep](beef/beef-taco-bowl.md)
