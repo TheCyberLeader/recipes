@@ -285,3 +285,5 @@ header h1 { font-size: 1.8rem; }
 #shopping-items .qty { font-weight: 600; }
 
 .hidden { display: none !important; }
+
+.error-msg { padding: 2rem; color: #c00; }
