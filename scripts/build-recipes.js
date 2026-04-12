@@ -12,6 +12,7 @@ const NUTRITION = {
   'grilled-herb-chicken': { calories: 320, protein: 42, carbs: 1, fat: 15 },
   'lemony-chicken-meatballs': { calories: 280, protein: 30, carbs: 12, fat: 12 },
   'chicken-kabobs': { calories: 290, protein: 35, carbs: 8, fat: 13 },
+  'chicken-marsala': { calories: 494, protein: 37, carbs: 13, fat: 27 },
   'chicken-shawarma-salad': { calories: 350, protein: 34, carbs: 15, fat: 18 },
   'chicken-udon': { calories: 420, protein: 32, carbs: 48, fat: 10 },
   'chicken-wonton-soup': { calories: 310, protein: 28, carbs: 30, fat: 8 },
