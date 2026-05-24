@@ -54,4 +54,4 @@ Thin, charred skirt steak marinated in citrus, garlic, and Mexican spices. Perfe
 - Flank steak is a good substitute if you can't find skirt steak
 
 ## Tags
-`#beef` `#mexican` `#grilled` `#carne-asada` `#steak` `#tacos` `#high-protein` `#dinner`
+`#beef` `#mexican` `#grilled` `#carne-asada` `#steak` `#tacos` `#high-protein` `#dinner` `#new`

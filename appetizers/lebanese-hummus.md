@@ -37,4 +37,4 @@ Ultra-smooth, creamy Lebanese-style hummus made from scratch with chickpeas, tah
 - Store covered in the fridge for up to 5 days; bring to room temp before serving
 
 ## Tags
-`#lebanese` `#middle-eastern` `#appetizer` `#dip` `#vegetarian` `#vegan` `#chickpeas`
+`#lebanese` `#middle-eastern` `#appetizer` `#dip` `#vegetarian` `#vegan` `#chickpeas` `#new`

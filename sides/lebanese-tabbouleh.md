@@ -38,4 +38,4 @@ A bright, fresh Lebanese salad dominated by curly parsley, mint, tomatoes, and f
 - Best eaten fresh the same day; it gets watery if stored too long
 
 ## Tags
-`#lebanese` `#middle-eastern` `#salad` `#vegetarian` `#vegan` `#fresh` `#side-dish`
+`#lebanese` `#middle-eastern` `#salad` `#vegetarian` `#vegan` `#fresh` `#side-dish` `#new`

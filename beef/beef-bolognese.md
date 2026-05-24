@@ -53,4 +53,4 @@ A rich, slow-simmered Italian meat sauce with ground beef, soffritto, tomatoes, 
 - Bolognese freezes beautifully; make a double batch and freeze in portions
 
 ## Tags
-`#beef` `#italian` `#pasta` `#bolognese` `#comfort-food` `#meal-prep` `#dinner`
+`#beef` `#italian` `#pasta` `#bolognese` `#comfort-food` `#meal-prep` `#dinner` `#new`

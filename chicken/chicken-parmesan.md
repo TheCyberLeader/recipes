@@ -44,4 +44,4 @@ Crispy breaded chicken cutlets topped with marinara sauce and melted mozzarella 
 - For extra crunch, use panko breadcrumbs instead of Italian breadcrumbs
 
 ## Tags
-`#chicken` `#italian-american` `#comfort-food` `#baked` `#crispy` `#cheese` `#dinner`
+`#chicken` `#italian-american` `#comfort-food` `#baked` `#crispy` `#cheese` `#dinner` `#new`
