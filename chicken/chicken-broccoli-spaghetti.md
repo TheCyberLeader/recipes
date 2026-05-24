@@ -45,4 +45,4 @@ Tender chicken and broccoli tossed with spaghetti in a light garlic-olive oil sa
 - Aglio e olio technique: the butter, pasta water, and cheese emulsify into a silky sauce
 
 ## Tags
-`#chicken` `#pasta` `#italian` `#garlic` `#broccoli` `#quick` `#high-protein` `#dinner`
+`#chicken` `#pasta` `#italian` `#garlic` `#broccoli` `#quick` `#high-protein` `#dinner` `#new`

@@ -50,4 +50,4 @@ Juicy, caramelized teriyaki pork tenderloin served over lo mein noodles with gar
 - Swap broccoli for snap peas or bok choy if preferred
 
 ## Tags
-`#pork` `#teriyaki` `#asian` `#noodles` `#broccoli` `#high-protein` `#dinner`
+`#pork` `#teriyaki` `#asian` `#noodles` `#broccoli` `#high-protein` `#dinner` `#new`

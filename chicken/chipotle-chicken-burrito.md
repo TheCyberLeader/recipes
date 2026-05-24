@@ -57,4 +57,4 @@ Smoky chipotle-marinated chicken with cilantro-lime rice, black beans, pico de g
 - Freeze assembled burritos (without sour cream and guac) wrapped in foil for easy meal prep
 
 ## Tags
-`#chicken` `#mexican` `#burrito` `#chipotle` `#meal-prep` `#high-protein` `#dinner`
+`#chicken` `#mexican` `#burrito` `#chipotle` `#meal-prep` `#high-protein` `#dinner` `#new`

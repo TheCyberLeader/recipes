@@ -105,7 +105,7 @@
       "high-protein",
       "dinner"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 460,
       "protein": 38,
@@ -449,7 +449,7 @@
       "cheese",
       "dinner"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 480,
       "protein": 42,
@@ -1034,7 +1034,7 @@
       "quick",
       "customizable"
     ],
-    "isNew": true,
+    "isNew": false,
     "nutrition": {
       "calories": 480,
       "protein": 36,
@@ -1392,7 +1392,7 @@
       "high-protein",
       "dinner"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 550,
       "protein": 40,
@@ -2451,7 +2451,7 @@
       "meal-prep",
       "dinner"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 480,
       "protein": 30,
@@ -2581,7 +2581,7 @@
       "high-protein",
       "dinner"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 320,
       "protein": 30,
@@ -2754,7 +2754,7 @@
       "quick",
       "batch-cook"
     ],
-    "isNew": true,
+    "isNew": false,
     "nutrition": {
       "calories": 510,
       "protein": 34,
@@ -2969,7 +2969,7 @@
       "pressure-cooker",
       "comfort-food"
     ],
-    "isNew": true,
+    "isNew": false,
     "nutrition": {
       "calories": 420,
       "protein": 32,
@@ -3125,7 +3125,7 @@
       "high-protein",
       "dinner"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 380,
       "protein": 34,
@@ -3827,7 +3827,7 @@
       "stir-fry",
       "meal-prep"
     ],
-    "isNew": true,
+    "isNew": false,
     "nutrition": {
       "calories": 400,
       "protein": 34,
@@ -3947,7 +3947,7 @@
       "high-protein",
       "dinner"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 420,
       "protein": 38,
@@ -4638,7 +4638,7 @@
       "fresh",
       "side-dish"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 150,
       "protein": 4,
@@ -5211,7 +5211,7 @@
       "quick",
       "low-fat"
     ],
-    "isNew": true,
+    "isNew": false,
     "nutrition": {
       "calories": 630,
       "protein": 61,
@@ -6068,7 +6068,7 @@
       "vegan",
       "chickpeas"
     ],
-    "isNew": false,
+    "isNew": true,
     "nutrition": {
       "calories": 180,
       "protein": 6,

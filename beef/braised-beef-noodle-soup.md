@@ -81,4 +81,4 @@ A rich and aromatic Chinese-style braised beef noodle soup with tender chuck roa
 - The broth freezes well for up to 3 months
 
 ## Tags
-`#beef` `#soup` `#noodles` `#chinese` `#braised` `#pressure-cooker` `#comfort-food` `#new`
+`#beef` `#soup` `#noodles` `#chinese` `#braised` `#pressure-cooker` `#comfort-food`

@@ -46,4 +46,4 @@ Juicy, smoky beef skewers marinated in a blend of Middle Eastern spices, grilled
 - Serve with garlic sauce (toum) or tzatziki on the side
 
 ## Tags
-`#beef` `#grilled` `#middle-eastern` `#lebanese` `#skewers` `#high-protein` `#dinner`
+`#beef` `#grilled` `#middle-eastern` `#lebanese` `#skewers` `#high-protein` `#dinner` `#new`
