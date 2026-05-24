@@ -4,7 +4,7 @@ const path = require('path');
 const RECIPE_DIR = path.join(__dirname, '..');
 const OUTPUT = path.join(__dirname, '..', 'docs', 'recipes.json');
 
-const CATEGORIES = ['chicken', 'beef', 'seafood', 'sides', 'vegetarian', 'breakfast', 'desserts', 'appetizers'];
+const CATEGORIES = ['chicken', 'beef', 'pork', 'seafood', 'sides', 'vegetarian', 'breakfast', 'desserts', 'appetizers'];
 
 // Hardcoded nutrition estimates per recipe (per original serving)
 // Values: { calories, protein (g), carbs (g), fat (g) }
@@ -51,6 +51,15 @@ const NUTRITION = {
   'teriyaki-beef': { calories: 400, protein: 34, carbs: 30, fat: 14 },
   'protein-pizza': { calories: 630, protein: 61, carbs: 80, fat: 5 },
   'braised-beef-noodle-soup': { calories: 420, protein: 32, carbs: 38, fat: 16 },
+  'beef-shish-kabob': { calories: 320, protein: 30, carbs: 12, fat: 18 },
+  'beef-bolognese': { calories: 480, protein: 30, carbs: 50, fat: 18 },
+  'carne-asada': { calories: 380, protein: 34, carbs: 8, fat: 22 },
+  'chicken-parmesan': { calories: 480, protein: 42, carbs: 28, fat: 20 },
+  'chipotle-chicken-burrito': { calories: 550, protein: 40, carbs: 58, fat: 16 },
+  'chicken-broccoli-spaghetti': { calories: 460, protein: 38, carbs: 48, fat: 12 },
+  'teriyaki-pork-tenderloin': { calories: 420, protein: 38, carbs: 35, fat: 12 },
+  'lebanese-tabbouleh': { calories: 150, protein: 4, carbs: 22, fat: 6 },
+  'lebanese-hummus': { calories: 180, protein: 6, carbs: 18, fat: 10 },
 };
 
 function parseServings(metaLine) {
