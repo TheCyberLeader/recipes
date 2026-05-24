@@ -3,7 +3,7 @@ let currentRecipe = null;
 let shoppingList = []; // array of { recipe, servings }
 
 const CATEGORY_LABELS = {
-  chicken: 'Chicken', beef: 'Beef', seafood: 'Seafood', sides: 'Sides',
+  chicken: 'Chicken', beef: 'Beef', pork: 'Pork', seafood: 'Seafood', sides: 'Sides',
   vegetarian: 'Vegetarian', breakfast: 'Breakfast', desserts: 'Desserts', appetizers: 'Appetizers'
 };
 
