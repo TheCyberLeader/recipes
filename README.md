@@ -22,6 +22,9 @@ A curated collection of tried and true favorite recipes, organized and formatted
 - [Soba Noodles with Chicken](chicken/soba-noodles-chicken.md)
 - [Mediterranean Chicken Orzo](chicken/mediterranean-chicken-orzo.md)
 - [Chicken Marsala](chicken/chicken-marsala.md)
+- [Chicken Parmesan](chicken/chicken-parmesan.md)
+- [Chipotle Chicken Burrito](chicken/chipotle-chicken-burrito.md)
+- [Chicken Broccoli and Garlic Spaghetti](chicken/chicken-broccoli-spaghetti.md)
 
 ### 🥩 Beef
 - [Beef Taco Bowl Meal Prep](beef/beef-taco-bowl.md)
@@ -33,6 +36,12 @@ A curated collection of tried and true favorite recipes, organized and formatted
 - [Double Beef Chili](beef/double-beef-chili.md)
 - [Homemade Smash Burger](beef/smash-burger.md)
 - [Braised Beef Noodle Soup with Baby Bok Choy](beef/braised-beef-noodle-soup.md)
+- [Beef Shish Kabob](beef/beef-shish-kabob.md)
+- [Beef Bolognese](beef/beef-bolognese.md)
+- [Carne Asada (Skirt Steak)](beef/carne-asada.md)
+
+### 🐷 Pork
+- [Teriyaki Pork Tenderloin with Broccoli and Noodles](pork/teriyaki-pork-tenderloin.md)
 
 ### 🦐 Seafood
 - [Shrimp Fried Rice](seafood/shrimp-fried-rice.md)
@@ -47,8 +56,12 @@ A curated collection of tried and true favorite recipes, organized and formatted
 - [Authentic Hawaiian Macaroni Salad](sides/hawaiian-mac-salad.md)
 - [Micro Chop Kale Salad](sides/micro-chop-kale-salad.md)
 - [Quinoa Tabbouleh](sides/quinoa-tabbouleh.md)
+- [Lebanese Tabbouleh Salad](sides/lebanese-tabbouleh.md)
 - [Adas Bil Hamod (Lebanese Lentil & Lemon Soup)](vegetarian/adas-bil-hamod.md)
 - [Protein Pizza](vegetarian/protein-pizza.md)
+
+### 🧆 Appetizers
+- [Lebanese Hummus](appetizers/lebanese-hummus.md)
 
 ### 🥞 Breakfast
 - [Good Old-Fashioned Pancakes](breakfast/pancakes.md)
@@ -65,11 +78,11 @@ A curated collection of tried and true favorite recipes, organized and formatted
 ## 🏷️ Search by Tag
 
 ### By Cuisine
-- **Middle Eastern/Lebanese**: Lebanese Chicken & Rice, Spinach Beef Rice, Chicken Shawarma, Quinoa Tabbouleh, Adas Bil Hamod, Assyrian Kebab
-- **Asian/Chinese**: Chicken Udon, Shrimp Fried Rice, Teriyaki Beef, Pad Thai, Soba Noodles, Chicken Wonton Soup, Braised Beef Noodle Soup
+- **Middle Eastern/Lebanese**: Lebanese Chicken & Rice, Spinach Beef Rice, Chicken Shawarma, Quinoa Tabbouleh, Lebanese Tabbouleh, Lebanese Hummus, Adas Bil Hamod, Assyrian Kebab, Beef Shish Kabob
+- **Asian/Chinese**: Chicken Udon, Shrimp Fried Rice, Teriyaki Beef, Teriyaki Pork Tenderloin, Pad Thai, Soba Noodles, Chicken Wonton Soup, Braised Beef Noodle Soup
 - **Mediterranean**: Mediterranean Chicken Orzo, Greek Salad, Shrimp Lemon Orecchiette
-- **Mexican/Tex-Mex**: Taco Bowls, Pollo Asado Burrito, Smash Burger
-- **Italian**: Lasagna, Meatballs, Ricotta Cookies
+- **Mexican/Tex-Mex**: Taco Bowls, Pollo Asado Burrito, Chipotle Chicken Burrito, Carne Asada, Smash Burger
+- **Italian**: Lasagna, Meatballs, Chicken Parmesan, Beef Bolognese, Chicken Broccoli Spaghetti, Ricotta Cookies, Chicken Marsala
 - **American**: Hawaiian Mac Salad, Buffalo Wings, Pancakes, French Toast
 
 ### By Cooking Method
